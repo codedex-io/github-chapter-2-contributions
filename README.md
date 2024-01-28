@@ -6,5 +6,5 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 ---
 
-Hi, my name is <pochi>! This was added on 27/01/2024 ✨
+Hi, my name is pochi! This was added on 27/01/2024 ✨
  
