@@ -1,4 +1,4 @@
-<p align=center>
+Hi! Ellie was here! 12/21/2023 <p align=center>
 <img width=500 src="https://github.com/codedex-io/GitHub-Chapter-2-Contributions/assets/65576812/cc021612-1fc0-4488-9928-6183f78f4e9b)" />
 </p>
 
@@ -6,4 +6,4 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 ---
 
-Hi! Ellie was here! 12/21/2023 🧸
+Hi, my name is Darwin! This was added on <15-02-2024>🧸
