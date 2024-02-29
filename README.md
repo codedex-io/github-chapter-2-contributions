@@ -6,4 +6,5 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 ---
 
-Hi! Ellie was here! 12/21/2023 🧸
+Hello, Sarah was here! Esto se ha añadido el <29-02-2024>, el día especial del bisiesto!! <🤫>
+
