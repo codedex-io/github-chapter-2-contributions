@@ -7,4 +7,5 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 ---
 
 Hi! Ellie was here! 12/21/2023 🧸
+
 Hi! My name is aqu4riu-S! This was added on 13/03/2024 😊
