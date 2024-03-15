@@ -7,3 +7,6 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 ---
 
 Hi! Ellie was here! 12/21/2023 🧸
+
+
+Hi! Thien was here ^_^! Mar 16th 2024
