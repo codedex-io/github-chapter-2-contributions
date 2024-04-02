@@ -1,0 +1,10 @@
+
+.trunk/actions
+.trunk/configs/.markdownlint.yaml
+.trunk/configs/.yamllint.yaml
+.trunk/logs
+.trunk/notifications
+.trunk/out
+.trunk/plugins/trunk
+.trunk/tools
+.trunk/trunk.yaml
