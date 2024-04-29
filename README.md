@@ -29,3 +29,5 @@ Hi, my name is Vivek! This was added on 27/02/2024 😊
 Hi, my name is Sebastian! This was added on 28/02/2024 🚴‍
 
 Hi, my name is Felipe! This was added on 28/02/2024 🐈
+
+Hi, my name is Nikhil! This was added on 01-03-2024 ✨
