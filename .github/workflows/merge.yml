@@ -1,0 +1,26 @@
+name: Check for Stopwords
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  check-stopwords:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run script to check for stopwords
+      run: python check_stopwords.py ${{ github.event.pull_request.number }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
