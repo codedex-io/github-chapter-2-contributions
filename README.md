@@ -137,3 +137,5 @@ Hi! Samuel was here! 06/04/2024 🤖
 Hi there, Paul is adding a contribution on 4/9/2024 😼
 
 Hi, my name is Renee! This was added on 07-04-2024 ☕
+
+Hi, my name is Berkay! This was added on 08.04.2024 ^-^
