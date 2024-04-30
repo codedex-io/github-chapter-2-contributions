@@ -117,3 +117,5 @@ Hi, my name is Musa! This was added on 19-03-2024 🧸
 Hi, my name is Lui! This was added on 119-03-2024 👻
 
 Hi, Kvrae sends you greetings! This was added on 23/03/2024. 👀
+
+Hi, my name is Fredrik! This was added on 24-03-2024 :) Swag :)
