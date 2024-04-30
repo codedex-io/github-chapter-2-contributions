@@ -143,3 +143,5 @@ Hi, my name is Berkay! This was added on 08.04.2024 ^-^
 Hi! James here! 09/04/2024 🙌 
 
 Hi! Raquel was here! 12/04/2024 🦖
+
+Hi! Elly was here! 12/04/2024 
