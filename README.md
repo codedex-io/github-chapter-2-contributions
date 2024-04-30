@@ -107,3 +107,5 @@ Hi, my name is Kevin! This was added on 06-03-2024 🐹
 Hi, my name is Eduardo! This was added on 17/03/2024 🥑
 
 Hi, my name is Artem! This was added on 18-03-2024 🦉
+
+Hi, my name is Osteduden! This was added on 18.03.2024 🦊
