@@ -123,3 +123,5 @@ Hi, my name is Fredrik! This was added on 24-03-2024 :) Swag :)
 Hi, my name is Iamrushabhshahh! This was added on 05-03-2024 ❤️
 
 Hi, my name is Lukas! This was added on <02-04-2024> :smile:
+
+Hi, my name is He-who-must-not-be-named! This was added on 28-03-2024 🪄 👑
