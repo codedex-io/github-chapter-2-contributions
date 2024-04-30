@@ -127,3 +127,5 @@ Hi, my name is Lukas! This was added on <02-04-2024> :smile:
 Hi, my name is He-who-must-not-be-named! This was added on 28-03-2024 🪄 👑
 
 Hi, my name is Andy! This was added on 29/03/2024 😎
+
+Hello! my name is Ulysse. This was added on 30/03/2024.
