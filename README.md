@@ -8,6 +8,8 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 Hi! Ellie was here! 12/21/2023 🧸
 
+Hi, my name is Jesús Adán! This was added on 02-03-2024 😎
+
 Hi, my name is Roland! This was added on 03.02.2024. 🎉
 
 Hi, my name is Jorge! This was added on 01/03/2024 👋🏻
