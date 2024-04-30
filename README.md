@@ -115,3 +115,5 @@ Hi, my name is Xilient! This was added on <19-03-2024> <:D>
 Hi, my name is Musa! This was added on 19-03-2024 🧸
 
 Hi, my name is Lui! This was added on 119-03-2024 👻
+
+Hi, Kvrae sends you greetings! This was added on 23/03/2024. 👀
