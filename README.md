@@ -6,6 +6,10 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 ---
 
+
+Hi, my name is Farman Arefin Tamim! This was added on 22 May 2024 😎
+
+
 Hi, my name is TheuZCoder! This was added on 07-05-2024 😃
 
 Hi! Ellie was here! 12/21/2023 🧸
