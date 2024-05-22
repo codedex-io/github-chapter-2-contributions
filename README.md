@@ -5,6 +5,7 @@
 Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your name, date, and emoji of choice, and create a pull request to show off your Git skills!
 
 ---
+Hi, my name is Varun Billuri! This was added on 22-05-2024 😶
 
 Hi, my name is TheuZCoder! This was added on 07-05-2024 😃
 
