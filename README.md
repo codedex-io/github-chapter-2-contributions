@@ -195,3 +195,5 @@ Hi, my name is Sarah! This was added on 5/13/2024 ✨
 Hi, my name is Eric! This was added on 15-05-2024 🇵🇹
 
 Hi my name is Nightyyy ! This was added on 15/05/2024 ☕
+
+Hi, my name is Trinity! This was added on 26-05-2024 👾
