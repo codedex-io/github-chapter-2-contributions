@@ -6,8 +6,6 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 ---
 
-Hi, my name is TheuZCoder! This was added on 07-05-2024 😃
-
 Hi! Ellie was here! 12/21/2023 🧸
 
 Hi! Sebastian here. This was added on 16 March 2024.
@@ -112,6 +110,8 @@ Hi, my name is Artem! This was added on 18-03-2024 🦉
 
 Hi, my name is Osteduden! This was added on 18.03.2024 🦊
 
+Hi, I (Vinay) was here too! 18-03-2024 🐒
+
 Hi, my name is Xilient! This was added on <19-03-2024> <:D>
 
 Hi, my name is Musa! This was added on 19-03-2024 🧸
@@ -172,17 +172,15 @@ Hi, my name is Edwin! This was added on 29/04/2024 🤖
 
 Hi, my name is Marios! This was added on 30-04-2024 🦝
 
-Hi, I (Vinay) was here too! 18-03-2024 🐒
-
 Hi,my name is elly , this was added on 01/05/2024 🐼
 
 Hi, my name is Deepistertalks! This was added on 05/05/2024  😊
 
 Hi, my name is R.Siranjevee! This was added on 05-05-2024 😎
 
-Hi, my name is Lenka! This was added on 09-05-2024 🐷
+Hi, my name is TheuZCoder! This was added on 07-05-2024 😃
 
-Hi, my name is Aman! This was added on 15-05-2024 🌹
+Hi, my name is Lenka! This was added on 09-05-2024 🐷
 
 Hi my name is Valentin ! This was added on 10/05/2024 🇫🇷
 
@@ -191,6 +189,8 @@ Hi, my name is Sílvio! This was added on 11-05-2024 ☕
 Hi, my name is lumoski! This was added on 13/05/2024 🍀
 
 Hi, my name is Sarah! This was added on 5/13/2024 ✨
+
+Hi, my name is Aman! This was added on 15-05-2024 🌹
 
 Hi, my name is Eric! This was added on 15-05-2024 🇵🇹
 
