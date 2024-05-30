@@ -196,6 +196,8 @@ Hi, my name is Eric! This was added on 15-05-2024 🇵🇹
 
 Hi my name is Nightyyy ! This was added on 15/05/2024 ☕
 
+Hi, my name is Catarina! This was added on 22/05/2024 👩‍💻
+
 Hi, my name is Varun Billuri! This was added on 22-05-2024 😶
 
 Hi, my name is aresmendi! This was added on 23-05-2024 🎸
