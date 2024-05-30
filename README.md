@@ -196,6 +196,8 @@ Hi, my name is Eric! This was added on 15-05-2024 🇵🇹
 
 Hi my name is Nightyyy ! This was added on 15/05/2024 ☕
 
+Hi, my name is Tux! This was added on 05-16-2024 🐧
+
 Hi my name is Bruce! This was added on 17/05/2024 🇦🇱
 
 Hi, my name is Smasheed! This was added on 17-05-2024 🥷🏽
