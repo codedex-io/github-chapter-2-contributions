@@ -235,3 +235,5 @@ Hi, my name is Divya! This was added on 2nd June, 2024. 🫧💗✨
 Hi, my name is Andres Hung! This was added on 05/06/2024 👀🦘
 
 Hi, my name is DellaG! This was added on 05/06/2024 👽
+
+Hi, my name is Isaiah a.k.a. BlueCollargiant! This was added on 06-06-2024 ✨
