@@ -232,4 +232,18 @@ Hi, my name is MR1! This was added on 30/05/2024 😎
 
 Hi, my name is Divya! This was added on 2nd June, 2024. 🫧💗✨
 
+Hi, my name is Andres Hung! This was added on 05/06/2024 👀🦘
+
+Hi, my name is DellaG! This was added on 05/06/2024 👽
+
+Hi, my name is Isaiah a.k.a. BlueCollargiant! This was added on 06-06-2024 ✨
+
+Hi, my name is Nami This was added on 6th of June  :)
+
+Hi, my name is haramana! This was added on 07-06-2024 🚀
+
+Hi, my name is Rohan! This was added on 07-06-2024 🤩😏
+
+Hi, my name is Tasneem! This was added on 7-06-2024🥳
+
 Hi, my name is Patchara! This was added on 7/6/2024 🤖
