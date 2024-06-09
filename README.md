@@ -239,3 +239,5 @@ Hi, my name is DellaG! This was added on 05/06/2024 👽
 Hi, my name is Isaiah a.k.a. BlueCollargiant! This was added on 06-06-2024 ✨
 
 Hi, my name is Nami This was added on 6th of June  :)
+
+Hi, my name is haramana! This was added on 07-06-2024 🚀
