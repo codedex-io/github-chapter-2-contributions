@@ -1,6 +1,0 @@
-Hi, my name is Trisheta! This was added on 11-06-2024 :)
-
-" I have created a txt file"
-python program to add 2 nos:
-int a=5,b=10
-print(a+b)
