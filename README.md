@@ -10,7 +10,7 @@ Hi! Ellie was here! 12/21/2023 🧸
 
 Hi! Sebastian here. This was added on 16 March 2024.
 
-Hi! Thien was here ^_^! Mar 16th 2024
+Hi! Thien was here ^\_^! Mar 16th 2024
 
 Hi, my name is David! This was added on 14-03-2024 🎉
 
@@ -36,7 +36,7 @@ Hi, my name is David! This was added on 03/07/2024 🧞‍♂️
 
 Greetings! I'm Monique and I love coding! 3/7/2024 👩🏻‍💻
 
-Hi, my name is DaPanda! This was added on 07/03/2024. 🐼 
+Hi, my name is DaPanda! This was added on 07/03/2024. 🐼
 
 Hi, my name is Sukkaaa! This was added on 07-03-2024 😸
 
@@ -142,11 +142,11 @@ Hi, my name is Renee! This was added on 07-04-2024 ☕
 
 Hi, my name is Berkay! This was added on 08.04.2024 ^-^
 
-Hi! James here! 09/04/2024 🙌 
+Hi! James here! 09/04/2024 🙌
 
 Hi! Raquel was here! 12/04/2024 🦖
 
-Hi! Elly was here! 12/04/2024 
+Hi! Elly was here! 12/04/2024
 
 Hi, my name is Abdullah Hamada! This was added on 15/4/2024 ⛓️
 
@@ -174,7 +174,7 @@ Hi, my name is Marios! This was added on 30-04-2024 🦝
 
 Hi,my name is elly , this was added on 01/05/2024 🐼
 
-Hi, my name is Deepistertalks! This was added on 05/05/2024  😊
+Hi, my name is Deepistertalks! This was added on 05/05/2024 😊
 
 Hi, my name is R.Siranjevee! This was added on 05-05-2024 😎
 
@@ -238,7 +238,7 @@ Hi, my name is DellaG! This was added on 05/06/2024 👽
 
 Hi, my name is Isaiah a.k.a. BlueCollargiant! This was added on 06-06-2024 ✨
 
-Hi, my name is Nami This was added on 6th of June  :)
+Hi, my name is Nami This was added on 6th of June :)
 
 Hi, my name is haramana! This was added on 07-06-2024 🚀
 
@@ -253,3 +253,5 @@ Hi, my name is Alfredo! This was added on 07-06-2024 😉
 Hi, my name is LimJimson! This was added on 9th of June, 2024. 🎸🎸🎸
 
 Hi, my name is David! This was added on 08/06/2024 🙈🙉🙊
+
+Hi, my name is Suchitra! This was added on 12-06-2024 ✨
