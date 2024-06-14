@@ -6,8 +6,6 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 ---
 
-Hi, my name is Sophia! This was added on 10-06-2024 🥳
-
 Hi! Ellie was here! 12/21/2023 🧸
 
 Hi! Sebastian here. This was added on 16 March 2024.
@@ -255,3 +253,5 @@ Hi, my name is Alfredo! This was added on 07-06-2024 😉
 Hi, my name is LimJimson! This was added on 9th of June, 2024. 🎸🎸🎸
 
 Hi, my name is David! This was added on 08/06/2024 🙈🙉🙊
+
+Hi, my name is Sophia! This was added on 10-06-2024 🥳
