@@ -256,6 +256,8 @@ Hi, my name is David! This was added on 08/06/2024 🙈🙉🙊
 
 Hi, my name is bytecodesky! This was added on 08-06-2024 💻
 
+Hi, my name is Sophia! This was added on 10-06-2024 🥳
+
 Hi, my name is Alia! This was added on 10-06-2024 🫐🫐🫐
 
 Hi, my name is Trisheta! This was added on 11-06-2024 :)
