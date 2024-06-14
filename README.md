@@ -254,4 +254,22 @@ Hi, my name is LimJimson! This was added on 9th of June, 2024. 🎸🎸🎸
 
 Hi, my name is David! This was added on 08/06/2024 🙈🙉🙊
 
+Hi, my name is Alia! This was added on 10-06-2024 🫐🫐🫐
+
+Hi, my name is Trisheta! This was added on 11-06-2024 :)
+
+Hi, my name is Estarth! This was added on 11/06/2024 XD
+
+Hi, my name is Thejuswini! This was added on 12/06/2024 💫
+
+Wassup, my name is Nam! This was added on 12-06-2024 🤩
+
 Hi, my name is Suchitra! This was added on 12-06-2024 ✨
+
+Hi, my name is Alex! This was added on 13-06-2024 ✨💩✨
+
+Hi, my name is Gikai! This was added on 6/13/2024 🎮🎮🎮
+
+Hi, my name is Zulfa! This was added on 14th of June, 2024. 🐈🦈
+
+Hi! Mini was here! 6/14/2024 👋
