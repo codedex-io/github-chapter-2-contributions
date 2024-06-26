@@ -286,6 +286,8 @@ Hey, Malia was here! This was added on 18-06-24 (´▽`ʃ♡ƪ) 💪
 
 Hi, my name is Ye Ye! This was added on 19-06-24 🥳🥳
 
+Hi, my name is Fluna! This was added on 21-06-24 🤓🤓
+
 Hello, my name is Sabrina! This was added on 22-06-2024 🤩🥳
 
 Hi, my name is Saad! This was added on 23-06-24 🤖 🎮
