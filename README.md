@@ -287,3 +287,9 @@ Hey, Malia was here! This was added on 18-06-24 (´▽`ʃ♡ƪ) 💪
 Hi, my name is Ye Ye! This was added on 19-06-24 🥳🥳
 
 Hi, my name is Saad! This was added on 23-06-24 🤖 🎮
+
+Hi, my name is Anuj! This was added on 25-06-24 🇮🇳🇮🇳
+
+Hi, Anubhav! was here! This was added on 25-06-2024 😎
+
+Hi, markoagnes was here! This was added on 25-06-2024 🌙
