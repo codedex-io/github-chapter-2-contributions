@@ -6,8 +6,6 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 ---
 
-Hi from Russia! Nikita was here! 29/06/2024! 
-
 Hi! Ellie was here! 12/21/2023 🧸
 
 Hi! Sebastian here. This was added on 16 March 2024.
@@ -301,3 +299,5 @@ Hi, Anubhav! was here! This was added on 25-06-2024 😎
 Hi, markoagnes was here! This was added on 25-06-2024 🌙
 
 Hi, Shahzeb Ali was here! on 06/26/2024 🥸🥰
+
+Hi from Russia! Nikita was here! 29/06/2024! 
