@@ -302,7 +302,7 @@ Hi, Shahzeb Ali was here! on 06/26/2024 🥸🥰
 
 Hi, my name is Marcellino Abdelmalak! This was added on 29-06-2024 (〃￣︶￣)人(￣︶￣〃)
 
-Hi from Russia! Nikita was here! 29/06/2024! 
+Hi from Russia! Nikita was here! 29/06/2024!
 
 Hi, my name is Lenny! This was added on 29-06-24 :)
 
@@ -311,3 +311,15 @@ Helloo! Brendon here. I added this on 06/29/2024 😁
 Hi, my name is Aaliyah! This was added on 30-06-2024 😊🌟💖
 
 Hola, mi nombre es Hossi! Esto fue agregado el 02-07-2024 👽🫂
+
+Hi, my name is Deeba Adithya! This was added on 03/07/2024 ✅
+
+Hi, my name is Anna! This was added on 03-07-2024 🛸
+
+Hello! My name is Preston, and this was added on 03-07-2024 😎💀🧑🏾‍💻
+
+Hi, my name is Betselot! This was added on 03-07-2024 🙏😊💭
+
+Hi, my name is Yusuf! This was added on 04-07-2024 🚀🚀
+
+Hi, my name is Sri Durgesh! This was added on 04-07-2024 ✨💖✨
