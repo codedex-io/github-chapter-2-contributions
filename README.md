@@ -310,6 +310,8 @@ Helloo! Brendon here. I added this on 06/29/2024 😁
 
 Hi, my name is Aaliyah! This was added on 30-06-2024 😊🌟💖
 
+Hey, Kshitij Akarsh was here on 01-06-2024. :)
+
 Hi, my name is Ryan! This was added on 07-01-2024 😉😉
 
 Hi, this is Rajeev Ranjan from India! This was added on 02-07-2024 ❤️.
