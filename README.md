@@ -6,7 +6,6 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 ---
 
-Hi, Milan here. This was added on 5 July 2024.🐼
 
 Hi! Ellie was here! 12/21/2023 🧸
 
@@ -331,3 +330,5 @@ Hi, my name is Betselot! This was added on 03-07-2024 🙏😊💭
 Hi, my name is Yusuf! This was added on 04-07-2024 🚀🚀
 
 Hi, my name is Sri Durgesh! This was added on 04-07-2024 ✨💖✨
+
+Hi, Milan here. This was added on 5 July 2024.🐼
