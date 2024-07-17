@@ -332,3 +332,18 @@ Hi, my name is Sri Durgesh! This was added on 04-07-2024 ✨💖✨
 
 Hi, my name is Rodney (@s0n0f4L1ch)! This was added on 07-07-2024 🚀
 
+Hi, my name is Mio! This was added on 07-07-2024 😊
+  
+Hi, my name is bharath_kalluru14! This was added on 07-072024 💚➡️❤️
+
+Hi, my name is Andrei! This was added on 08-07-2024 ❤️
+
+Hi, my name is Ketan Malempati! This was added on 09-07-2024 💪🔥
+
+Hi, my name is Sydney Vo! This was added on 7-10-2024 (at 4 in the morning 😴) 🌃💻✨
+
+Hi, my name is Damian Lousteau! This was added on 14-07-2024 😎💀🚀
+
+Hi, my name is 0xKonstantin This was added on 07-16-2024 ಠಿ_ಠ
+
+Hi from Brazil, my name is Carlos! This was added on 07-16-2024 🧊🏝🦊
