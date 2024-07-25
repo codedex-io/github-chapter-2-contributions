@@ -364,4 +364,6 @@ Hi, my name is 0xKonstantin This was added on 07-16-2024 ಠಿ_ಠ
 
 Hi from Brazil, my name is Carlos! This was added on 07-16-2024 🧊🏝🦊
 
+Hi, my name is ArnavK-09! This was added on 19-07-24 💀🔥🗣
+
 Hi, my name is Jade! This was added on 20-07-2024 🦘
