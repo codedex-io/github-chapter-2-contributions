@@ -6,6 +6,8 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 ---
 
+<!---  Be sure to add your contribution to the end of the file!   --->
+
 Hi! Ellie was here! 12/21/2023 🧸
 
 Hi! Sebastian here. This was added on 16 March 2024.
@@ -341,12 +343,12 @@ Hi, my name is Spencer! This was added on 05-07-2024 🐙
 Hi, my name is Rodney (@s0n0f4L1ch)! This was added on 07-07-2024 🚀
 
 Hi, my name is Mio! This was added on 07-07-2024 😊
-  
+
 Hi, my name is bharath_kalluru14! This was added on 07-072024 💚➡️❤️
 
 Hi, my name is Andrei! This was added on 08-07-2024 ❤️
 
-Hi! *Himanshu* here. This was added on 09-07-2024 😉
+Hi! _Himanshu_ here. This was added on 09-07-2024 😉
 
 Hi, my name is Ketan Malempati! This was added on 09-07-2024 💪🔥
 
@@ -363,3 +365,5 @@ Hi, my name is 0xKonstantin This was added on 07-16-2024 ಠಿ_ಠ
 Hi from Brazil, my name is Carlos! This was added on 07-16-2024 🧊🏝🦊
 
 Hi, my name is ArnavK-09! This was added on 19-07-24 💀🔥🗣
+
+Hi, my name is Jade! This was added on 20-07-2024 🦘
