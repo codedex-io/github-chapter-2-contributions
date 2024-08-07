@@ -7,6 +7,7 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 ---
 
 <!---  Be sure to add your contribution to the end of the file!   --->
+Hi, my name is Jairo Galvez! This was added on 07-08-2024  🎉
 
 Hi! Ellie was here! 12/21/2023 🧸
 
