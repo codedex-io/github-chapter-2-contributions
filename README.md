@@ -395,3 +395,5 @@ Hi, my name is Lean! This was added on 02-08-2024 👻
 Hi, my name is Shadow! This was added on 03-08-2024 👻
 
 Hi, my name is Shiro! This was added on 06-08-2024 😁
+
+Hi, my name is Sean! This was added on 08/07/2024! 
