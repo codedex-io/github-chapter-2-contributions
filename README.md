@@ -404,4 +404,6 @@ Hi, my name is Sean! This was added on 08/07/2024! 😎
 
 Hi, my name is Ilyan! This was added on 09-08-2024 🐰💅🏻💟
 
+Hi, my name is João Pedro! This was added on 09/08/2024 🎉
+
 Hi, my name is TheRealFredP3D! This was added on 10-08-2024> 😄🏆🍺
