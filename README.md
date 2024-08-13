@@ -396,4 +396,14 @@ Hi, my name is Shadow! This was added on 03-08-2024 👻
 
 Hi, my name is Shiro! This was added on 06-08-2024 😁
 
+Hi, my name is Melissa! This was added on 07-08-2024 ✨💻
+
+Hi, my name is Jairo Galvez! This was added on 07-08-2024  🎉
+
+Hi, my name is Sean! This was added on 08/07/2024! 😎
+
+Hi, my name is Ilyan! This was added on 09-08-2024 🐰💅🏻💟
+
 Hi, my name is João Pedro! This was added on 09/08/2024 🎉
+
+Hi, my name is TheRealFredP3D! This was added on 10-08-2024> 😄🏆🍺
