@@ -408,4 +408,6 @@ Hi, my name is João Pedro! This was added on 09/08/2024 🎉
 
 Hi, my name is TheRealFredP3D! This was added on 10-08-2024> 😄🏆🍺
 
+Hi, my name is AMINE! This was added on 15-08-2024 🇲🇦
+
 Hi, my name is Sarah! This was added on 8/15/2024 😁
