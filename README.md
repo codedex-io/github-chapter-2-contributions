@@ -8,6 +8,7 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 <!--  Ellie is the first entry -->
 <!--  Be sure to add your contribution to the bottom of the README file!  -->
+Hi, my name is Arjan! This was added on 21-8-2024 😄
 
 Hi! Ellie was here! 12/21/2023 🧸
 
