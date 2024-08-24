@@ -8,7 +8,6 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 <!--  Ellie is the first entry -->
 <!--  Be sure to add your contribution to the bottom of the README file!  -->
-
 Hi! Ellie was here! 12/21/2023 🧸
 
 Hi! Sebastian here. This was added on 16 March 2024.
@@ -375,7 +374,7 @@ Hi, my name is Chelle! This was added on 26-07-2024 ✨💗
 
 Hey! itati-ibm here! This was added on 26-07-2024 ✨🌸✨
 
-Hi, my name is Cesar Andrés! This was added on 26/07/2024. 😃⚽
+Hi, my name is Cesar Andrés! This was added on 26/07/2024. 😃⚽ 
 
 Hi, my name is Dani! This was added on 27/07/2024 😎
 
@@ -387,7 +386,7 @@ Hi, my name is Hanna! This was added on 7/30/2024!
 
 Hi, my name is Devesh, This is added on 30-07-2024 🕉️🕉️🕉️
 
-Hi, my name is Nick! This was added on 30-07-2024 👨 💻
+Hi, my name is Nick! This was added on 30-07-2024 👨 💻 
 
 Hi, my name is Cameron! This was added on 30-07-2024 🥶
 
@@ -399,7 +398,7 @@ Hi, my name is Shiro! This was added on 06-08-2024 😁
 
 Hi, my name is Melissa! This was added on 07-08-2024 ✨💻
 
-Hi, my name is Jairo Galvez! This was added on 07-08-2024 🎉
+Hi, my name is Jairo Galvez! This was added on 07-08-2024  🎉
 
 Hi, my name is Sean! This was added on 08/07/2024! 😎
 
@@ -409,8 +408,6 @@ Hi, my name is João Pedro! This was added on 09/08/2024 🎉
 
 Hi, my name is TheRealFredP3D! This was added on 10-08-2024> 😄🏆🍺
 
-Hi, my name is Stanco! This was added on 13-08-2024 👨‍💻
-
 Hi, my name is Henry! This was added on 13-08-2024 🖖🏼💻
 
 Hi, my name is Camilo Charry! This was added on 8-14-2024 🐉👨‍💻🚀
@@ -418,6 +415,8 @@ Hi, my name is Camilo Charry! This was added on 8-14-2024 🐉👨‍💻🚀
 Hi, my name is AMINE! This was added on 15-08-2024 🇲🇦
 
 Hi, my name is Sarah! This was added on 8/15/2024 😁
+
+Hi! Lalit was here! This was added on 19 August 2024. 🚀🧑‍💻
 
 Hi, My name is Boris! This was added on 8/20/2024 🍗
 
