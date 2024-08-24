@@ -9,8 +9,6 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 <!--  Ellie is the first entry -->
 <!--  Be sure to add your contribution to the bottom of the README file!  -->
 
-Hi Frank James. This was added August 14 2024
-
 Hi! Ellie was here! 12/21/2023 🧸
 
 Hi! Sebastian here. This was added on 16 March 2024.
@@ -410,3 +408,5 @@ Hi, my name is Ilyan! This was added on 09-08-2024 🐰💅🏻💟
 Hi, my name is João Pedro! This was added on 09/08/2024 🎉
 
 Hi, my name is TheRealFredP3D! This was added on 10-08-2024> 😄🏆🍺
+
+Hi Frank James. This was added August 14 2024 👋
