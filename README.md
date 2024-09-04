@@ -439,6 +439,6 @@ Hi, my name is Daniel! This was added on 28-08-2024 🦝
 
 Hi everyone, it's Jaskaran Singh! This was added on 29 August 2024 ✅
 
-Hi, my name is Arianna! This was added on 4-09-2024 💕✨
+Hi, my name is Arianna! This was added on 9/4/2024 💕✨
 
 
