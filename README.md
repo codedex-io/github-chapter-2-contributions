@@ -438,3 +438,5 @@ Hi, my name is Akhil! This was added on 24-08-2024 :)
 Hi, my name is Daniel! This was added on 28-08-2024 🦝
 
 Hi everyone, it's Jaskaran Singh! This was added on 29 August 2024 ✅
+
+Hi, my name is Ksusha! This was added on 6 september 2024 🧙‍♂️✨
