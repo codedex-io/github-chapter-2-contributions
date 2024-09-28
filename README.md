@@ -67,6 +67,8 @@ Hi, my name is Sameer Swain! This was added on 24/02/2024 🧸.
 
 Hi, my name is Nicolas! This was added on 24/02/2024 😼
 
+Hi,my name is Anjali! This was added on 28/09/2024 :)
+
 Hi, my name is Aitor! This was added on 26/02/2024 👽
 
 Hi, my name is Vivek! This was added on 27/02/2024 😊
