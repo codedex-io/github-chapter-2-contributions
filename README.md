@@ -470,3 +470,9 @@ Hi, my name is Anjali! This was added on 28/09/2024 :)
 Hi, my name is Pablo! This was added on 26-09-2024 🍅
 
 Hi, my name is Ngô Văn Toàn! This was added on 03-10-2024 😊
+
+Hi, my name is CaioDib! This was added on 04-10-2024 🦆
+
+Hi, my name is Andrew! This was added on 06-10-2024 🤨
+
+Hi, my name is Christopher! This was added on 06-10-2024 🦁
