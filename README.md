@@ -11,8 +11,6 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 Hi! Ellie was here! 12/21/2023 🧸
 
-HI! Jair Robles was Here🐨, 14th OCt 2024.
-
 Hi! Sebastian here. This was added on 16 March 2024.
 
 Hi! Thien was here ^\_^! Mar 16th 2024
@@ -490,3 +488,5 @@ Hi, my name is Romain! This was added on 08-10-2024 👺
 Hi, my name is Prem Sai! This was added on 09-10-2024 🥰
 
 Hi, my name is 294916437! This was added on 09-10-2024 🐳
+
+HI! Jair Robles was Here🐨, 14th Oct 2024.
