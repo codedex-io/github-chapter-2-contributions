@@ -359,7 +359,7 @@ Hi, my name is Sydney Vo! This was added on 7-10-2024 (at 4 in the morning 😴)
 
 Hi, my name is Damian Lousteau! This was added on 14-07-2024 😎💀🚀
 
-Hi, my name is Swapneil! This was added on 15-07-2024 
+Hi, my name is Swapneil! This was added on 15-07-2024 ❤️
 
 Hi, my name is 0xKonstantin This was added on 07-16-2024 ಠಿ_ಠ
 
