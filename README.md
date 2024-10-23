@@ -11,9 +11,9 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 Hi! Ellie was here! 12/21/2023 🧸
 
-Hi! Sebastian here. This was added on 16 March 2024.
+Hi! Sebastian here. This was added on 16 March 2024. 💛
 
-Hi! Thien was here ^\_^! Mar 16th 2024
+Hi! Thien was here! Mar 16th 2024 💖
 
 Hi, my name is David! This was added on 14-03-2024 🎉
 
@@ -61,7 +61,7 @@ Hi, my name is Vulpes! This was added on 24/01/2024 🦊
 
 Hi, my name is pochi! This was added on 27/01/2024 ✨
 
-Hi, Mirko was here! 20/02/2024
+Hi, Mirko was here! 20/02/2024  💛
 
 Hi, my name is Sameer Swain! This was added on 24/02/2024 🧸.
 
@@ -115,7 +115,7 @@ Hi, my name is Osteduden! This was added on 18.03.2024 🦊
 
 Hi, I (Vinay) was here too! 18-03-2024 🐒
 
-Hi, my name is Xilient! This was added on <19-03-2024> <:D>
+Hi, my name is Xilient! This was added on <19-03-2024> 😎
 
 Hi, my name is Musa! This was added on 19-03-2024 🧸
 
@@ -133,7 +133,7 @@ Hi, my name is He-who-must-not-be-named! This was added on 28-03-2024 🪄 👑
 
 Hi, my name is Andy! This was added on 29/03/2024 😎
 
-Hello! my name is Ulysse. This was added on 30/03/2024.
+Hello! my name is Ulysse. This was added on 30/03/2024. 💛
 
 Hi, my name is adam! This was added on 06-04-2024 🙌
 
@@ -149,7 +149,7 @@ Hi! James here! 09/04/2024 🙌
 
 Hi! Raquel was here! 12/04/2024 🦖
 
-Hi! Elly was here! 12/04/2024
+Hi! Elly was here! 12/04/2024  💛
 
 Hi, my name is Abdullah Hamada! This was added on 15/4/2024 ⛓️
 
@@ -205,7 +205,7 @@ Hi my name is Bruce! This was added on 17/05/2024 🇦🇱
 
 Hi, my name is Smasheed! This was added on 17-05-2024 🥷🏽
 
-Hi, my name is Kai Ze! This was added on 5/21/2024 🤖❤️
+Hi, my name is Kai Ze! This was added on 5/21/2024 🤖
 
 Hi, my name is Farman Arefin Tamim! This was added on 22 May 2024 😎
 
@@ -217,15 +217,15 @@ Hi, my name is aresmendi! This was added on 23-05-2024 🎸
 
 Hi, my name is Ali Sajad! This was added on 24/05/2024 ✨
 
-Hi my name is Kunal Parkhade (KP)! This was added on 24/05/2024 💛IN
+Hi my name is Kunal Parkhade (KP)! This was added on 24/05/2024 💛
 
 Hi, my name is Trinity! This was added on 26-05-2024 👾
 
 Hi, my name is Hannah! This was added on 5/27/2024 🦆
 
-Hi, my name is Sérgio! This was added on 30/05/2024 :)
+Hi, my name is Sérgio! This was added on 30/05/2024  :)
 
-hi, my name is rollexit! this was added on 24/05/2024
+hi, my name is rollexit! this was added on 24/05/2024  💛
 
 Hi, I'm Ewil ! Added on 29/05/2024 ✨
 
@@ -241,7 +241,7 @@ Hi, my name is DellaG! This was added on 05/06/2024 👽
 
 Hi, my name is Isaiah a.k.a. BlueCollargiant! This was added on 06-06-2024 ✨
 
-Hi, my name is Nami This was added on 6th of June :)
+Hi, my name is Nami This was added on 6th of June  💛
 
 Hi, my name is haramana! This was added on 07-06-2024 🚀
 
@@ -263,9 +263,9 @@ Hi, my name is Sophia! This was added on 10-06-2024 🥳
 
 Hi, my name is Alia! This was added on 10-06-2024 🫐🫐🫐
 
-Hi, my name is Trisheta! This was added on 11-06-2024 :)
+Hi, my name is Trisheta! This was added on 11-06-2024 ✅
 
-Hi, my name is Estarth! This was added on 11/06/2024 XD
+Hi, my name is Estarth! This was added on 11/06/2024 🍒
 
 Hi, my name is Thejuswini! This was added on 12/06/2024 💫
 
@@ -305,7 +305,7 @@ Hi, Shahzeb Ali was here! on 06/26/2024 🥸🥰
 
 Hi, my name is Marcellino Abdelmalak! This was added on 29-06-2024 (〃￣︶￣)人(￣︶￣〃)
 
-Hi from Russia! Nikita was here! 29/06/2024!
+Hi from Russia! Nikita was here! 29/06/2024! 😎
 
 Hi, my name is Lenny! This was added on 29-06-24 :)
 
@@ -501,7 +501,7 @@ Hi, my name is Nassim! This was added on 12-10-2024 👌🖥️
 
 Hi, my name is Shahriar! This was added on 13-10-2024 😁
 
-HI! Jair Robles was Here🐨, 14th Oct 2024.
+HI! Jair Robles was Here🐨, 14th Oct 2024.  💛
 
 Hi, my name is Alexander! This was added on 16-10-2024 🌹
 
