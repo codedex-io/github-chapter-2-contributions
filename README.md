@@ -123,9 +123,9 @@ Hi, my name is Lui! This was added on 119-03-2024 👻
 
 Hi, Kvrae sends you greetings! This was added on 23/03/2024. 👀
 
-Hi, my name is Fredrik! This was added on 24-03-2024 😎
+Hi, my name is Fredrik! This was added on 24-03-2024 :) Swag :)
 
-Hi, my name is Iamrushabhshahh! This was added on 05-03-2024  💛
+Hi, my name is Iamrushabhshahh! This was added on 05-03-2024 ❤️
 
 Hi, my name is Lukas! This was added on <02-04-2024> :smile:
 
@@ -143,7 +143,7 @@ Hi there, Paul is adding a contribution on 4/9/2024 😼
 
 Hi, my name is Renee! This was added on 07-04-2024 ☕
 
-Hi, my name is Berkay! This was added on 08.04.2024 🤗
+Hi, my name is Berkay! This was added on 08.04.2024 ^-^
 
 Hi! James here! 09/04/2024 🙌
 
@@ -223,7 +223,7 @@ Hi, my name is Trinity! This was added on 26-05-2024 👾
 
 Hi, my name is Hannah! This was added on 5/27/2024 🦆
 
-Hi, my name is Sérgio! This was added on 30/05/2024  💛
+Hi, my name is Sérgio! This was added on 30/05/2024  :)
 
 hi, my name is rollexit! this was added on 24/05/2024  💛
 
@@ -303,17 +303,17 @@ Hi, markoagnes was here! This was added on 25-06-2024 🌙
 
 Hi, Shahzeb Ali was here! on 06/26/2024 🥸🥰
 
-Hi, my name is Marcellino Abdelmalak! This was added on 29-06-2024 🌐
+Hi, my name is Marcellino Abdelmalak! This was added on 29-06-2024 (〃￣︶￣)人(￣︶￣〃)
 
 Hi from Russia! Nikita was here! 29/06/2024! 😎
 
-Hi, my name is Lenny! This was added on 29-06-24 🌙
+Hi, my name is Lenny! This was added on 29-06-24 :)
 
 Helloo! Brendon here. I added this on 06/29/2024 😁
 
 Hi, my name is Aaliyah! This was added on 30-06-2024 😊🌟💖
 
-Hey, Kshitij Akarsh was here on 01-06-2024. 💖
+Hey, Kshitij Akarsh was here on 01-06-2024. :)
 
 Hi, my name is Ryan! This was added on 07-01-2024 😉😉
 
