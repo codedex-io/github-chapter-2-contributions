@@ -115,7 +115,7 @@ Hi, my name is Osteduden! This was added on 18.03.2024 🦊
 
 Hi, I (Vinay) was here too! 18-03-2024 🐒
 
-Hi, my name is Xilient! This was added on <19-03-2024> 😎
+Hi, my name is Xilient! This was added on <19-03-2024> <:D>
 
 Hi, my name is Musa! This was added on 19-03-2024 🧸
 
@@ -241,7 +241,7 @@ Hi, my name is DellaG! This was added on 05/06/2024 👽
 
 Hi, my name is Isaiah a.k.a. BlueCollargiant! This was added on 06-06-2024 ✨
 
-Hi, my name is Nami This was added on 6th of June  💛
+Hi, my name is Nami This was added on 6th of June  :)
 
 Hi, my name is haramana! This was added on 07-06-2024 🚀
 
@@ -263,9 +263,9 @@ Hi, my name is Sophia! This was added on 10-06-2024 🥳
 
 Hi, my name is Alia! This was added on 10-06-2024 🫐🫐🫐
 
-Hi, my name is Trisheta! This was added on 11-06-2024 ✅
+Hi, my name is Trisheta! This was added on 11-06-2024 :)
 
-Hi, my name is Estarth! This was added on 11/06/2024 🍒
+Hi, my name is Estarth! This was added on 11/06/2024 XD
 
 Hi, my name is Thejuswini! This was added on 12/06/2024 💫
 
@@ -501,7 +501,7 @@ Hi, my name is Nassim! This was added on 12-10-2024 👌🖥️
 
 Hi, my name is Shahriar! This was added on 13-10-2024 😁
 
-HI! Jair Robles was Here🐨, 14th Oct 2024.  💛
+HI! Jair Robles was Here🐨, 14th Oct 2024.  
 
 Hi, my name is Alexander! This was added on 16-10-2024 🌹
 
