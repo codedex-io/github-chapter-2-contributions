@@ -13,7 +13,7 @@ Hi! Ellie was here! 12/21/2023 🧸
 
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
-Hi! Thien was here! Mar 16th 2024 💖
+Hi! Thien was here ^\_^! Mar 16th 2024 💖
 
 Hi, my name is David! This was added on 14-03-2024 🎉
 
