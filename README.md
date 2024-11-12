@@ -521,6 +521,8 @@ Hi, Abolfazl was here ! this was added on 28/10/2024 😴👾
 
 Hey, this is Yarolav! This was added on 11/03/2024 🏕🏞\\(@^0^@)/
 
+Knock knock, it is Elle behind your door on 08/11/2024 👋
+
 Hi, my name is Kim! This was added on 08-11-2024 🦝
 
 Hi, my name is Jialin! This was added on <09-11-2024> 😀
