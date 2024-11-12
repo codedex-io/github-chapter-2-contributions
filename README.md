@@ -522,3 +522,9 @@ Hi, Abolfazl was here ! this was added on 28/10/2024 😴👾
 Hey, this is Yarolav! This was added on 11/03/2024 🏕🏞\\(@^0^@)/
 
 Hi, my name is Kim! This was added on 08-11-2024 🦝
+
+Hi, my name is Jialin! This was added on <09-11-2024> 😀
+
+Hi, my name is Gio! This was added on 11/12/2024 😎
+
+Hi, my name is Titus Thomas! This was added on 12/11/2024 😎
