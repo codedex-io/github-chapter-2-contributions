@@ -530,3 +530,5 @@ Hi, my name is Jialin! This was added on <09-11-2024> 😀
 Hi, my name is Gio! This was added on 11/12/2024 😎
 
 Hi, my name is Titus Thomas! This was added on 12/11/2024 😎
+
+Hi, my name is Marcelo Juarez! This was added on 13/11/2024 🖥️🧙‍♂️
