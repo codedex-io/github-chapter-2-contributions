@@ -553,4 +553,12 @@ Hi, my name is Moazam Ali! This was added on 8-12-2024 😎😎
 
 Hi, Joel was here! 12/9/24 🧟‍♂️
 
+Hi, my name is Charly! This was added on 16-12-2024 🧠 😎
+
+Hi, my name is dood-coder! This was added on 17-12-2024 🤠
+
+Hi, Akhi was here on 18/12/2024🤩
+
+Hi, my name is Vaishnavi! This was added on 19-12-2024 :)
+
 Hi, my name is Benjamin! This was added on 20-12-2024 🧙‍♂️✨
