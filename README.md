@@ -565,4 +565,8 @@ Hi, my name is Benjamin! This was added on 20-12-2024 🧙‍♂️✨
 
 Hi, my name is Okte! This was added on 19-12-2024 🦁
 
+Hi, my name is John! this was added on 20-12-24 🐷
+
+Hi, my name is Caine! This was added on 22-12-2024 🥲🥁
+
 Hi, my name is A-tavv! this was added on 25-12-2024 😡
