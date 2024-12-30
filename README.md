@@ -17,6 +17,8 @@ Hi! Thien was here ^\_^! Mar 16th 2024 💖
 
 Hi, my name is David! This was added on 14-03-2024 🎉
 
+Gday! seph-x here on December 30 2024, Wishing everyone a fantastic New Year ahead (2025) 🎉
+
 hey, my name is kyria ! this was added on 14/03/2024 :smile:
 
 Hi! My name is aqu4riu-S! This was added on 13/03/2024 😊
