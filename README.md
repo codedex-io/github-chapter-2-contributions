@@ -601,4 +601,24 @@ Hola, mi nombre es Alonso! Esto ha sido añadido el 19-02-2025 🇪🇸💃
 
 Hi, my name is Jahakeme! This was added on 21-02-2025 🥷🎉
 
+Hi, my name is Samhitha! This was added on 22-02-2025 😎
+
+Hi, my name is Luna! This was added on 22-02-2025 🐈🐈🐈
+
+Hi, my name is Sunny! This was added on 22-02-2025 🐈
+
+Hi, my name is Ishan! This was added on 23-02-2025 🚀
+
+Hi, Anushka here !! Added on 24-02-2025 ✨🚀
+
+Hi, my name is Anastasiia! This was added on 24-02-2025 💚💜
+
+Hi, my name is Gokul! This was added on 24-02-2025 😀
+
+¡Hola, mi nombre es **Agustín**! Esto ha sido agregado el 25-02-2025 🫡
+
+Hi, my name is Elisa! This was added on 26-02-2025 :)
+
+Oi, meu mome é Matheus! Isto foi adicionado em 27-02-2025 🇧🇷 ⚽
+
 Bonjour, my name is Dims! This was added on 28-02-2025 🫡
