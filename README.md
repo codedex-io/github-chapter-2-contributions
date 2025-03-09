@@ -628,4 +628,15 @@ Hi, my name is Holguin! This was added on 27-02-2025 🐍 👋
 Χαίρεται, my name is Aggelos !This was added on 01-03-2025 👋
 
 Hi, my name is Jally! This was added on 03-03-2025 😈😈😈
+
+Hi, my name is Basiru! This was added on 03-03-2025 🦾🦾🦾
+
+Saludos, morenn06 was here on 03-03-2025 🔥🔥✍🏽✍🏽
+
+Hi, my name is Nix! This was added on 05-03-2025 🤕🤕🤕
+
+Hi, my name is Ben! This was added on 03-06-2025 🐶
+
+Hi, my name is Javier! This was added on 03-06-2025 😎😎😎
+
 Hi, my name is cuistobal! This was added on 07-03-2024 :)
