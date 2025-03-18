@@ -8,8 +8,6 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 <!--  Ellie is the first entry -->
 <!--  Be sure to add your contribution to the bottom of the README file!  -->
-HI! Walter was here hell yeah!! this was added on 12/5/2025🚀
-
 Hi! Ellie was here! 12/21/2023 🧸
 
 Hi! Sebastian here. This was added on 16 March 2024. 💛
@@ -652,3 +650,8 @@ Hi, my name is Eddie Espino! This was added on 10-03-2025 🇲🇽
 
 Hi, my name is Gus aka 0x20A! This was added on 10/03/2025 👾🐍
 
+Hi, my name is Angelo! This was added on 11/03/2025 🔥😎🔥
+
+Hi, my name is Pixeljellyfish! This was added on 03/12/2025 👻
+  
+HI! Walter was here heck yeah!! this was added on 12/5/2025🚀
