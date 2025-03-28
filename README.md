@@ -8,6 +8,7 @@ Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your nam
 
 <!--  Ellie is the first entry -->
 <!--  Be sure to add your contribution to the bottom of the README file!  -->
+
 Hi! Ellie was here! 12/21/2023 🧸
 
 Hi! Sebastian here. This was added on 16 March 2024. 💛
@@ -60,7 +61,7 @@ Hi, my name is Vulpes! This was added on 24/01/2024 🦊
 
 Hi, my name is pochi! This was added on 27/01/2024 ✨
 
-Hi, Mirko was here! 20/02/2024  💛
+Hi, Mirko was here! 20/02/2024 💛
 
 Hi, my name is Sameer Swain! This was added on 24/02/2024 🧸.
 
@@ -148,7 +149,7 @@ Hi! James here! 09/04/2024 🙌
 
 Hi! Raquel was here! 12/04/2024 🦖
 
-Hi! Elly was here! 12/04/2024  💛
+Hi! Elly was here! 12/04/2024 💛
 
 Hi, my name is Abdullah Hamada! This was added on 15/4/2024 ⛓️
 
@@ -222,9 +223,9 @@ Hi, my name is Trinity! This was added on 26-05-2024 👾
 
 Hi, my name is Hannah! This was added on 5/27/2024 🦆
 
-Hi, my name is Sérgio! This was added on 30/05/2024  :)
+Hi, my name is Sérgio! This was added on 30/05/2024 :)
 
-hi, my name is rollexit! this was added on 24/05/2024  💛
+hi, my name is rollexit! this was added on 24/05/2024 💛
 
 Hi, I'm Ewil ! Added on 29/05/2024 ✨
 
@@ -240,7 +241,7 @@ Hi, my name is DellaG! This was added on 05/06/2024 👽
 
 Hi, my name is Isaiah a.k.a. BlueCollargiant! This was added on 06-06-2024 ✨
 
-Hi, my name is Nami This was added on 6th of June  :)
+Hi, my name is Nami This was added on 6th of June :)
 
 Hi, my name is haramana! This was added on 07-06-2024 🚀
 
@@ -448,11 +449,11 @@ Hi, my name is Ksusha! This was added on 6 september 2024 🧙‍♂️✨
 
 Hi, my name is Gaviota! This was added on 06-09-2024 🦆
 
-Hi, my name is Alan! This was added on 06-09-2024 ╰(*°▽°*)╯😎
+Hi, my name is Alan! This was added on 06-09-2024 ╰(_°▽°_)╯😎
 
 Hi, my name is Emily! This was added on 09/09/2024 😎😎😎
 
-Hi! my name is Abby! This was added on 10-09-2024 💕✨(✿ ͡◕ ᴗ◕)つ━━✫・*。
+Hi! my name is Abby! This was added on 10-09-2024 💕✨(✿ ͡◕ ᴗ◕)つ ━━✫・\*。
 
 Hi, my name is Nicolas! This was added on 14-09-2024 🧙‍♂️✨
 
@@ -500,7 +501,7 @@ Hi, my name is Nassim! This was added on 12-10-2024 👌🖥️
 
 Hi, my name is Shahriar! This was added on 13-10-2024 😁
 
-HI! Jair Robles was Here🐨, 14th Oct 2024.  
+HI! Jair Robles was Here🐨, 14th Oct 2024.
 
 Hi, my name is Alexander! This was added on 16-10-2024 🌹
 
@@ -540,7 +541,7 @@ Hi, my name is Harrier. This was added on 21/11/2024 ✈️
 
 Hi, my name is Ryan! This was added on 11/24/2024 :0
 
-Hi, my name is YRDAMAN !! DATTEBAYO !! This was added on 24-11-2024 😎😊🖥️🧙‍♂️ 
+Hi, my name is YRDAMAN !! DATTEBAYO !! This was added on 24-11-2024 😎😊🖥️🧙‍♂️
 
 Hi, Maksym was here on 27/11/2024 🐱‍👤
 
@@ -662,7 +663,7 @@ Hey, my name is Vanessa! This was added 03-12-2025 😬😬🦊
 
 Hi, my name is KetjenBlack! This was added on 14/03/2024 🩻
 
-Yooo, AgnoCodez!, On 15-03-2025 (☝ ՞ਊ ՞)☝ (✌ﾟ∀ﾟ)☞ ᕙ(▀̿̿ĺ̯̿̿▀̿ ̿) ᕗ
+Yooo, AgnoCodez!, On 15-03-2025 (☝ ՞ਊ ՞)☝ (✌ ﾟ ∀ ﾟ)☞ ᕙ(▀̿̿ĺ̯̿̿▀̿ ̿) ᕗ
 
 Hi, my name is Yago! This was added on 16-03-2025 👨‍💻🐱‍💻
 
@@ -675,5 +676,11 @@ Hi, my name is Claudia! This was added on 17-03-2025 😈🤩🌷
 Hi, my name is LordBadra This was added on 03/17/2025 🎶
 
 Hi, my name is Mattia! This was added on 17/03/2025 🏕
+
+Hi, my name is Prince Dahiya! This was added on 19-03-2025 💀🤡🥹😭👌😍
+
+Hi, my name is Stefano! This was added on 17/03/2025 🐈
+
+Hi, my name is Sreedhar! This was added on 19/03/2025 👨‍💻⌨️⚡
 
 Hello, my name is Christian! This message was added on 19/03/2025😎😏🤖
