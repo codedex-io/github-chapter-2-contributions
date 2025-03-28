@@ -677,4 +677,8 @@ Hi, my name is LordBadra This was added on 03/17/2025 🎶
 
 Hi, my name is Mattia! This was added on 17/03/2025 🏕
 
+Hi, my name is Prince Dahiya! This was added on 19-03-2025 💀🤡🥹😭👌😍
+
+Hi, my name is Stefano! This was added on 17/03/2025 🐈
+
 Hi, my name is Sreedhar! This was added on 19/03/2025 👨‍💻⌨️⚡
