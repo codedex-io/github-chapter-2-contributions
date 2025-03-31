@@ -10,8 +10,6 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 <!--  Ellie is the first entry -->
 <!--  Be sure to add your contribution to the bottom of the README file!  -->
 
-Hi! Athul was here : 30/03/2025
-
 Hi! Ellie was here! 12/21/2023 🧸
 
 Hi! Sebastian here. This was added on 16 March 2024. 💛
@@ -705,3 +703,5 @@ Hi, my name is Selina! This was added on 26-03-2025 🐱
 Hi, my name is Suresh Kumar G! This was added on 26/03/2025 🧙‍♂️✨
 
 Hi, my name is Nupur! This was added on 26-03-2025 🎢🐕🩵
+
+Hi! Athul was here : 30/03/2025 😎
