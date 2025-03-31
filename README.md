@@ -1,8 +1,10 @@
-<p align=center>
+<!-- <p align=center>
 <img width=500 src="https://github.com/codedex-io/GitHub-Chapter-2-Contributions/assets/65576812/cc021612-1fc0-4488-9928-6183f78f4e9b)" />
-</p>
+</p> -->
 
-Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your name, date, and emoji of choice, and create a pull request to show off your Git skills!
+# Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
+
+Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
 
 ---
 
@@ -61,7 +63,7 @@ Hi, my name is Vulpes! This was added on 24/01/2024 🦊
 
 Hi, my name is pochi! This was added on 27/01/2024 ✨
 
-Hi, Mirko was here! 20/02/2024  💛
+Hi, Mirko was here! 20/02/2024 💛
 
 Hi, my name is Sameer Swain! This was added on 24/02/2024 🧸.
 
@@ -149,7 +151,7 @@ Hi! James here! 09/04/2024 🙌
 
 Hi! Raquel was here! 12/04/2024 🦖
 
-Hi! Elly was here! 12/04/2024  💛
+Hi! Elly was here! 12/04/2024 💛
 
 Hi, my name is Abdullah Hamada! This was added on 15/4/2024 ⛓️
 
@@ -223,9 +225,9 @@ Hi, my name is Trinity! This was added on 26-05-2024 👾
 
 Hi, my name is Hannah! This was added on 5/27/2024 🦆
 
-Hi, my name is Sérgio! This was added on 30/05/2024  :)
+Hi, my name is Sérgio! This was added on 30/05/2024 :)
 
-hi, my name is rollexit! this was added on 24/05/2024  💛
+hi, my name is rollexit! this was added on 24/05/2024 💛
 
 Hi, I'm Ewil ! Added on 29/05/2024 ✨
 
@@ -241,7 +243,7 @@ Hi, my name is DellaG! This was added on 05/06/2024 👽
 
 Hi, my name is Isaiah a.k.a. BlueCollargiant! This was added on 06-06-2024 ✨
 
-Hi, my name is Nami This was added on 6th of June  :)
+Hi, my name is Nami This was added on 6th of June :)
 
 Hi, my name is haramana! This was added on 07-06-2024 🚀
 
@@ -449,11 +451,11 @@ Hi, my name is Ksusha! This was added on 6 september 2024 🧙‍♂️✨
 
 Hi, my name is Gaviota! This was added on 06-09-2024 🦆
 
-Hi, my name is Alan! This was added on 06-09-2024 ╰(*°▽°*)╯😎
+Hi, my name is Alan! This was added on 06-09-2024 ╰(_°▽°_)╯😎
 
 Hi, my name is Emily! This was added on 09/09/2024 😎😎😎
 
-Hi! my name is Abby! This was added on 10-09-2024 💕✨(✿ ͡◕ ᴗ◕)つ━━✫・*。
+Hi! my name is Abby! This was added on 10-09-2024 💕✨(✿ ͡◕ ᴗ◕)つ ━━✫・\*。
 
 Hi, my name is Nicolas! This was added on 14-09-2024 🧙‍♂️✨
 
@@ -501,7 +503,7 @@ Hi, my name is Nassim! This was added on 12-10-2024 👌🖥️
 
 Hi, my name is Shahriar! This was added on 13-10-2024 😁
 
-HI! Jair Robles was Here🐨, 14th Oct 2024.  
+HI! Jair Robles was Here🐨, 14th Oct 2024.
 
 Hi, my name is Alexander! This was added on 16-10-2024 🌹
 
@@ -541,7 +543,7 @@ Hi, my name is Harrier. This was added on 21/11/2024 ✈️
 
 Hi, my name is Ryan! This was added on 11/24/2024 :0
 
-Hi, my name is YRDAMAN !! DATTEBAYO !! This was added on 24-11-2024 😎😊🖥️🧙‍♂️ 
+Hi, my name is YRDAMAN !! DATTEBAYO !! This was added on 24-11-2024 😎😊🖥️🧙‍♂️
 
 Hi, Maksym was here on 27/11/2024 🐱‍👤
 
@@ -602,3 +604,119 @@ Hola, mi nombre es Alonso! Esto ha sido añadido el 19-02-2025 🇪🇸💃
 Hi, my name is Jahakeme! This was added on 21-02-2025 🥷🎉
 
 Hi , my name is Samhitha! This was added on 22-02-2025 👻
+
+Hi, my name is Samhitha! This was added on 22-02-2025 😎
+
+Hi, my name is Luna! This was added on 22-02-2025 🐈🐈🐈
+
+Hi, my name is Sunny! This was added on 22-02-2025 🐈
+
+Hi, my name is Ishan! This was added on 23-02-2025 🚀
+
+Hi, Anushka here !! Added on 24-02-2025 ✨🚀
+
+Hi, my name is Anastasiia! This was added on 24-02-2025 💚💜
+
+Hi, my name is Gokul! This was added on 24-02-2025 😀
+
+¡Hola, mi nombre es **Agustín**! Esto ha sido agregado el 25-02-2025 🫡
+
+Hi, my name is Elisa! This was added on 26-02-2025 :)
+
+Oi, meu mome é Matheus! Isto foi adicionado em 27-02-2025 🇧🇷 ⚽
+
+Bonjour, my name is Dims! This was added on 28-02-2025 🫡
+
+Hi, my name is Holguin! This was added on 27-02-2025 🐍 👋
+
+Χαίρεται, my name is Aggelos !This was added on 01-03-2025 👋
+
+Hi, my name is Jally! This was added on 03-03-2025 😈😈😈
+
+Hi, my name is Basiru! This was added on 03-03-2025 🦾🦾🦾
+
+Saludos, morenn06 was here on 03-03-2025 🔥🔥✍🏽✍🏽
+
+Hi, my name is Nix! This was added on 05-03-2025 🤕🤕🤕
+
+Hi, my name is Ben! This was added on 03-06-2025 🐶
+
+Hi, my name is Javier! This was added on 03-06-2025 😎😎😎
+
+Hi, my name is cuistobal! This was added on 07-03-2024 :)
+
+Hello, I\'m Vikhil! You\'re seeing this once-upon-a-time message because it was written on 08-03-2025 🕸️🕷️
+
+Hi, my name is Yossr aka LADYGRAY95 ! This was added on 09/03/2025 :)
+
+Hi, my name is Marcos Barranquero! This was added on 09-03-2025 🇪🇸🐒🦧🦍
+
+Hi, my name is Eddie Espino! This was added on 10-03-2025 🇲🇽
+
+Hi, my name is Gus aka 0x20A! This was added on 10/03/2025 👾🐍
+
+Hi, my name is Angelo! This was added on 11/03/2025 🔥😎🔥
+
+Hi, my name is Pixeljellyfish! This was added on 03/12/2025 👻
+
+HI! Walter was here heck yeah!! this was added on 12/3/2025🚀
+
+Hi, my name is meeksha! This was added on 14/03/25 ;)
+
+Hey, my name is Vanessa! This was added 03-12-2025 😬😬🦊
+
+Hi, my name is KetjenBlack! This was added on 14/03/2024 🩻
+
+Yooo, AgnoCodez!, On 15-03-2025 (☝ ՞ਊ ՞)☝ (✌ ﾟ ∀ ﾟ)☞ ᕙ(▀̿̿ĺ̯̿̿▀̿ ̿) ᕗ
+
+Hi, my name is Yago! This was added on 16-03-2025 👨‍💻🐱‍💻
+
+Hi, my name is DemiUrge! This was added on 16/03/2025 😊
+
+Hi, my name is Sirine! This was added on 17-03-2025 💛
+
+Hi, my name is Claudia! This was added on 17-03-2025 😈🤩🌷
+
+Hi, my name is LordBadra This was added on 03/17/2025 🎶
+
+Hi, my name is Mattia! This was added on 17/03/2025 🏕
+
+Hi, my name is Prince Dahiya! This was added on 19-03-2025 💀🤡🥹😭👌😍
+
+Hi, my name is Stefano! This was added on 17/03/2025 🐈
+
+Hi, my name is Sreedhar! This was added on 19/03/2025 👨‍💻⌨️⚡
+
+Hello, my name is Christian! This message was added on 19/03/2025😎😏🤖
+
+Hi, my name is Jonathan! This was added on 20/03/2025 😊
+
+Hi, my name is Shashwat! This was added on 21/03/2025 😶‍🌫️
+
+Hi, my name is Thanh! This was added on 23-03-2025 ⭐🇻🇳
+
+sup, romrom here, 24/03/2025 😎
+
+Hi, my name is Qing! This was added on 24.03.2025 🧸
+
+Hi, my name is Renz! This was added on 24-03-2025 🦖
+
+Hi, my name is Selina! This was added on 26-03-2025 🐱
+
+Hi, my name is Suresh Kumar G! This was added on 26/03/2025 🧙‍♂️✨
+
+Hi, my name is Nupur! This was added on 26-03-2025 🎢🐕🩵
+
+Oi, meu nome é Cristiano Passos! Isso foi adicionado em 27/03/2025 🇧🇷
+
+Hi, my name is Daniel! This was added on 28-03-2025 🧙‍♂️
+
+Hi! Irfan Ahamed was here on 29th of March 2025!!!!!!!!!!!!!!!!!!!!!!!!!!! 😃
+
+Hi, my name is Racico! This was added on 29-03-2025 🦕🦕🦕
+
+Hi! Athul was here : 30/03/2025 😎
+
+Hi, my name is Aryan! This was added on 30-03-2025 💦
+
+Hi, my name is Annonixli! This was added on 31-03-2025 👾😍
