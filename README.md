@@ -2,7 +2,8 @@
 <img width=500 src="https://github.com/codedex-io/GitHub-Chapter-2-Contributions/assets/65576812/cc021612-1fc0-4488-9928-6183f78f4e9b)" />
 </p> -->
 
-# Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 
+# Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
+
 Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
 
 ---
@@ -692,7 +693,7 @@ Hi, my name is Shashwat! This was added on 21/03/2025 😶‍🌫️
 
 Hi, my name is Thanh! This was added on 23-03-2025 ⭐🇻🇳
 
-sup, romrom here, 24/03/2025 😎 
+sup, romrom here, 24/03/2025 😎
 
 Hi, my name is Qing! This was added on 24.03.2025 🧸
 
@@ -713,3 +714,5 @@ Hi! Irfan Ahamed was here on 29th of March 2025!!!!!!!!!!!!!!!!!!!!!!!!!!! 😃
 Hi, my name is Racico! This was added on 29-03-2025 🦕🦕🦕
 
 Hi! Athul was here : 30/03/2025 😎
+
+Hi, my name is Aryan! This was added on 30-03-2025 💦
