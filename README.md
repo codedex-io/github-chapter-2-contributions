@@ -8,13 +8,9 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 
 ---
 
-<!--  Ellie is the first entry -->
-<!--  Be sure to add your contribution to the bottom of the README file!  -->
-
-Hi! Isypzenko was here !! 03.04.2025 💕💕💕💕💕
-
+<!--  Note: Ellie is the first entry 🥳  -->
 Hi! Ellie was here! 12/21/2023 🧸
-
+<!--  Be sure to add your contribution to the bottom of the README file! 👇👇👇  -->
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
 Hi! Thien was here ^\_^! Mar 16th 2024 💖
@@ -724,3 +720,13 @@ Hi, my name is Aryan! This was added on 30-03-2025 💦
 Hi, my name is Annonixli! This was added on 31-03-2025 👾😍
 
 Hi, my name is Keerthika! This was added on 01-04-2025 😁😜
+
+Hiii! I am Alexia and this was added on 01/04/2025 💖
+
+Hi, my name is James! this was added on 02-04-2025 😃
+
+Hola mi nombre es --Bhertool.-- Esto fue agregado el 03-04-2025 🚀🚀🚀
+
+Hi, my name is nicookie! This was added on 03-04-2025 🐈‍⬛
+
+Hi! Isypzenko was here !! 03.04.2025 💕💕💕💕💕
