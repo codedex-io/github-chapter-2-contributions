@@ -19,6 +19,8 @@ Hi, my name is David! This was added on 14-03-2024 🎉
 
 hey, my name is kyria ! this was added on 14/03/2024 :smile:
 
+Hi, my name is Anas! This was added on 12/12/2024 💪
+
 Hi! My name is aqu4riu-S! This was added on 13/03/2024 😊
 
 Hi, my name is Max! This was added on 13/02/2024 🤩
