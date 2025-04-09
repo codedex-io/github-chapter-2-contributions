@@ -1,0 +1,87 @@
+name: Auto Merge PR (Safe & No New Files)
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  check-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install bad-words package
+        run: npm install bad-words
+
+      - name: Fetch base branch
+        run: git fetch origin ${{ github.event.pull_request.base.ref }}
+
+      - name: Get file changes and diff
+        run: |
+          git diff --name-status origin/${{ github.event.pull_request.base.ref }}...HEAD > changes.txt
+          git diff origin/${{ github.event.pull_request.base.ref }}...HEAD > diff.txt
+
+      - name: Check for new files or profanity
+        id: check_safety
+        run: |
+          node << 'EOF'
+          const fs = require('fs');
+          const Filter = require('bad-words');
+          const filter = new Filter();
+
+          const changes = fs.readFileSync('changes.txt', 'utf-8');
+          const diff = fs.readFileSync('diff.txt', 'utf-8');
+
+          const newFiles = changes.split('\n').some(line => line.startsWith('A'));
+          const hasProfanity = filter.isProfane(diff);
+
+          if (newFiles) {
+            console.log("::set-output name=result::new_files");
+            process.exit(0);
+          }
+
+          if (hasProfanity) {
+            console.log("::set-output name=result::profanity");
+            process.exit(0);
+          }
+
+          console.log("::set-output name=result::safe");
+          EOF
+
+      - name: Comment if new files were added
+        if: steps.check_safety.outputs.result == 'new_files'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: "⚠️ Please do not add new files — just add your name to the README.md 😊"
+            });
+
+      - name: Comment if profanity is found
+        if: steps.check_safety.outputs.result == 'profanity'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: "🚫 Profanity detected in your submission. Please keep it clean and respectful!"
+            });
+
+      - name: Enable auto-merge
+        if: steps.check_safety.outputs.result == 'safe'
+        uses: peter-evans/enable-pull-request-automerge@v3
+        with:
+          pull-request-number: ${{ github.event.pull_request.number }}
+          merge-method: squash
