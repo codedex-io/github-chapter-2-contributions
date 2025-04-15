@@ -14,6 +14,8 @@ Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Be sure to add your contribution to the bottom of the README file! 👇👇👇  -->
 
+Hello! My name is Alastor! This was added April 15, 2025! 🎉
+
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
 Hi! Thien was here ^\_^! Mar 16th 2024 💖
