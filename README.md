@@ -9,11 +9,8 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 ---
 
 <!--  Note: Ellie is the first entry 🥳  -->
-
 Hi! Ellie was here! 12/21/2023 🧸
-
 <!--  Be sure to add your contribution to the bottom of the README file! 👇👇👇  -->
-
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
 Hi! Thien was here ^\_^! Mar 16th 2024 💖
@@ -781,3 +778,5 @@ Hi, my name is Jayco! This was added on 19-04-2025 🇵🇭
 Hi, my name is Ivan! This was added on 04-19-2025 🙊🙉🙈
 
 Hi, I am Vincent! This was added on 19-04-2025 🚀😎
+
+Hi, my name is Tony! This was added on 19/04/2025 😏
