@@ -9,11 +9,8 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 ---
 
 <!--  Note: Ellie is the first entry 🥳  -->
-
 Hi! Ellie was here! 12/21/2023 🧸
-
 <!--  Be sure to add your contribution to the bottom of the README file! 👇👇👇  -->
-
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
 Hi! Thien was here ^\_^! Mar 16th 2024 💖
@@ -741,5 +738,63 @@ Hi, my name is Jeffin! This was added on 03-04-2025 🙂
 Hi, my name is Mfirewa11! This was added on 04-06-2025 😜
 
 Hi, my name is PeiHuai! This was added on 07-04-2025 ♥⭐♥
+
+Hello my name is subert Williams and ts was added on 08-04-2025... 💸💔🥀😋
+
+Hi, my name is Mulla! This was added on 08-04-2025 🙂
+
+Hi, my name is Evgeny Musatov! This was added on 08-04-2025 🚀✨🤖
+
+Hi my name is Josh aka Light !! This was added on 09-04-2025 👽
+
+Hi, my name is Ninuan! This was added on 10-04-2025 😃
+
+Hi, my name is Lina! This was added on 10-04-2025 😊
+
+Hi, my name is Winterest! This was added on 14-04-2025 😹😹😹
+
+Hi, my name is Spike! This was added on 14-04-2025 🦆🦆🦆
+
+Hi, my name is Karl! This was added on 15-04-2025 🎉🚀🎉
+
+Hi! my name is Zhen! This was added on 15-04-2025. 🚀
+
+Hello! My name is Alastor! This was added April 15, 2025! 🎉
+
+Hi, my name is Eliú! This was added on 15-04-2025 🔥🔥🔥
+
+Hi, my name is ThauLemon! This was added on 17/4/2025 :33
+
+Hi, my name is OscarLP09! This was added on 17-04-2025 😃😃😃
+
+Hi, my name is WaiJian! This was added on 17-04-2025 💻
+
+Hi, my name is Germán! This was added on 17-04-2025 😜
+
+Hi, my name is 5000greenpeas😎🥰😭🤡 This was added on 18-04-2025 ❤️‍🔥🐦‍🔥🎆🎇🧨
+
+Hi, my name is Jayco! This was added on 19-04-2025 🇵🇭
+
+Hi, my name is Ivan! This was added on 04-19-2025 🙊🙉🙈
+
+Hi, I am Vincent! This was added on 19-04-2025 🚀😎
+
+Hi, my name is Tony! This was added on 19/04/2025 😏
+
+Hi, my name is Alex Look This was added on 19-04-2025 🐉🐉🐉
+
+Hi, my name is SrDany! This was added on 20-04-2025 👌👌👌👌👌
+
+Hi, my name is Zahra! This was added on 22-04-2025 🤩
+
+Hi, my name is Zach! This was added on 22-04-2025 🙂
+
+Hi! Walid here. This was added on 23 April 2025 😎
+
+Hi, my name is einleutchen! This was added on 23-04-2025 🧬🌱✨🚀 🎉
+
+Hi, my name is Pratheesh Kumar! This was added on 24-0-2025 🚀🚀🚀
+
+Hi, my name is Ngan Huynh! This was added on 25-04-2025 😎
 
 Hi, my name is LilithPandragon! This was added on 26-04-2025 🐼🌸
