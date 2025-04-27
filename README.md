@@ -7,6 +7,7 @@
 Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
 
 ---
+Hi, my name is Varun! This was added on 27 April 2025 😊
 
 <!--  Note: Ellie is the first entry 🥳  -->
 Hi! Ellie was here! 12/21/2023 🧸
