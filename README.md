@@ -855,3 +855,5 @@ Hi, my name is Hannah! This was added on 05/05/2025 🦢
 Hi, mi name is Beni. This was added on 05/06/2025 🐉🎮🕹️
 
 Hi, my name is William! This was added on 09-05-2025 🚀
+
+Hi, Seneca here. THis was added on 05/10/2025 ✌️😎
