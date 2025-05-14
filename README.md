@@ -854,4 +854,24 @@ Hi, my name is Hannah! This was added on 05/05/2025 🦢
 
 Hi, mi name is Beni. This was added on 05/06/2025 🐉🎮🕹️
 
+Hi, my name is William! This was added on 09-05-2025 🚀
+
+Hi, Seneca here. THis was added on 05/10/2025 ✌️😎
+
+Hi, my name is nahsor! This was added on 11-05-2025 😎
+
+Hi, my name is nik! This was added on 10-05-2025 ✌️
+
+Hi, my name is Joshy! This was added on 10-05-2025 🌱
+
+Hi, my name is Jason. This was added on 05/10/2025 💻
+
+Hi, my name is Long! This was added on 11/05/2025 👌
+
+Hi, my name may or may not Be Brad and this was added on or about 5/11/2025.  The Omnisiaah approves.  😜
+
+Hi, my name is Margherita! This was added on 12/05/2025 🌼😽
+
+Hi, my name is Montu. This was added on 14.05.2025 🐷🐖🐽
+
 Hi, my name is sigma. This was added on 14/05/2025 🔥
