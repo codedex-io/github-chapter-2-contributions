@@ -885,3 +885,5 @@ Hi, my name is Raj ! This was added on 16-05-2025 👻😃
 Hi, my name is ANS! This was added on 15-05-2025 🧝‍♀️
 
 Hi, my name is Ryuujinx! This was added on 16-05-2025 😉
+
+Hi, my name is Rishi ! This was added on 16/05/2025 😊
