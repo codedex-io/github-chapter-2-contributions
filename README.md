@@ -896,4 +896,4 @@ Hi, my name is DatDevJava! This was added on 18/05/2025 👽😎🎓
 
 Hi, my name is Anjana! This was added on 19-05-2025 🥳💃
 
-Hi, my is Cups! This was added on 27-05-2025 🤠🎙️🎶
+Hi, my name is Cups! This was added on 27-05-2025 🤠🎙️🎶
