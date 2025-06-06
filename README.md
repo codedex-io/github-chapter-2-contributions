@@ -884,4 +884,18 @@ Hi, my name is Raj ! This was added on 16-05-2025 👻😃
 
 Hi, my name is ANS! This was added on 15-05-2025 🧝‍♀️
 
+Hi, my name is Ryuujinx! This was added on 16-05-2025 😉
+
+Hi, my name is Rishi ! This was added on 16/05/2025 😊
+
+Hi, my name is Frankausau! This was added on 17/05/2025 🗣️🗣️🗣️🔥🔥🔥
+
+Hi, my name is Gaeul! This was added on 17-05-2025 🔥
+
+Hi, my name is DatDevJava! This was added on 18/05/2025 👽😎🎓
+
+Hi, my name is Anjana! This was added on 19-05-2025 🥳💃
+
+Hi, my name is Browarinho! This was added on 19-05-2025 🐱‍👓
+
 Hi, my name is Adithya! This was added on 21-05-2021 😌
