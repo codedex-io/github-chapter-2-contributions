@@ -14,8 +14,6 @@ Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
 
-Hi, my name is Ankit! This was added on 23-05-2025 🐈‍.
-
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
 Hi! Thien was here ^\_^! Mar 16th 2024 💖
@@ -897,3 +895,5 @@ Hi, my name is Gaeul! This was added on 17-05-2025 🔥
 Hi, my name is DatDevJava! This was added on 18/05/2025 👽😎🎓
 
 Hi, my name is Anjana! This was added on 19-05-2025 🥳💃
+
+Hi, my name is Ankit! This was added on 23-05-2025 🐈‍.
