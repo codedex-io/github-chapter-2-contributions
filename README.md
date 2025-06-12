@@ -8,6 +8,8 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 
 ---
 
+Hi, my name is Dom! This was added on 12-06-2025 🥳
+
 <!--  Ellie is the first entry 🥳  -->
 
 Hi! Ellie was here! 12/21/2023 🧸
