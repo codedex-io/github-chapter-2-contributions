@@ -889,10 +889,47 @@ Hi, my name is Ryuujinx! This was added on 16-05-2025 😉
 Hi, my name is Rishi ! This was added on 16/05/2025 😊
 
 Hi, my name is Frankausau! This was added on 17/05/2025 🗣️🗣️🗣️🔥🔥🔥
+
 Hi, my name is Gaeul! This was added on 17-05-2025 🔥
 
 Hi, my name is DatDevJava! This was added on 18/05/2025 👽😎🎓
 
 Hi, my name is Anjana! This was added on 19-05-2025 🥳💃
+
+Hi, my name is Philippien! This was added on 19-05-2025 🇲🇬🤫
+
+Hi, my name is Browarinho! This was added on 19-05-2025 🐱‍👓
+
+Hi, my name is Adithya! This was added on 21-05-2021 😌
+
+Hi, my name is Alastair! this was added on 21-5-2025 🤠
+
+Hi, my name is Arunabha Mishra! This was added on 21-05-2025 ✨
+
+Hi, my name is Yadir! This was added on 21-21-2025 💻😎
+
+Hi, my name is Lance! This was added on 23-05-2025 ✌️✌️✌️
+
+Hi, my name is Anonymespy! This was added on 23-05-2025 👌🗿🥸
+
+Hi, my name is Kofi! This was added on 23-05-2025 %%
+
+Hi, my name is Ankit! This was added on 23-05-2025 🐈‍.
+
+Hi, my name is Saw! This was added on 23-05-2025!🔥🔥
+
+Hi, my name is Mattoroid! This was added on 23-05-2025!👻👽
+
+Hi, my name is xkm79! This was added on 24-05-2025 ❤🥰😋
+
+Hi guys, I'm Manh! This was added on 24-05-2025 🔥🔥🔥
+
+Hi, my name is Pancho Pantera! This was added on 5/24/2025 😜✌️🍕
+
+Hi, my name is David! This was added on 25-05-2025 😍😵‍💫
+
+Hi, my name is Omar! This was added on 26/5/2025 🩷
+
+Hi, my name is Eduardo Barbet! This was added on 26-05-25 👽🗣️🔥🦍
 
 Hi, my name is Daniel! This was added on 11-06-2025 🔥🔥
