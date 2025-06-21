@@ -999,3 +999,5 @@ Hi, my name is Dom! This was added on 12-06-2025 🥳
 Hi, my name is Sarthak! This was added on 16-06-2025 🤖
 
 Hi, my name is Faethon! This was added on 17-06-2025 😎
+
+Hi, my name is Riz! This was added on 06-18-2025. Happy coding! 🎉🥳🎈
