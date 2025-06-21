@@ -996,4 +996,6 @@ Hi! My name is Manraj! This was added on 15/06/2025. 🎉
 
 Hi, my name is Dom! This was added on 12-06-2025 🥳
 
+Hi, my name is Sarthak! This was added on 16-06-2025 🤖
+
 Hi, my name is Faethon! This was added on 17-06-2025 😎
