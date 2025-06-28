@@ -1023,5 +1023,8 @@ Hi, my name is Hemanth! This was added on 23-06-2025 💪🏻
 Hi, my name is GazorHuman! This was added on 23-06-2025 :D
 
 Hi, my name is Peanut! This was added on 6/23/2025 (o_o)
+<<<<<<< HEAD
 
 Hi, わたしは Justice です from TW! This was added on 28-06-2025 😎╰(*°▽°*)╯😎
+=======
+>>>>>>> 7b391e7b641b06c0188332edfa6a5d792a1cdd3f
