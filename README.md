@@ -1046,7 +1046,7 @@ Hi my name is Samarth! This was added on 27/06/25 😎
 
 Hi, my name is Florbela! This was added on 27/06/2025 🧨
 
-Hi, はたしの Justice です from Tw! This was added on 28-06-2025 😎╰(*°▽°*)╯😎
+Hi, はたしの Justice です from Tw! This was added on 28-06-2025 😎╰(_°▽°_)╯😎
 
 Hi, my name is PIU! This was added on 28-06-2025 =))
 
@@ -1055,3 +1055,5 @@ Hi, my name is Catiane! This was added on 28/06/2025 🇧🇷
 Hi, my name is Sarah! This was added on 29/06/2025 😊
 
 Hi, my name is Sunny! This was added on 01/07/2025 🌞
+
+Hi, my name is Jordan! This was added on 07/02/2025 🎂
