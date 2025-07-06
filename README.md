@@ -8,13 +8,13 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 
 ---
 
+Hi, my name is Rodrixel! This was added on 05 july 2025 🎮
+
 <!--  Ellie is the first entry 🥳  -->
 
 Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
-
-Hi, my name is Rodrixel! This was added on 05 july 2025 🎮
 
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
