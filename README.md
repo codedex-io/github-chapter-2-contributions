@@ -8,11 +8,11 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 
 ---
 
-<!--  Ellie is the first entry 🥳  -->
+<!--  Be sure to add your contribution to the bottom of the page!  -->
 
 Hi! Ellie was here! 12/21/2023 🧸
 
-<!--  Be sure to add your contribution to the bottom of the page!  -->
+<!--  Ellie is the first entry 🥳  -->
 
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
@@ -1069,3 +1069,5 @@ Hi, my name is Charran! This was added on 04/07/2025 ⚡
 Hi, my name is Akshaj! This was added on 7/5/2025 😊
 
 Hi, my name is Jhonni! This was added on 05/07/2025 🍕
+
+Hi, my name is Rodrixel! This was added on 05 july 2025 🎮
