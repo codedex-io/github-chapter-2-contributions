@@ -8,13 +8,11 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 
 ---
 
-Hi, my name is Rodrixel! This was added on 05 july 2025 🎮
-
-<!--  Ellie is the first entry 🥳  -->
+<!--  Be sure to add your contribution to the bottom of the page!  -->
 
 Hi! Ellie was here! 12/21/2023 🧸
 
-<!--  Be sure to add your contribution to the bottom of the page!  -->
+<!--  Ellie is the first entry 🥳  -->
 
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
@@ -1048,7 +1046,7 @@ Hi my name is Samarth! This was added on 27/06/25 😎
 
 Hi, my name is Florbela! This was added on 27/06/2025 🧨
 
-Hi, はたしの Justice です from Tw! This was added on 28-06-2025 😎╰(_°▽°_)╯😎
+Hi, はたしの Justice です from Tw! This was added on 28-06-2025 😎╰(*°▽°*)╯😎
 
 Hi, my name is PIU! This was added on 28-06-2025 =))
 
@@ -1063,3 +1061,5 @@ Hi, my name is Jordan! This was added on 07/02/2025 🎂
 Hi, my name is Luc! This was added on 3/07/2025 🙂
 
 Hi, my name is Asma! This was added on 03/07/2025 XP
+
+Hi, my name is Rodrixel! This was added on 05 july 2025 🎮
