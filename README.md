@@ -1046,7 +1046,7 @@ Hi my name is Samarth! This was added on 27/06/25 😎
 
 Hi, my name is Florbela! This was added on 27/06/2025 🧨
 
-Hi, はたしの Justice です from Tw! This was added on 28-06-2025 😎╰(*°▽°*)╯😎
+Hi, はたしの Justice です from Tw! This was added on 28-06-2025 😎╰(_°▽°_)╯😎
 
 Hi, my name is PIU! This was added on 28-06-2025 =))
 
@@ -1071,3 +1071,5 @@ Hi, my name is Akshaj! This was added on 7/5/2025 😊
 Hi, my name is Jhonni! This was added on 05/07/2025 🍕
 
 Hi, my name is Rodrixel! This was added on 05 july 2025 🎮
+
+Hi, my name is Harindu! This was added on 07-07-2025 😏
