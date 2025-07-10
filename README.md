@@ -306,7 +306,7 @@ Hi, markoagnes was here! This was added on 25-06-2024 🌙
 
 Hi, Shahzeb Ali was here! on 06/26/2024 🥸🥰
 
-Hi, my name is Marcellino Abdelmalak! This was added on 29-06-2024 (〃￣︶￣)人(￣︶￣〃)
+Hi, my name is Marcellino Abdelmalak! This was added on 29-06-2024 (〃￣︶￣) 人 (￣︶￣〃)
 
 Hi from Russia! Nikita was here! 29/06/2024! 😎
 
@@ -456,7 +456,7 @@ Hi, my name is Alan! This was added on 06-09-2024 ╰(_°▽°_)╯😎
 
 Hi, my name is Emily! This was added on 09/09/2024 😎😎😎
 
-Hi! my name is Abby! This was added on 10-09-2024 💕✨(✿ ͡◕ ᴗ◕)つ ━━✫・\*。
+Hi! my name is Abby! This was added on 10-09-2024 💕✨(✿ ͡◕ ᴗ◕) つ ━━✫・\*。
 
 Hi, my name is Nicolas! This was added on 14-09-2024 🧙‍♂️✨
 
@@ -1073,3 +1073,5 @@ Hi, my name is Jhonni! This was added on 05/07/2025 🍕
 Hi, my name is Rodrixel! This was added on 05 july 2025 🎮
 
 Hi, my name is Harindu! This was added on 07-07-2025 😏
+
+Hi, my name is Dev Gio! This was added on 07-10-2025 👽
