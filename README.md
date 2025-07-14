@@ -1079,3 +1079,5 @@ Hi, my name is Uvindu! This was added on 08 july 2025 😉
 Hi, my name is Yanyan! This was added on 07/09/2025 :D
 
 Hi, my name is Nirsen! This was added on 09 July 2025 👾
+
+Hi, my name is Dev Gio! This was added on 07-10-2025 👽
