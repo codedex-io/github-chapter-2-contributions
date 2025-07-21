@@ -1115,4 +1115,7 @@ Hi, my name is Nandhika! This was added on 19-07-2025 💜
 Hi, my name is Dylan! This was added on 19-07-2025 👀
 
 Hi, my name is Efan! This was added on 19-07-2025 😴
+
+Hi, my name is Jessie! This aws added on 20-07-2025 🥁
+
 Hi, my name is Huỳnh Hải Đăng added on 21-07-2025 XD
