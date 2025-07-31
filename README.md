@@ -4,8 +4,6 @@
 
 # Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
 
-Hi, my name is Yasser! This was added on July 26th, 2025  🎉
-
 ---
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
@@ -1123,3 +1121,5 @@ Hi, my name is Huỳnh Hải Đăng added on 21-07-2025 XD
 Hi, my name is BananaBusDaniel! This was added on 21-07-2025 😆
 
 Hi, my name is SenSeiTBK! This was added on 21-07-2025 😎
+
+Hi, my name is Yasser! This was added on July 26th, 2025  🎉
