@@ -1180,4 +1180,16 @@ Hi, my name is Nirvik! This was added on 31-07-2025 🎉
 
 Hi, my name is Fedi ! This was added on 31-07-2025 🌍
 
+Hi, my name is Tuguldur Sakhiya ! This was added on 02-08-2025 5️⃣2️⃣6️⃣
+
+Hi, my name is Adriana! This was added on 01-08-2025 ✨
+
+Hi, my name is Dhanraj! This was added on 02-08-2025 🤖
+
+Hi! Dario was here! 08/03/2025 ☢️
+
+Hi, my name is Wesley Kuria ! This was added on 04/08/2024 <3
+
+Hi, my name is Afsar ! This was added on 04-07-2025 🌍
+
 Hi, my name is Matthew! This was added on 04-08-2025 :D
