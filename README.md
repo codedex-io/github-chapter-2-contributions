@@ -1256,4 +1256,4 @@ Hi! Ashmi here, This was added on 19 August 2025. ❤️
 
 Hi, my name is AE! This was added on 15-08-2025 🗽
 
-hi, i'm Márcio, this was added today 😉, just kidding. 8/23/2025. stay golden.
+hi, i'm Márcio, this was added today :), just kidding. 8/23/2025. stay golden.
