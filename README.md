@@ -1,7 +1,3 @@
-Hi, my name is Panca! This was added on 25-08-2025 :)<!-- <p align=center>
-<img width=500 src="https://github.com/codedex-io/GitHub-Chapter-2-Contributions/assets/65576812/cc021612-1fc0-4488-9928-6183f78f4e9b)" />
-</p> -->
-
 # Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
 
 Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
@@ -1265,3 +1261,5 @@ Hi, Im Logesh. This was added on 22 Aug 2025 😍
 Hi, my name is Alejo, This was added on 22-08-2025 🇻🇪
 
 Hi, my name is Krikon! This was added on 22-08-2025 ⭐
+
+Hi, my name is Panca! This was added on 25-08-2025 :)
