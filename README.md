@@ -4,7 +4,7 @@
 
 # Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
 
-Hi, my name is Adam ! This was added on 29-08-2025 😎.
+Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
 
 ---
 
