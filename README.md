@@ -1266,4 +1266,8 @@ Hi, my name is Alejo, This was added on 22-08-2025 🇻🇪
 
 Hi, my name is Krikon! This was added on 22-08-2025 ⭐
 
+Hi, my name is Reykiee! This was added on 25-08-2025 :D
+
+Hi, my name is Shah!, This Was added on 25 Aug 2025 🤐
+
 Hi, my name is Saswat! This was added on 25-08-2025 👒
