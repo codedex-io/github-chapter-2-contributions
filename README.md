@@ -1306,5 +1306,14 @@ Hi, this is Theresa! This was added on 03-09-2025 🦊
 
 Hi, my name is Azriel! This was added on 04-09-2025 😎
 
-Hi , my name is Tajwer! This was added on 06-09-2025 🥱🥱🥤
+Hi, my name is Carl! This was added on 04-09-2025 😎
 
+Hi, my name is Hannah! This was added on 04-09-2025 🤠
+
+Hi, my name is Roland! This was added on 04-09-2025 😃
+
+Hi, my name is Nehan! This was added on 05-09-2025 🤖
+
+Hi, my name is Woly! This was added on 05-09-2025 😎
+
+Hi , my name is Tajwer! This was added on 06-09-2025 🥱🥱🥤
