@@ -1226,7 +1226,7 @@ Hi, my name is Kale! This was added on 14-08-2025 🌸✨✨
 
 Hi, my name is Fatima! This was added on 14-08-2025 :D
 
-Hi, my name is beemnet! This was added on <14-08-2025> :) 
+Hi, my name is beemnet! This was added on <14-08-2025> :)
 
 Hi, my name is Phuong Mai! This was added on 14-08-2025 🍄🍄
 
@@ -1322,4 +1322,20 @@ Hi, my name is Esrom! This was added on 06-09-2025 😎
 
 Hi, my name is Diego! This was added on 07-09-2025 🏀
 
-Hi, my name is Mackenzie! This was added on 12/09/2025 👨🏻‍💻
+Hi, my name is RevR ! This was added on 09-09-2025 😁
+
+Hi, my name is Marc! This was added on 09-09-2025 🎶
+
+Hi, my name is Noran! This was added on 09-09-2025 🖥️
+
+Yo, my name is Link! This was added on 10-09-2025 🐖🐷
+
+Hi, my name is Vanessa! This was added on 10-09-2025 🥳🌱😍👩‍💻
+
+Hi, my name is Munazza! This was added on 11-09-2025 🙌🎉
+
+Hayy, my name is ngenglala, This was addend on 12-09-2025 ( ^-^ )
+
+Hi, my name is Nitin! This was added on 12-09-2025 🥴
+
+Hi, my name is Mackenzie! This was added on 12/09/2025 👨🏻‍💻``<!-- Apple-only symbol -->
