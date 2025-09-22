@@ -1380,4 +1380,6 @@ Hi, my name is Rain! This was added on 20-09-2025 🎶🎵🙂
 
 Hi, my name is Malik! This was added on <20-09-2025> < <3 >
 
-Hi, my name is Dylan! I was here on 22-09-2025
+Hi, my name is Dylan! I was here on 22-09-2025 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00A0FF&width=700&lines=Hi%2C+my+name+is+Muzamil+Ashiq!+👋;This+was+added+on+22-09-2025+✨)](https://git.io/typing-svg)
+
