@@ -1382,4 +1382,4 @@ Hi, my name is Malik! This was added on <20-09-2025> < <3 >
 
 Hi, my name is Dylan! I was here on 22-09-2025
 
-Hi, my name is cleamen! This wass added on 22-09-2025 🍉
+Hi, my name is cleamen! This was added on 22-09-2025 🍉
