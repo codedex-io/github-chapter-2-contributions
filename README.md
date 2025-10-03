@@ -1380,6 +1380,38 @@ Hi, my name is Rain! This was added on 20-09-2025 🎶🎵🙂
 
 Hi, my name is Malik! This was added on <20-09-2025> < <3 >
 
-Hi, my name is Dylan! I was here on 22-09-2025
+Hi, my name is Dylan! I was here on 22-09-2025 😎
+
+Helloo! reddy here. I added this on 09/22/2025 😁
+
+Hi, my name is Milave-chan! This was added 23-09-2025 🐰❤️💎
+
+Hi, my name is Nash115! This was added on 23-09-2025 🥔
+
+Hi, my name is Navaneeth! This was added on 24-09-2025 🤖💻
+
+Hi, my name is Umid! This was added on 24-09-2025 🫥🫥🫥
+
+Hi, my name is Maura! I was here on 24-09-25 :D
+
+Hi, my name is Joshua! I was here on 24-09-2024 🤑👅😛
+
+Hi, my name is Emmanuel! I was here on 25-09-2025 😎
+
+Hi, my name is Rana! I was here on 26-09-2025 😎
+
+Hi, my name is Zino! I was here on 26-09-2025 🤩
+
+Hi, my name is Yugi64! This was added on 27-09-2025 😎
+
+Hi, my name is Erick! I was here on 27-9-2025 🤠🎉🔥
+
+Hi, my name is **Laurent**! I was here on *28/09/2025* 👀
+
+Hi, my name is Lera! This was added on 28-09-2025 🤑
+
+Hi, my name is Ismail Mahomed! This was added on 24-01-2024 🚀
+
+Hi, my name is Makenzie! I was here on 30 - 09 - 2025 :D
 
 Hi, my name is Penmatsa Tanoj Pavan Surya Varma! I was here on 01-10-2025 🙂
