@@ -1420,4 +1420,4 @@ Hi, my name is Léa! This was added on 01-09-2025 🍄🎃
 
 Hi, my name is Leo! I was here on 03-10-2025 :D
 
-Hi! Aziz here. This was added on 08 October 2025. 🚀
+Hi! Aziz here. This was added on 08 October 2025. 🚀👀
