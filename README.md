@@ -1420,4 +1420,4 @@ Hi, my name is Léa! This was added on 01-09-2025 🍄🎃
 
 Hi, my name is Leo! I was here on 03-10-2025 :D
 
-Hi, my name is glorycrafter07 ! This was added on 14-11-2025 🙂🎉🔥
+Hi, my name is glorycrafter07 ! This was added on 14-11-2025 🙂🎉🇮🇳
