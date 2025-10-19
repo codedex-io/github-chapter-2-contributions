@@ -10,6 +10,8 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
 
+Hi! My name is Gabi! This was added on 19-10-2025 😎
+
 Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Ellie is the first entry 🥳  -->
