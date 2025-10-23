@@ -7,7 +7,7 @@
 Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
 
 ---
-Hi, my name is Guodong! This was added on 10/24/2025 bravo!! 🚀
+
 <!--  Be sure to add your contribution to the bottom of the page!  -->
 
 Hi! Ellie was here! 12/21/2023 🧸
@@ -1419,3 +1419,5 @@ Hi, my name is Penmatsa Tanoj Pavan Surya Varma! I was here on 01-10-2025 🙂
 Hi, my name is Léa! This was added on 01-09-2025 🍄🎃
 
 Hi, my name is Leo! I was here on 03-10-2025 :D
+
+Hi, my name is Guodong! This was added on 10/24/2025 bravo!! 🚀
