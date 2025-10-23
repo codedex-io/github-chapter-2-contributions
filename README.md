@@ -1420,4 +1420,12 @@ Hi, my name is Léa! This was added on 01-09-2025 🍄🎃
 
 Hi, my name is Leo! I was here on 03-10-2025 :D
 
-Hi, my name is GONNE, I was here on 08-10-2025
+Hi, my name is Ryan! This was added on 04-10-2025 > <
+
+Hi, my name is Min! This was added on 05-10-2025  :>
+
+Hi, my name is Badis! I was here on 03-10-2025 :D
+
+Hi, my name is Mariem! I was here on 07-10-2025 🚀
+
+Hi, my name is GONNE, I was here on 08-10-2025 😎
