@@ -1460,4 +1460,28 @@ Hi, my name is Nyxu! This was added on 16-10-2025 🩵🐶
 
 Hi, my name is Lara! I was here on 17-10-2025 🚀
 
+Hi, my name is Arsalan! I was here on 18-10-2025 🚀😎🚀
+
+Hi, my name is Qeis! This was added on 18-10-2025 🌿
+
+Hi, my name is dotz! This was added on 18-10-2025 🇵🇱
+
+Hi, xternux was here 19-10-2025 🤔
+
+Hi! My name is Gabi! This was added on 19-10-2025 😎
+
+Hi, my name is Anas ! This was added on 20-10-2025 💕
+
+Hi! Loïc was here! This was added on 20 October 2025.💖
+
+Hi, my name is Alfredo! I was here on 21-10-2025 <^^>
+
+Hi, my name is Amasha! This was added on 22-10-2025 😬
+
+Hi, my name is Geovana! This was added on 22/10/2025 🌻
+
+Hi, my name is Gianx360! I was here on 22 - 10 - 25 😀
+
+Hi, my name is Sophie! This was added on 23-10-2025 🎀✨
+
 Hi, my name is omar! I was here on 24-10-2025 🚀
