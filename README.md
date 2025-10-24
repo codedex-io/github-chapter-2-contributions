@@ -1406,7 +1406,7 @@ Hi, my name is Yugi64! This was added on 27-09-2025 😎
 
 Hi, my name is Erick! I was here on 27-9-2025 🤠🎉🔥
 
-Hi, my name is **Laurent**! I was here on *28/09/2025* 👀
+Hi, my name is **Laurent**! I was here on _28/09/2025_ 👀
 
 Hi, my name is Lera! This was added on 28-09-2025 🤑
 
@@ -1419,5 +1419,59 @@ Hi, my name is Penmatsa Tanoj Pavan Surya Varma! I was here on 01-10-2025 🙂
 Hi, my name is Léa! This was added on 01-09-2025 🍄🎃
 
 Hi, my name is Leo! I was here on 03-10-2025 :D
+
+Hi, my name is Ryan! This was added on 04-10-2025 > <
+
+Hi, my name is Min! This was added on 05-10-2025  :>
+
+Hi, my name is Badis! I was here on 03-10-2025 :D
+
+Hi, my name is Mariem! I was here on 07-10-2025 🚀
+
+Hi, my name is GONNE, I was here on 08-10-2025 😎
+
+Hi, my name is Roman! I was here on 8-10-2025 ^-^
+
+Hi! Aziz here. This was added on 08 October 2025. 🚀👀
+
+Hi, my name is Hendrik! I was here on 08.10.2025 🦅
+
+Hi, my name is Daniel! This was added on 09-10-2025 😎
+
+Hi, my name is Rakia! This was added on 11-10-2025 😬
+
+Hi, my name is satnam! I was here on 11-10-2025 😎
+
+Hi, my name is Integral. This was added on 12-10-2025 👍
+
+Hi, my name is Faruch! This was added on 12-10-2025 ^_^
+
+Hi , my name is anisha! This was added on 14-10-2025 👏✔✨😎
+
+Hi, my name is Guodong! This was added on 10/24/2025 bravo!! 🚀
+
+Hi, my name is glorycrafter07 ! This was added on 14-11-2025 🙂🎉🇮🇳
+
+Hi, my name is Alan! This was added on 15-10-2025 🎶
+
+Hi, my name is Mid0o! This was added on 15-10-2025 👑
+
+Hi, my name is Nyxu! This was added on 16-10-2025 🩵🐶
+
+Hi, my name is Lara! I was here on 17-10-2025 🚀
+
+Hi, my name is Arsalan! I was here on 18-10-2025 🚀😎🚀
+
+Hi, my name is Qeis! This was added on 18-10-2025 🌿
+
+Hi, my name is dotz! This was added on 18-10-2025 🇵🇱
+
+Hi, xternux was here 19-10-2025 🤔
+
+Hi! My name is Gabi! This was added on 19-10-2025 😎
+
+Hi, my name is Anas ! This was added on 20-10-2025 💕
+
+Hi! Loïc was here! This was added on 20 October 2025.💖
 
 Hi, my name is Alfredo! I was here on 21-20-2025 <^^>
