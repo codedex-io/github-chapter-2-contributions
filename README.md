@@ -1422,7 +1422,7 @@ Hi, my name is Leo! I was here on 03-10-2025 :D
 
 Hi, my name is Ryan! This was added on 04-10-2025 > <
 
-Hi, my name is Min! This was added on 05-10-2025  :>
+Hi, my name is Min! This was added on 05-10-2025 :>
 
 Hi, my name is Badis! I was here on 03-10-2025 :D
 
@@ -1444,7 +1444,7 @@ Hi, my name is satnam! I was here on 11-10-2025 😎
 
 Hi, my name is Integral. This was added on 12-10-2025 👍
 
-Hi, my name is Faruch! This was added on 12-10-2025 ^_^
+Hi, my name is Faruch! This was added on 12-10-2025 ^\_^
 
 Hi , my name is anisha! This was added on 14-10-2025 👏✔✨😎
 
@@ -1485,5 +1485,19 @@ Hi, my name is Gianx360! I was here on 22 - 10 - 25 😀
 Hi, my name is Sophie! This was added on 23-10-2025 🎀✨
 
 Hi, my name is omar! I was here on 24-10-2025 🚀
+
+Hi, my name is Miriam! This was added on 24-10-2025 🫳🐈‍⬛
+
+Hi, my name is UR-good-friend! This was added on 25-10-2025> 👍🏻
+
+Hi, my name is Kathy! I was here on 25/10/25 💜
+
+Hi, my name is Nano22! I was here on 26-10-2025 ねね:P
+
+Hi, I\'m Kwnzax! Came by on 10/26/2025 👁️👄👁️
+
+Hi, my name is Terry! I was here on 28-10-2025 🌻
+
+Hi, Xie was here! I was here on 25-10-2025 🏞️
 
 Hi, my name is Daniel! This was added on 31-20-25> 💀
