@@ -14,7 +14,7 @@ Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Ellie is the first entry 🥳  -->
 
-Hi there! Itz me Dankme 💤, added on 11 November 2025 🔰
+Hi there! Itz me Dankme 💤, added on 11 November 2025  🔰
 
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
