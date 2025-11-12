@@ -4,7 +4,7 @@
 
 # Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
 
-Hi, my name is <Rishu Kr. Singh>! This was added on <31-10-2025> <🌻🤍>
+Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
 
 ---
 
@@ -1485,3 +1485,5 @@ Hi, my name is Gianx360! I was here on 22 - 10 - 25 😀
 Hi, my name is Sophie! This was added on 23-10-2025 🎀✨
 
 Hi, my name is omar! I was here on 24-10-2025 🚀
+
+Hi, my name is \<Rishu Kr. Singh\>! This was added on \<31-10-2025\> \<🌻🤍\>
