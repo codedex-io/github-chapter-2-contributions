@@ -13,7 +13,6 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Ellie is the first entry 🥳  -->
-Hi! Shubhra(username- Aradhay) here. This was addes on 1 nov 2025 .💛
 
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
@@ -1486,3 +1485,5 @@ Hi, my name is Gianx360! I was here on 22 - 10 - 25 😀
 Hi, my name is Sophie! This was added on 23-10-2025 🎀✨
 
 Hi, my name is omar! I was here on 24-10-2025 🚀
+
+Hi! Shubhra(username- Aradhay) here. This was added on 1 nov 2025. 💛
