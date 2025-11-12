@@ -14,8 +14,6 @@ Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Ellie is the first entry 🥳  -->
 
-Hi, my name is Frostmoon! This was added on 7 November 2025. (╥﹏╥)
-
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
 Hi! Thien was here ^\_^! Mar 16th 2024 💖
@@ -1487,3 +1485,5 @@ Hi, my name is Gianx360! I was here on 22 - 10 - 25 😀
 Hi, my name is Sophie! This was added on 23-10-2025 🎀✨
 
 Hi, my name is omar! I was here on 24-10-2025 🚀
+
+Hi, my name is Frostmoon! This was added on 7 November 2025. (╥﹏╥)
