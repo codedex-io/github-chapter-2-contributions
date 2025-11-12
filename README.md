@@ -1422,7 +1422,7 @@ Hi, my name is Leo! I was here on 03-10-2025 :D
 
 Hi, my name is Ryan! This was added on 04-10-2025 > <
 
-Hi, my name is Min! This was added on 05-10-2025  :>
+Hi, my name is Min! This was added on 05-10-2025 :>
 
 Hi, my name is Badis! I was here on 03-10-2025 :D
 
@@ -1444,7 +1444,7 @@ Hi, my name is satnam! I was here on 11-10-2025 😎
 
 Hi, my name is Integral. This was added on 12-10-2025 👍
 
-Hi, my name is Faruch! This was added on 12-10-2025 ^_^
+Hi, my name is Faruch! This was added on 12-10-2025 ^\_^
 
 Hi , my name is anisha! This was added on 14-10-2025 👏✔✨😎
 
@@ -1485,6 +1485,67 @@ Hi, my name is Gianx360! I was here on 22 - 10 - 25 😀
 Hi, my name is Sophie! This was added on 23-10-2025 🎀✨
 
 Hi, my name is omar! I was here on 24-10-2025 🚀
+ 
+Hi, my name is Miriam! This was added on 24-10-2025 🫳🐈‍⬛
+
+Hi, my name is UR-good-friend! This was added on 25-10-2025> 👍🏻
+
+Hi, my name is Kathy! I was here on 25/10/25 💜
+
+Hi, my name is Nano22! I was here on 26-10-2025 ねね:P
+
+Hi, I\'m Kwnzax! Came by on 10/26/2025 👁️👄👁️
+
+Hi, my name is Terry! I was here on 28-10-2025 🌻
+
+Hi, Xie was here! I was here on 25-10-2025 🏞️
+
+Hi, my name is Daniel! This was added on 31-20-25> 💀
+
+Hi, my name is Yassine! This was added on 01-11-2025 😎
+
+Hi! Shubhra(username- Aradhay) here. This was added on 1 nov 2025. 💛
+
+Hi, my name is HopWater! This was added on 01-11-2025 🌊
+
+Hi, my name is sharla! This was added on 2-11-2025 💌💖
+
+Hi, my name is maryam!, I was here on 2-11-2025🩷
+
+Hi! my name is Dashka! i was here on 03-11-2025 ✨👩‍💻🤸
+
+Hi, my name is Nashath! I was here on 04-11-2025 😎
+
+Hi, my name is Yohann! This was added on 05-11-2025 👑✨😎
+
+Hi, my name is Artem! I was here on 05-11-2025 ❤️❤️❤️❤️❤️❤️
+
+Hi, my name ist tremlete! I was here on 05-11-2025 🐱
+
+Hi, my name is RAUL! I was here on 05-11-2025 🤖👾
+
+Hi, my name is Jeff ! This was added on 06-11-2025 💪🏽😎🇲🇬🍚vary🇫🇷🥖baguette
+
+Hi, my name is trey! I was here on 6-11-2025💖
+
+Hi, my name is Camy! I was here on 05 November 2025 ⛈️
+
+Hi, my name is Adrian! This was added on 06/11/2025 🐙
+
+Hi, my name is raa! This was added on 07-11-2025 🤩🤖✨
+
+Hi, Pedro was here! Added on 06/11/2025 🐢🐢
+
+Hi, my name is Frostmoon! This was added on 7 November 2025. (╥﹏╥)
+
+Hi, my name is Shaurya! I was here on 10-11-2025 😋
+
+Hey, Im Eric! Added on 10-11-2025 ✌️
+
+Hi, my name is Mark! This was added on 10-11-2025 🚀
+
+Hi there! Itz me Dankme 💤, added on 11 November 2025 🔰
+
+Hi, my name is Vishvjeet Singh Tanwar! This was added on 11-11-2025 😎
 
 Hi, my name is Divya! This was added on 11-11-2025 ♥️
-
