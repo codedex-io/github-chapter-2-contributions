@@ -346,6 +346,8 @@ Hi, my name is Spencer! This was added on 05-07-2024 🐙
 
 Hi, my name is Rodney (@s0n0f4L1ch)! This was added on 07-07-2024 🚀
 
+Hi, my name is Shalin! This was added on 11-18-2025 :)
+
 Hi, my name is Mio! This was added on 07-07-2024 😊
 
 Hi, my name is bharath_kalluru14! This was added on 07-072024 💚➡️❤️
