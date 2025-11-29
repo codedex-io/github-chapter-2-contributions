@@ -1485,7 +1485,7 @@ Hi, my name is Gianx360! I was here on 22 - 10 - 25 😀
 Hi, my name is Sophie! This was added on 23-10-2025 🎀✨
 
 Hi, my name is omar! I was here on 24-10-2025 🚀
- 
+
 Hi, my name is Miriam! This was added on 24-10-2025 🫳🐈‍⬛
 
 Hi, my name is UR-good-friend! This was added on 25-10-2025> 👍🏻
@@ -1555,3 +1555,5 @@ Hi, my name is Vishvjeet Singh Tanwar! This was added on 11-11-2025 😎
 Hi, my name is Divya! This was added on 11-11-2025 ♥️
 
 Hi, my name is Gaby [GabrielaHL]! This was added on Nov 11 2025 💜
+
+Hi, my name is Shedou [novello-dev]! This was added on Nov 29 2025 😎
