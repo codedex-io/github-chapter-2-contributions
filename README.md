@@ -1485,7 +1485,7 @@ Hi, my name is Gianx360! I was here on 22 - 10 - 25 😀
 Hi, my name is Sophie! This was added on 23-10-2025 🎀✨
 
 Hi, my name is omar! I was here on 24-10-2025 🚀
- 
+
 Hi, my name is Miriam! This was added on 24-10-2025 🫳🐈‍⬛
 
 Hi, my name is UR-good-friend! This was added on 25-10-2025> 👍🏻
@@ -1556,4 +1556,33 @@ Hi, my name is Divya! This was added on 11-11-2025 ♥️
 
 Hi, my name is Gaby [GabrielaHL]! This was added on Nov 11 2025 💜
 
-Hi, my name is Kristian! This was added on Nov 24, 2025 :massage:
+Howdy, my name is Mayank! I was here on Nov 12, 2025 🍜
+
+Hi, my name is Jeferson Rodrigo! This was added on Nov 14 2025 ✌
+
+Hi, my name is Santosh! This is added on Nov 25 2025. 🚀
+
+Hi, my name is Angel This was added on 11-14-2025 ♥️
+
+Hi, my name is Esteban Santiago! This was added on 16/11/2025 😉
+
+Hi, my name is Jo! This was added on 16-11-2025 🐻​
+
+Hi! My name is Rishi. This was added on 18-11-2025. 😎
+
+Hi, my name is FalesDev! This was added on Nov 17 2025 🚀
+
+Hi, my name is Leslie! This was added on 11-18-2025 ☕️
+
+Hi, my name is Juan Galvez! This was added on 18-11-2025 ✨📈
+
+Hi, this is Lex and this was added on Nov 19 2025!
+
+Hi, my name is Konstantina! This was added on 20-11-2025 💕
+
+Hi, my name is Nikki! This was added on Nov 20 2025 👀
+
+Hi, my name is Maryline ! This was added on  22th November 2025 ✨👑🌸🥐
+
+Hi, my name is Kristian! This was added on Nov 24, 2025 💆
+
