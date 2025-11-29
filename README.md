@@ -8,11 +8,11 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 
 ---
 
-<!--  Ellie is the first entry 🥳  -->
+<!--  Be sure to add your contribution to the bottom of the page!  -->
 
 Hi! Ellie was here! 12/21/2023 🧸
 
-<!--  Be sure to add your contribution to the bottom of the page!  -->
+<!--  Ellie is the first entry 🥳  -->
 
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
@@ -997,3 +997,605 @@ Hi! My name is Manraj! This was added on 15/06/2025. 🎉
 Hi, my name is Dom! This was added on 12-06-2025 🥳
 
 Hi! Bhavesh was here! 21/06/2025 😁 😎
+
+Hi, my name is Sarthak! This was added on 16-06-2025 🤖
+
+Hi, my name is Faethon! This was added on 17-06-2025 😎
+
+Hi, my name is Riz! This was added on 06-18-2025. Happy coding! 🎉🥳🎈
+
+Hi, my name is Demi! This was added on 18-06-2025, glad to be bart of this 🚀✨🤪🦊
+
+Hi, my name is Liam! This was added on 19-06-2025 😎
+
+Hi, my name is ArmandoN22! This was added on 19-06-2025 🤪
+
+Hi, my name is Mark Esguerra! This was added on 20-06-2025 ❤️😍
+
+Hi ,my name is Jatin! This was added on 21-06-2025 🐐
+
+Hi, my name is Rafael! This was added on 21-06-2025 🐻‍❄️
+
+Hi, my name is Fernando! This was added on 23-06-2025 🎂
+
+Hey Everyone !!! Sherlyn Blessy was here on 23-06-2025 🎀🐈
+
+Hi, my name is Hemanth! This was added on 23-06-2025 💪🏻
+
+Hi, my name is GazorHuman! This was added on 23-06-2025 :D
+
+Hi, my name is Peanut! This was added on 6/23/2025 (o_o)
+
+Hi, my name is Arda! This was added on 24/6/2025 🙂
+
+Hi, my name is Kelly! This was added on June 24, 2025 (◕ܫ◕)
+
+Hi, my name is Candy! This was added on 24-06-2025 👑
+
+Hi, my name is xiaofanwindy! This was added on 25-06-2025 😎
+
+Hi! Madesh was here! 25/06/2025 🧟
+
+Hi, my name is Neal! This was added on 6/25/2025 :>
+
+Hi, my name is Russ! This was added on 25-06-2025 😁💀🚀
+
+Hi, my name is Caleb! This was added on 6/26/2025 (",..,")
+
+Hi, my name is Akshaya! This was added on 27-06-2025 😚
+
+Hi my name is Samarth! This was added on 27/06/25 😎
+
+Hi, my name is Florbela! This was added on 27/06/2025 🧨
+
+Hi, はたしの Justice です from Tw! This was added on 28-06-2025 😎╰(\*°▽°\*)╯😎
+
+Hi, my name is PIU! This was added on 28-06-2025 =))
+
+Hi, my name is Catiane! This was added on 28/06/2025 🇧🇷
+
+Hi, my name is Sarah! This was added on 29/06/2025 😊
+
+Hi, my name is Sunny! This was added on 01/07/2025 🌞
+
+Hi, my name is Steven! This was added on 07/02/2025 😎
+
+Hi, my name is Jordan! This was added on 07/02/2025 🎂
+
+Hi, my name is Luc! This was added on 3/07/2025 🙂
+
+Hi, my name is Asma! This was added on 03/07/2025 XP
+
+Hi, my name is Charran! This was added on 04/07/2025 ⚡
+
+Hi, my name is Akshaj! This was added on 7/5/2025 😊
+
+Hi, my name is Jhonni! This was added on 05/07/2025 🍕
+
+Hi, my name is Rodrixel! This was added on 05 july 2025 🎮
+
+Hi, my name is Harindu! This was added on 07-07-2025 😏
+
+Hi, my name is Uvindu! This was added on 08 july 2025 😉
+
+Hi, my name is Yanyan! This was added on 07/09/2025 :D
+
+Hi, my name is Nirsen! This was added on 09 July 2025 👾
+
+Hi, my name is Dev Gio! This was added on 07-10-2025 👽
+
+Hi, my name is Bodo! This was added on 11-07-2025 🦦
+
+Hi, aadhur here! This was added on 12/7/25 :)
+
+Hi, my name is SprightBlue! This was added on 12/07/2025 👽
+
+Hi, my name is Karolis! This was added on 13-07-2025 🔥
+
+Hi, my name is Judith! This was added on 13-07-2025 ⭐
+
+Hi, my name is Mehr! This was added on 7/14/2025 🏈
+
+Hi, Jordi here! This was added on 15/07/2025 ✌️✌️
+
+Hi, my name is Romeo! This was added on 7/15/2025 🏀
+
+Hi, my name is Caly! This was added on 15-07-2025 ヽ(o ＾ ▽ ＾ o)ノ
+
+Hi, my name is Edward! This was added on 16-07-2025 🙂
+
+Hi, my name is coding-pancakes! This was added on 7-16-2025 👩🏻‍💻
+
+Hi, my name is Mendy! This was added on 16/7/2025 👁👄👁
+
+Hi, my name is Bruna! This was added on 17-07-2025 🌸
+
+Hi, my name is Bavanaa! This was added on 19-07-2025 :) 💌
+
+Hi, my name is Nandhika! This was added on 19-07-2025 💜
+
+Hi, my name is Dylan! This was added on 19-07-2025 👀
+
+Hi, my name is Efan! This was added on 19-07-2025 😴
+
+Hi, my name is Jessie! This aws added on 20-07-2025 🥁
+
+Hi, my name is Huỳnh Hải Đăng added on 21-07-2025 XD
+
+Hi, my name is BananaBusDaniel! This was added on 21-07-2025 😆
+
+Hi, my name is SenSeiTBK! This was added on 21-07-2025 😎
+
+Hi, my name is Arindom! This was added on 21-07-2025 😏
+
+Hi, my name is ananthst7! This was added on 21-07-2025 😎
+
+Hi, my name is Joshua! This was added on 21-07-2025 😎
+
+Hi, my name is NavoQ! This was added on 22-07-2025 (╯°□°）╯︵ ┻━┻
+
+Hi, my name is Sarahlibx! This was added on 07-22-2025 🌈
+
+Hi, my name is Tiffany! This was added on 2025-07-22 :D
+
+Hi, my name is Ary! This was added on 22-07-2025 🎵
+
+Hi, my name is Singh! I was here in 22-07-2025 🙂😎😇
+
+Hi, my name is Soumya! This was added on 23-07-2025 🌟
+
+Hi, my name is arestgmzz! This was added on 23-07-2025 😎
+
+Hi, my name is Fleming! This was added on 23-07-2025 🔥
+
+Hi, my name is kaung myat! This was added on 24-07-2025 :)
+
+Hi, my name is Akufumedo! This was added on 24-07-2025 😈
+
+Hi, my name is Aashutosh! This was added on 24-07-2025. 💿
+
+Hi, my name is Bodro ( aka HKDominator )! This was added on 24-07-2025 🥹🫢🤫
+
+Hi, my name is Prassanna Vahini. This was added on 25-07-2025 😎
+
+Hi, my name is Shubh! This was added on 26-07-2025 😎
+
+Hi, my name is Yasser! This was added on July 26th, 2025 🎉
+
+Hi, my name is Vedant! This was added on 27-07-2025 ⭐
+
+Hi, my name is Sneha! This was added on 28-07-2025 😊
+
+Hi, my name is Mariam! This was added on 29-07-2025 😎
+
+Hi, my name is Neath! This was added on 29-07-2025 🥀
+
+Hi, my name is Hanif! This was added on 30/07/2025 🔥🔥🔥
+
+Hi, my name is Deepak Rana! This was added on 30-07-2025 😎
+
+Hi, my name is Nirav1810! This was added on 30-07-2025 💀
+
+Hi, my name is Amala! This was added on 31-07-2025 :)
+
+Hi, my name is Nirvik! This was added on 31-07-2025 🎉
+
+Hi, my name is Fedi ! This was added on 31-07-2025 🌍
+
+Hi, my name is Tuguldur Sakhiya ! This was added on 02-08-2025 5️⃣2️⃣6️⃣
+
+Hi, my name is Adriana! This was added on 01-08-2025 ✨
+
+Hi, my name is Dhanraj! This was added on 02-08-2025 🤖
+
+Hi! Dario was here! 08/03/2025 ☢️
+
+Hi, my name is Wesley Kuria ! This was added on 04/08/2024 <3
+
+Hi, my name is Afsar ! This was added on 04-07-2025 🌍
+
+Hi, my name is Matthew! This was added on 04-08-2025 :D
+
+Hi, my name is Tabitha! This was added on 04-08-2025 🍪
+
+Hi, my name is Salvatore! This was added on 04-08-2025 💕
+
+Hi, my name is Malvic! This was added on 05-08-2025 🎉
+
+Hi, my name is Abhinav! This was added on 06-08-2025 🫠🥳
+
+Hi, my name is Chear! This was added on 02-08-2025 🔥
+
+hi, my name is rabbika! this was added on 09-08-2025 ⭐
+
+Hi, my name is Catalina Paz! This was added on 10-08-2025 🇨🇱
+
+HI, my name is Jenn! This was added on 10-08-2025 ⭐
+
+Hi, my name is Felix! This was added on 11-08-2025 🤡🤡🤡🤡
+
+Hi, my name is hellofox001! This was added on 11-08-2025 🍀
+
+Hi, my name is Yassmine! This was added on 11-08-2025 😎
+
+Hi, my name is Hendry! This was added on 12-08-2025 🌻
+
+Hi, my name is Gamaliel! This was added on 12-08-2025 ✵
+
+Hi, my name is HKM! This was added on 13-08-2025 (^-^)
+
+Hi, my name is Kale! This was added on 14-08-2025 🌸✨✨
+
+Hi, my name is Fatima! This was added on 14-08-2025 :D
+
+Hi, my name is beemnet! This was added on <14-08-2025> :)
+
+Hi, my name is Phuong Mai! This was added on 14-08-2025 🍄🍄
+
+Hi, my name is Vanessa! This was added on 14-08-2025 🪷
+
+Hi, my name is Brian! This was added on 08/14/2025 ⚜️
+
+Hi, my name is Ravshan! This was added on 15-08-2025 🤫
+
+Hi, my name is Jadie! This was added on 15-08-2025 💗💖
+
+Hi, my name is Nusa! This was added on 16-8-2025 ✨
+
+Hi, my name is Chathura! This was added on 17-08-2025 😉
+
+Hi, my name is Mohammed!!! This was added on 17-08-2025 ⁖
+
+Hi, my name is Mash! This was added on 18-08-2025 👹
+
+Hi, my name is Megha Joy! This was added on 18-08-2025 🚀
+
+Hi, my name is Kfir! This was added on 19-08-2025 💩
+
+Hi, my name is Will! This was added on 19-08-2025 😎
+
+Hi! Ashmi here, This was added on 19 August 2025. ❤️
+
+Hi, my name is AE! This was added on 15-08-2025 🗽
+
+Hey, my name is Juan Edgar!, This was added on 20-08-2025📚🌟
+
+Hi, my name is Marin! This was added on 14-08-2025 :D
+
+Hi, Im Logesh. This was added on 22 Aug 2025 😍
+
+Hi, my name is Alejo, This was added on 22-08-2025 🇻🇪
+
+Hi, my name is Krikon! This was added on 22-08-2025 ⭐
+
+Hi, my name is Reykiee! This was added on 25-08-2025 :D
+
+Hi, my name is Shah!, This Was added on 25 Aug 2025 🤐
+
+Hi, my name is Saswat! This was added on 25-08-2025 👒
+
+Hi, my name is Xiara! This was added on 25-08-2025 ✨
+
+Hi, my name is Maryam! This was added on 26-08-2025 🤖🚩
+
+Hi, my name is Violeta! This was added on 27-08-2025 💧🇨🇱
+
+Hi, my name is Tran Hieu! This was added on 28-08-2025 😎⭐
+
+Hi, my name is Tohidealam! This was added on 29-8-2025 😊❤️😍😎
+
+Hi, my name is Ameer! This was added on 29-08-2025 😁👍
+
+Hi my name is Hank! This was added on 23-08-2025 💩
+
+Hi, my name is Netmiko! This was added on <31-08-2025> ❤️
+
+Hii! I'm Twilight! This was added on 31 August 2025 🌟
+
+Hi, Vladimir was here! Cheers! Today is 01-09-2025 😃
+
+Hi! OuSeven007 was here! 9-1-2025 🥳⭐
+
+Hi , my name is shahad ! this was added on 02-09-2025 🌺
+
+Hi, my name is Sreya! This was added on 02-09-25 😁😉
+
+Hi, my name is Deepesh! This was added on 02-09-2025 🇳🇵
+
+Hi, my name is Dennis! This was added on 02-09-2025 🔥
+
+Hi, this is Theresa! This was added on 03-09-2025 🦊
+
+Hi, my name is Azriel! This was added on 04-09-2025 😎
+
+Hi, my name is Carl! This was added on 04-09-2025 😎
+
+Hi, my name is Hannah! This was added on 04-09-2025 🤠
+
+Hi, my name is Roland! This was added on 04-09-2025 😃
+
+Hi, my name is Nehan! This was added on 05-09-2025 🤖
+
+Hi, my name is Woly! This was added on 05-09-2025 😎
+
+Hi , my name is Tajwer! This was added on 06-09-2025 🥱🥱🥤
+
+Hi, my name is Esrom! This was added on 06-09-2025 😎
+
+Hi, my name is Diego! This was added on 07-09-2025 🏀
+
+Hi, my name is RevR ! This was added on 09-09-2025 😁
+
+Hi, my name is Marc! This was added on 09-09-2025 🎶
+
+Hi, my name is Noran! This was added on 09-09-2025 🖥️
+
+Yo, my name is Link! This was added on 10-09-2025 🐖🐷
+
+Hi, my name is Vanessa! This was added on 10-09-2025 🥳🌱😍👩‍💻
+
+Hi, my name is Munazza! This was added on 11-09-2025 🙌🎉
+
+Hayy, my name is ngenglala, This was addend on 12-09-2025 ( ^-^ )
+
+Hi, my name is Nitin! This was added on 12-09-2025 🥴
+
+Hi, my name is Mackenzie! This was added on 12/09/2025 👨🏻‍💻``<!-- Apple-only symbol -->
+
+Hi, my name is Carl! This was added on 13-09-2025 🫠
+
+Hi, my name is Chris! This was added on 09-13-2025 💥
+
+Hi, my name is Andi! This was added on 14-09-2025 😉
+
+Hi, my name is kega! This was added on 14-09-2025 ✔👍
+
+Hi, my name is Reaper! This was added on 14-09-2025 😶‍🌫️
+
+Hi, my name is M! This was added on 14-09-2025 😺
+
+Hi, my name is Jarred! This was added on 09-15-2025 🤑
+
+Hi, this is Sham! This was added on 15-09-2025 🧸
+
+Hi, my name is Will! I was here on 15-09-2025 ✌🏻
+
+Hi, my name is Shafqat! This was added on 16-09-2025 🎉
+
+Hi, my name is Brayan! This was added on 16-09-2025 🖥️
+
+Hi, my name is Taís! This was added on 16-09-2025 💜
+
+Hi, my name is Vishalya! This was added on 9/16/2025 🩷
+
+Hi, my name is Carl! This was added on 17-09-2025 🫡🫡
+
+Hi, my name is Alejandro! I was here on 17-09-2025 🤖
+
+Hi, my name is Tedy! This was added on 18-9-2025 👻
+
+Hi, my name is Tim! This was added on 09-18-2025 😎
+
+Hi, my name is Sailesh Bhoite! This was added on 19-09-2025 💻
+
+Hi, my name is Rain! This was added on 20-09-2025 🎶🎵🙂
+
+Hi, my name is Malik! This was added on <20-09-2025> < <3 >
+
+Hi, my name is Dylan! I was here on 22-09-2025 😎
+
+Helloo! reddy here. I added this on 09/22/2025 😁
+
+Hi, my name is Milave-chan! This was added 23-09-2025 🐰❤️💎
+
+Hi, my name is Nash115! This was added on 23-09-2025 🥔
+
+Hi, my name is Navaneeth! This was added on 24-09-2025 🤖💻
+
+Hi, my name is Umid! This was added on 24-09-2025 🫥🫥🫥
+
+Hi, my name is Maura! I was here on 24-09-25 :D
+
+Hi, my name is Joshua! I was here on 24-09-2024 🤑👅😛
+
+Hi, my name is Emmanuel! I was here on 25-09-2025 😎
+
+Hi, my name is Rana! I was here on 26-09-2025 😎
+
+Hi, my name is Zino! I was here on 26-09-2025 🤩
+
+Hi, my name is Yugi64! This was added on 27-09-2025 😎
+
+Hi, my name is Erick! I was here on 27-9-2025 🤠🎉🔥
+
+Hi, my name is **Laurent**! I was here on _28/09/2025_ 👀
+
+Hi, my name is Lera! This was added on 28-09-2025 🤑
+
+Hi, my name is Ismail Mahomed! This was added on 24-01-2024 🚀
+
+Hi, my name is Makenzie! I was here on 30 - 09 - 2025 :D
+
+Hi, my name is Penmatsa Tanoj Pavan Surya Varma! I was here on 01-10-2025 🙂
+
+Hi, my name is Léa! This was added on 01-09-2025 🍄🎃
+
+Hi, my name is Leo! I was here on 03-10-2025 :D
+
+Hi, my name is Ryan! This was added on 04-10-2025 > <
+
+Hi, my name is Min! This was added on 05-10-2025 :>
+
+Hi, my name is Badis! I was here on 03-10-2025 :D
+
+Hi, my name is Mariem! I was here on 07-10-2025 🚀
+
+Hi, my name is GONNE, I was here on 08-10-2025 😎
+
+Hi, my name is Roman! I was here on 8-10-2025 ^-^
+
+Hi! Aziz here. This was added on 08 October 2025. 🚀👀
+
+Hi, my name is Hendrik! I was here on 08.10.2025 🦅
+
+Hi, my name is Daniel! This was added on 09-10-2025 😎
+
+Hi, my name is Rakia! This was added on 11-10-2025 😬
+
+Hi, my name is satnam! I was here on 11-10-2025 😎
+
+Hi, my name is Integral. This was added on 12-10-2025 👍
+
+Hi, my name is Faruch! This was added on 12-10-2025 ^\_^
+
+Hi , my name is anisha! This was added on 14-10-2025 👏✔✨😎
+
+Hi, my name is Guodong! This was added on 10/24/2025 bravo!! 🚀
+
+Hi, my name is glorycrafter07 ! This was added on 14-11-2025 🙂🎉🇮🇳
+
+Hi, my name is Alan! This was added on 15-10-2025 🎶
+
+Hi, my name is Mid0o! This was added on 15-10-2025 👑
+
+Hi, my name is Nyxu! This was added on 16-10-2025 🩵🐶
+
+Hi, my name is Lara! I was here on 17-10-2025 🚀
+
+Hi, my name is Arsalan! I was here on 18-10-2025 🚀😎🚀
+
+Hi, my name is Qeis! This was added on 18-10-2025 🌿
+
+Hi, my name is dotz! This was added on 18-10-2025 🇵🇱
+
+Hi, xternux was here 19-10-2025 🤔
+
+Hi! My name is Gabi! This was added on 19-10-2025 😎
+
+Hi, my name is Anas ! This was added on 20-10-2025 💕
+
+Hi! Loïc was here! This was added on 20 October 2025.💖
+
+Hi, my name is Alfredo! I was here on 21-10-2025 <^^>
+
+Hi, my name is Amasha! This was added on 22-10-2025 😬
+
+Hi, my name is Geovana! This was added on 22/10/2025 🌻
+
+Hi, my name is Gianx360! I was here on 22 - 10 - 25 😀
+
+Hi, my name is Sophie! This was added on 23-10-2025 🎀✨
+
+Hi, my name is omar! I was here on 24-10-2025 🚀
+
+Hi, my name is Miriam! This was added on 24-10-2025 🫳🐈‍⬛
+
+Hi, my name is UR-good-friend! This was added on 25-10-2025> 👍🏻
+
+Hi, my name is Kathy! I was here on 25/10/25 💜
+
+Hi, my name is Nano22! I was here on 26-10-2025 ねね:P
+
+Hi, I\'m Kwnzax! Came by on 10/26/2025 👁️👄👁️
+
+Hi, my name is Terry! I was here on 28-10-2025 🌻
+
+Hi, Xie was here! I was here on 25-10-2025 🏞️
+
+Hi, my name is Miflowe! This was added on 30-10-2025 🪄💖
+
+Hi, my name is Daniel! This was added on 31-20-25> 💀
+
+Hi, my name is \<Rishu Kr. Singh\>! This was added on \<31-10-2025\> \<🌻🤍\>
+
+Hi, my name is Yassine! This was added on 01-11-2025 😎
+
+Hi! Shubhra(username- Aradhay) here. This was added on 1 nov 2025. 💛
+
+Hi, my name is HopWater! This was added on 01-11-2025 🌊
+
+Hi, my name is sharla! This was added on 2-11-2025 💌💖
+
+Hi, my name is maryam!, I was here on 2-11-2025🩷
+
+Hi! my name is Dashka! i was here on 03-11-2025 ✨👩‍💻🤸
+
+Hi, my name is Nashath! I was here on 04-11-2025 😎
+
+Hi, my name is Yohann! This was added on 05-11-2025 👑✨😎
+
+Hi, my name is Artem! I was here on 05-11-2025 ❤️❤️❤️❤️❤️❤️
+
+Hi, my name ist tremlete! I was here on 05-11-2025 🐱
+
+Hi, my name is RAUL! I was here on 05-11-2025 🤖👾
+
+Hi, my name is Jeff ! This was added on 06-11-2025 💪🏽😎🇲🇬🍚vary🇫🇷🥖baguette
+
+Hi, my name is trey! I was here on 6-11-2025💖
+
+Hi, my name is Camy! I was here on 05 November 2025 ⛈️
+
+Hi, my name is Adrian! This was added on 06/11/2025 🐙
+
+Hi, my name is raa! This was added on 07-11-2025 🤩🤖✨
+
+Hi, Pedro was here! Added on 06/11/2025 🐢🐢
+
+Hi, my name is Frostmoon! This was added on 7 November 2025. (╥﹏╥)
+
+Hi, my name is Shaurya! I was here on 10-11-2025 😋
+
+Hey, Im Eric! Added on 10-11-2025 ✌️
+
+Hi, my name is Mark! This was added on 10-11-2025 🚀
+
+Hi there! Itz me Dankme 💤, added on 11 November 2025 🔰
+
+Hi, my name is Vishvjeet Singh Tanwar! This was added on 11-11-2025 😎
+
+Hi, my name is Divya! This was added on 11-11-2025 ♥️
+
+Hi, my name is Gaby [GabrielaHL]! This was added on Nov 11 2025 💜
+
+Howdy, my name is Mayank! I was here on Nov 12, 2025 🍜
+
+Hi, my name is Jeferson Rodrigo! This was added on Nov 14 2025 ✌
+
+Hi, my name is Santosh! This is added on Nov 25 2025. 🚀
+
+Hi, my name is Angel This was added on 11-14-2025 ♥️
+
+Hi, my name is Esteban Santiago! This was added on 16/11/2025 😉
+
+Hi, my name is Jo! This was added on 16-11-2025 🐻​
+
+Hi! My name is Rishi. This was added on 18-11-2025. 😎
+
+Hi, my name is FalesDev! This was added on Nov 17 2025 🚀
+
+Hi, my name is Leslie! This was added on 11-18-2025 ☕️
+
+Hi, my name is Juan Galvez! This was added on 18-11-2025 ✨📈
+
+Hi, this is Lex and this was added on Nov 19 2025!
+
+Hi, my name is Konstantina! This was added on 20-11-2025 💕
+
+Hi, my name is Nikki! This was added on Nov 20 2025 👀
+
+Hi, my name is Maryline ! This was added on  22th November 2025 ✨👑🌸🥐
+
+Hi, my name is Kristian! This was added on Nov 24, 2025 💆
+
+Hi, my name is Aryan! This was added on 24-11-2025 :p
+
+Hi, I\'m Isma! This was added on 11-26-2025 🤖
+
+Hi, my name is Sneak! This was added on 27-11-2025 ♥️ ️️️️️
+
+Hi, my name is <YARO Bachaaaaaaaaaaaaaaaarrrrrrrrrrrrr!!!>! This was added on <27-11-2025> <🥸🦹🏾‍♂️🥷🏾🥷🏾>
+
+Heyy, I\'m FrostyAlien [FrostyxAlien]! I was here on 11 November 2025. 👽
+
+Hi, my name is Shedou [novello-dev]! This was added on Nov 29 2025 😎
