@@ -1600,4 +1600,4 @@ Heyy, I\'m FrostyAlien [FrostyxAlien]! I was here on 11 November 2025. 👽
 
 Hi, my name is Shedou [novello-dev]! This was added on Nov 29 2025 😎
 
-Hii!! Annalise was here on December 12th, 2025 🪄
+Hii!! Annalise [annxlise] was here on December 12th, 2025 🪄
