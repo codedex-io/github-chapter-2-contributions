@@ -1598,6 +1598,20 @@ Hi, my name is <YARO Bachaaaaaaaaaaaaaaaarrrrrrrrrrrrr!!!>! This was added on <2
 
 Heyy, I\'m FrostyAlien [FrostyxAlien]! I was here on 11 November 2025. 👽
 
+Hi, my name is John! This was added on 11-28-2025 ♥️
+
 Hi, my name is Shedou [novello-dev]! This was added on Nov 29 2025 😎
 
-Hello, Matthew18 was here on 3 December 2025. Merry Christmas and Happy New Year in advance, guys!
+Hi, I\'m (parthdwi50), this was added on <1st December 2025> ✌️❤️
+
+Hi, my name is Palchhin! This was added on 1 December 2025. 🙂‍↔️
+
+Hii!! Annalise [annxlise] was here on December 12th, 2025 🪄
+
+Hi, my name is Marzhendo! This was added on 2-12-2025 🐺
+
+Hi, my name is Magdalena [megiska]! This was added on Dec 02 2025 😎
+
+¡Hola, soy Esteban! Esto se añadió el 02/12/2025 🚀
+
+Hello, Matthew18 was here on 3 December 2025. Merry Christmas and Happy New Year in advance, guys! 🎉
