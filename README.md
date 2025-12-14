@@ -1584,7 +1584,7 @@ Hi, my name is Konstantina! This was added on 20-11-2025 💕
 
 Hi, my name is Nikki! This was added on Nov 20 2025 👀
 
-Hi, my name is Maryline ! This was added on  22th November 2025 ✨👑🌸🥐
+Hi, my name is Maryline ! This was added on 22th November 2025 ✨👑🌸🥐
 
 Hi, my name is Kristian! This was added on Nov 24, 2025 💆
 
@@ -1598,6 +1598,46 @@ Hi, my name is <YARO Bachaaaaaaaaaaaaaaaarrrrrrrrrrrrr!!!>! This was added on <2
 
 Heyy, I\'m FrostyAlien [FrostyxAlien]! I was here on 11 November 2025. 👽
 
+Hi, my name is John! This was added on 11-28-2025 ♥️
+
 Hi, my name is Shedou [novello-dev]! This was added on Nov 29 2025 😎
+
+Hi, I\'m (parthdwi50), this was added on <1st December 2025> ✌️❤️
+
+Hi, my name is Palchhin! This was added on 1 December 2025. 🙂‍↔️
+
+Hii!! Annalise [annxlise] was here on December 12th, 2025 🪄
+
+Hi, my name is Marzhendo! This was added on 2-12-2025 🐺
+
+Hi, my name is Magdalena [megiska]! This was added on Dec 02 2025 😎
+
+¡Hola, soy Esteban! Esto se añadió el 02/12/2025 🚀
+
+Hello, Matthew18 was here on 3 December 2025. Merry Christmas and Happy New Year in advance, guys! 🎉
+
+Hi, my name is **[Hugo Frias](https://github.com/hugofriasmtz)** — 03/12/2025 😎💻
+
+Hi, my name is Malak! This was added on 04-12-2025 💕
+
+Hi, my name is Aaliyah! This was added on Dec 06, 2025!! 😌
+
+Hi, my name is Mikael! This was added on 06-12-2025 😎
+
+Hi, my name is ChrisM20 DaVeilExist This was added on 08-December-2025 🍷🍷🍷🍷
+
+Hi, my name is Gokul Krishnan! This was added on 08-12-2025 🔥
+
+Hi, my name is Mike! This was added on December 8, 2025 🐈
+
+Hi, my name is Sonny! This was added on 08/12/2025 👾
+
+Hi👋, my name is  thwaha 😊 [Muhammedthwaha]!📍 This was added on  👉 Dec-10-2025 👈 
+
+Hi, my name is Anthony! This was added on 9-12-2025 🥷🏽
+
+Hi, my name is Matias! This was added on 09-12-2025 🚀
+
+Hi, my name is Robert! This was added on 10 December 2025 😁
 
 Hi, Marwane here. today is 12/12/2025 ♥️ ️️️️️
