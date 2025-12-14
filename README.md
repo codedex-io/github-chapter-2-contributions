@@ -4,7 +4,7 @@
 
 # Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
 
-Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
+Siva, 14/12/25, and emoji of choice, and create a pull request to show off your Git skills!
 
 ---
 
