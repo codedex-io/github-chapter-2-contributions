@@ -382,7 +382,7 @@ Hi, my name is Cesar Andrés! This was added on 26/07/2024. 😃⚽
 
 Hi, my name is Dani! This was added on 27/07/2024 😎
 
-Hi, owljackob is in! This was added on 28-07-2024 🦉
+Hi, owljacob is in! This was added on 28-07-2024 🦉
 
 Hi, my name is Adel! This was added on 29-7-2024 🤓🤙
 
