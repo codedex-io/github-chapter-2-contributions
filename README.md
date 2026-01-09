@@ -1648,4 +1648,4 @@ Hi, My name is Thrushna [@Poppy19]!. This was added on December 13 2025 💕
 
 Hi, my name is Daniel! This was added on 14/12/2025 😛
 
-Hi, my name is Ruben! This was added on 09/01/2026 😛
+Hi, my name is Ruben(Manjaro96). This was added on 09/01/2026 ⚽
