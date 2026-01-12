@@ -1632,7 +1632,7 @@ Hi, my name is Mike! This was added on December 8, 2025 🐈
 
 Hi, my name is Sonny! This was added on 08/12/2025 👾
 
-Hi👋, my name is  thwaha 😊 [Muhammedthwaha]!📍 This was added on  👉 Dec-10-2025 👈 
+Hi👋, my name is thwaha 😊 [Muhammedthwaha]!📍 This was added on 👉 Dec-10-2025 👈
 
 Hi, my name is Anthony! This was added on 9-12-2025 🥷🏽
 
@@ -1642,10 +1642,46 @@ Hi, my name is Robert! This was added on 10 December 2025 😁
 
 Hi, Marwane here. today is 12/12/2025 ♥️ ️️️️️
 
+Hi, my name is Livius307! This was added on 13 December 2025 🔥
+
 Hi, my name is Kenneth! This was added on Dec 13 2025 🥸🤠
+
+Hi, my name is MiCo! This was added on <19-12-2025> 🤹
 
 Hi, My name is Thrushna [@Poppy19]!. This was added on December 13 2025 💕
 
 Hi, my name is Daniel! This was added on 14/12/2025 😛
+
+Hi, my name is Sin! This was added on 16-12-2025 😍
+
+Hi, my name is Alicia! This was added on Dec 16 2025 👅
+
+Hi, my name is abrham! This was added on 12-19-2025 🥂
+
+Hi, my name is Badar Rahman! This was added on 19-12-2005 💩🥺
+
+Hi, my name is **[Amine](https://github.com/TalbiMohamedAmine)** ! This was added on 19-12-2025 🦦
+
+Hi, my name is Papskorms! This was added on Dec 20 2025 🥖
+
+Hi, My name is Aleksi! This was added on December 21 2025 👽👽👽
+
+Hi, my name is Marco!, This was added on 22-12-2025 😁🥂
+
+Hi! my name is Souissi! This was added on 22-12-2025 🚀
+
+Hi, my name is Elias! This was added on 23-12-2025 👍👍👍👍👍
+
+Hi. my name is Izuna[Izuna7]. This was added on December 24 2025 🤠😎💻
+
+Hi, my name is Anna! This was added on 24/12/2025 💕
+
+Hi, my name is Satvika! This was added on December 25th 2025 🍀
+
+Hi, my name is Trung Giau! This was added on 28-12-2025 🎉
+
+Hi, my name is Mikel! This was added on 28-12-2025 🍵
+
+Hi, my name is acee! This was added on Dec 28 2025 👾
 
 Hi, my name is Godwin! This was added on 29-12-2025 😀
