@@ -1602,8 +1602,6 @@ Hi, my name is John! This was added on 11-28-2025 ♥️
 
 Hi, my name is Shedou [novello-dev]! This was added on Nov 29 2025 😎
 
-Hi, my name is Livius307! This was added on 13 December 2025 🔥
-
 Hi, I\'m (parthdwi50), this was added on <1st December 2025> ✌️❤️
 
 Hi, my name is Palchhin! This was added on 1 December 2025. 🙂‍↔️
@@ -1643,6 +1641,8 @@ Hi, my name is Matias! This was added on 09-12-2025 🚀
 Hi, my name is Robert! This was added on 10 December 2025 😁
 
 Hi, Marwane here. today is 12/12/2025 ♥️ ️️️️️
+
+Hi, my name is Livius307! This was added on 13 December 2025 🔥
 
 Hi, my name is Kenneth! This was added on Dec 13 2025 🥸🤠
 
