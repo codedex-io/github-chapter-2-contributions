@@ -382,7 +382,7 @@ Hi, my name is Cesar Andrés! This was added on 26/07/2024. 😃⚽
 
 Hi, my name is Dani! This was added on 27/07/2024 😎
 
-Hi, owljackob is in! This was added on 28-07-2024 🦉
+Hi, owljacob is in! This was added on 28-07-2024 🦉
 
 Hi, my name is Adel! This was added on 29-7-2024 🤓🤙
 
@@ -1642,8 +1642,20 @@ Hi, my name is Robert! This was added on 10 December 2025 😁
 
 Hi, Marwane here. today is 12/12/2025 ♥️ ️️️️️
 
+Hi, my name is Livius307! This was added on 13 December 2025 🔥
+
 Hi, my name is Kenneth! This was added on Dec 13 2025 🥸🤠
 
+Hi, my name is MiCo! This was added on <19-12-2025> 🤹
+
 Hi, My name is Thrushna [@Poppy19]!. This was added on December 13 2025 💕
+
+Hi, my name is Daniel! This was added on 14/12/2025 😛
+
+Hi, my name is Sin! This was added on 16-12-2025 😍
+
+Hi, my name is Alicia! This was added on Dec 16 2025 👅
+
+Hi, my name is abrham! This was added on 12-19-2025 🥂
 
 Hi, my name is Badar Rahman! This was added on 19-12-2005 💩🥺
