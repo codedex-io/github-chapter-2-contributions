@@ -14,6 +14,8 @@ Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Ellie is the first entry 🥳  -->
 
+Hi, my name is Sohan! This was added on 22-01-2026 🚀
+
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
 Hi! Thien was here ^\_^! Mar 16th 2024 💖
