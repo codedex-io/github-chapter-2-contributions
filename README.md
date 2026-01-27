@@ -13,7 +13,6 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Ellie is the first entry 🥳  -->
-heyy! its me Abhijith. nice to meet you . its 18 jan 2026 btw 🤗
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
 Hi! Thien was here ^\_^! Mar 16th 2024 💖
@@ -1719,3 +1718,5 @@ Hi, Bigmaq21 here! This was added on 08/01/2026 🔥
 Hi, my name is Ruben(Manjaro96). This was added on 09/01/2026 ⚽
 
 Hello! Im vardhan. This is addeed on 11 january 2026. 😊
+
+heyy! its me Abhijith. nice to meet you . its 18 jan 2026 btw 🤗
