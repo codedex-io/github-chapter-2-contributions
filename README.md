@@ -13,6 +13,7 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Ellie is the first entry 🥳  -->
+
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
 Hi! Thien was here ^\_^! Mar 16th 2024 💖
@@ -1752,3 +1753,5 @@ Hi, my name is **Karl**! This was added on **21-01-2026** 🔥
 Hi! Nadia here! This was added on 21 january 2026. :)
 
 Hi, my name is joy! This was added on 22-01-2026  ❤️
+
+Hi, my name is Sohan! This was added on 22-01-2026 🚀
