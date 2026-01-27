@@ -1690,7 +1690,7 @@ Hi, my name is Alex! This was added on 12-31-2025 🎆
 
 Hi, my name is Vaibhav! This was added on 01-01-2026 🚘
 
-Hi, my name is Anjali! This was added on 2/01/2026 -_-
+Hi, my name is Anjali! This was added on 2/01/2026 -\_-
 
 Hi, my name is Alex! This was added on 1/2/2026 💯
 
@@ -1719,5 +1719,9 @@ Hi, Bigmaq21 here! This was added on 08/01/2026 🔥
 Hi, my name is Ruben(Manjaro96). This was added on 09/01/2026 ⚽
 
 Hello! Im vardhan. This is addeed on 11 january 2026. 😊
+
+Hi, my name is Jesús! This was added on 11/01/2026 </>
+
+Hi, my name is Veene! This was added on 12-01-2026 😀
 
 Hi, my name is Vitor! This was added on 14/01/2026. 🐯
