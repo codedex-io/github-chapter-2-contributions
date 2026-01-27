@@ -13,7 +13,6 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Ellie is the first entry 🥳  -->
-
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
 Hi! Thien was here ^\_^! Mar 16th 2024 💖
@@ -1690,7 +1689,7 @@ Hi, my name is Alex! This was added on 12-31-2025 🎆
 
 Hi, my name is Vaibhav! This was added on 01-01-2026 🚘
 
-Hi, my name is Anjali! This was added on 2/01/2026 -_-
+Hi, my name is Anjali! This was added on 2/01/2026 -\_-
 
 Hi, my name is Alex! This was added on 1/2/2026 💯
 
@@ -1719,5 +1718,33 @@ Hi, Bigmaq21 here! This was added on 08/01/2026 🔥
 Hi, my name is Ruben(Manjaro96). This was added on 09/01/2026 ⚽
 
 Hello! Im vardhan. This is addeed on 11 january 2026. 😊
+
+Hi, my name is Jesús! This was added on 11/01/2026 </>
+
+Hi, my name is Veene! This was added on 12-01-2026 😀
+
+Hi, my name is Vitor! This was added on 14/01/2026. 🐯
+
+Hi, Biggy6080 in da team ! This was added on 14/01/2026. 😏🖖✨
+
+Hi, my name is Raid! This was added on 14-01-2026 😄
+
+Hello I am Nitish. This was added on 15th Jan 2026 🌱
+
+Hi! my name is 801PEC(DarkSider). This was added on 16/01/2026. 🌟
+
+Hi, my name is Shruti! This was added on 16-01-2026 😸🎀
+
+Hi, my name is Rokac! This was added on 16-01-2026 💻👌
+
+heyy! its me Abhijith. nice to meet you . its 18 jan 2026 btw 🤗
+
+Hi! Gaki was here on 18/01/26 😎
+
+Hi, my name is Kedar! This was added on 19-01-2026. 🙌
+
+Hi, my name is Joshua! This was added on 19/01/2026 😜
+
+Hi, my name is Nathasha! This was added on 20-01-2026 😊
 
 Hi, my name is **Karl**! This was added on **21-01-2026** 🔥
