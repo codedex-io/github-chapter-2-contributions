@@ -1720,6 +1720,9 @@ Hi, my name is Ruben(Manjaro96). This was added on 09/01/2026 ⚽
 
 Hello! Im vardhan. This is addeed on 11 january 2026. 😊
 
+<<<<<<< main
+Hi, my name is Emmanuel! This was added on 26.01.2026 😁
+=======
 Hi, my name is Jesús! This was added on 11/01/2026 </>
 
 Hi, my name is Veene! This was added on 12-01-2026 😀
@@ -1759,3 +1762,4 @@ Hi, my name is Sohan! This was added on 22-01-2026 🚀
 Hi, my name is Maxime. This was added on 23 january 2026. 🎀
 
 Hi, my name is Abdo! This was added on 26-01-2026 🎉
+>>>>>>> main
