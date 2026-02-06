@@ -1758,4 +1758,12 @@ Hi, my name is Sohan! This was added on 22-01-2026 🚀
 
 Hi, my name is Maxime. This was added on 23 january 2026. 🎀
 
+Hi, my name is Abdo! This was added on 26-01-2026 🎉
+
+Hi, my name is Emmanuel! This was added on 26.01.2026 😁
+
+Meowdy, I'm Fachey! Added 01.26.2026 🐱
+
+Hi!, my name is Devin. This was added on 31/01/26. :O
+
 Hi, my name is Fantita! This was added on 31-01-2006 ( •̀⤙•́ ☘️)
