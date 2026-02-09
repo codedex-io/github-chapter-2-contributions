@@ -1500,8 +1500,6 @@ Hi, I\'m Kwnzax! Came by on 10/26/2025 👁️👄👁️
 
 Hi, my name is Terry! I was here on 28-10-2025 🌻
 
-Hi, my name is syed i was here on 07-02-2026 😶‍🌫️
-
 Hi, Xie was here! I was here on 25-10-2025 🏞️
 
 Hi, my name is Miflowe! This was added on 30-10-2025 🪄💖
@@ -1769,3 +1767,5 @@ Meowdy, I'm Fachey! Added 01.26.2026 🐱
 Hi!, my name is Devin. This was added on 31/01/26. :O
 
 Hi, my name is Fantita! This was added on 31-01-2006 ( •̀⤙•́ ☘️)
+
+Hi, my name is syed i was here on 07-02-2026 😶‍🌫️
