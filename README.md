@@ -1794,3 +1794,5 @@ Hi, my name is Devin! This was added on 09-01-2026 🫡
 
 Hi, my name is ༉‧₊˚. Sohin Ace ༉‧₊˚! Shamelessly added on 09-02-2026 🖤 🕯️
 
+Hi, my name is **[Amarbayar] (https://github.com/Akeno-exe)**! This was added on 09-02-2026 :3
+
