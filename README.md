@@ -7,7 +7,6 @@
 Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
 
 ---
-Hi! Abdullo was here. This was added on 2/11/26 😈
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
 
@@ -1795,3 +1794,4 @@ Hi, my name is Devin! This was added on 09-01-2026 🫡
 
 Hi, my name is ༉‧₊˚. Sohin Ace ༉‧₊˚! Shamelessly added on 09-02-2026 🖤 🕯️
 
+Hi, my name is Abdullo. It was added on 2/11/2026 😈
