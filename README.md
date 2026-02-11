@@ -7,6 +7,7 @@
 Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
 
 ---
+Hi! Abdullo was here. This was added on 2/11/26 😈
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
 
