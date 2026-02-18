@@ -1799,3 +1799,5 @@ Hi, my name is Zain! This was added on <10-02-2026> 😎
 Hi, my name is **[Amarbayar] (https://github.com/Akeno-exe)**! This was added on 09-02-2026 :3
 
 Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02/2026 💕​
+ 
+Hi, my name is Mari (https://github.com/marianaejferrari-debug)! This was added on 17/02/2026 🎀
