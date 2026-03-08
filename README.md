@@ -1796,10 +1796,36 @@ Hi, my name is ༉‧₊˚. Sohin Ace ༉‧₊˚! Shamelessly added on 09-02-20
 
 Hi, my name is Zain! This was added on <10-02-2026> 😎
 
-Hi, my name is **[Amarbayar] (https://github.com/Akeno-exe)**! This was added on 09-02-2026 :3
+Hi, my name is **[Amarbayar](https://github.com/Akeno-exe)**! This was added on 09-02-2026 :3
 
 Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02/2026 💕​
 
 Hi, my name is Minjae Kim! This was added on 10-02-2026 👾
+
+Hi, my name is Bruna! This was added on 12/02/2026 🇧🇷 🥰
+
+Hi, my name is Sher! This was added on 13-02-2026 🌟٩(^ᗜ^ )و ´-
+
+Greetings, name is Skyy! added : 14/02/2026 😎
+
+Hi, my name is Cosunar! This was added on 15/02/2026 🥵
+
+Ciao, my name is Matteo! This was added on 16-02-2026 😎
+
+Hi, my name is [Mari](https://github.com/marianaejferrari-debug)! This was added on 17/02/2026 🎀
+
+Hi, my name is Luna!! This was added on 19/02/2026 😶‍🌫️
+
+Hi, my name is InaIvana! This was added on 20.02.2026. ❤️
+
+Hi, Vandough here! This was added on 24th February 2026. 🥂💕
+
+Hi, my name is **[Jp!](https://github.com/standwall5)** This was added on 27-02-2026 🍣
+
+Hi, my name is Daisy-you-2020! This was added on <28-02-2026> 💕
+
+👽👽👽 Hi, My name is Steven Ortega!!!! This was add on 28-02-2026!! 👽👽👽
+
+Hi, my name is Aman! This was added on 01-03-2026 🚀
 
 Hi, my name is skillza! This was added on 02-03-2026 ✨
