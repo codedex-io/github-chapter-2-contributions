@@ -1794,6 +1794,18 @@ Hi, my name is Devin! This was added on 09-01-2026 🫡
 
 Hi, my name is ༉‧₊˚. Sohin Ace ༉‧₊˚! Shamelessly added on 09-02-2026 🖤 🕯️
 
+Hi, my name is Zain! This was added on <10-02-2026> 😎
+
+Hi, my name is **[Amarbayar] (https://github.com/Akeno-exe)**! This was added on 09-02-2026 :3
+
+Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02/2026 💕​
+
+Hi, my name is Minjae Kim! This was added on 10-02-2026 👾
+
+Hi, my name is Bruna! This was added on 12/02/2026 🇧🇷 🥰
+
+Hi, my name is Sher! This was added on 13-02-2026 🌟٩(^ᗜ^ )و ´-
+
+Greetings, name is Skyy! added : 14/02/2026 😎
+
 Hi, my name is Cosunar! This was added on 15/02/2026 🥵
-
-
