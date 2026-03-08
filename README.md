@@ -1796,7 +1796,7 @@ Hi, my name is ༉‧₊˚. Sohin Ace ༉‧₊˚! Shamelessly added on 09-02-20
 
 Hi, my name is Zain! This was added on <10-02-2026> 😎
 
-Hi, my name is **[Amarbayar] (https://github.com/Akeno-exe)**! This was added on 09-02-2026 :3
+Hi, my name is **[Amarbayar](https://github.com/Akeno-exe)**! This was added on 09-02-2026 :3
 
 Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02/2026 💕​
 
@@ -1812,3 +1812,4 @@ Hi, my name is Cosunar! This was added on 15/02/2026 🥵
 
 Ciao, my name is Matteo! This was added on 16-02-2026 😎
 
+Hi, my name is [Mari](https://github.com/marianaejferrari-debug)! This was added on 17/02/2026 🎀
