@@ -1801,3 +1801,5 @@ Hi, my name is **[Amarbayar] (https://github.com/Akeno-exe)**! This was added on
 Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02/2026 💕​
 
 Hi, my name is Minjae Kim! This was added on 10-02-2026 👾
+
+Hi, my name is Bruna! This was added on 12/02/2026 🇧🇷 🥰
