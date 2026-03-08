@@ -1834,3 +1834,4 @@ Hiii, Shreya here!!! This was added on 03-03-2026 😭😭😭 :)
 
 Hi, I'm [Diogo Serra!](https://github.com/Diogo-Serra) This was added on 03-04-2026 🐱
 
+Hi, my name is Oscar Cbzs! This was added on 04/03/2026 🎉
