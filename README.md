@@ -1802,4 +1802,13 @@ Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02
 
 Hi, my name is Minjae Kim! This was added on 10-02-2026 👾
 
-Ciao, my name is Matteo! This was added on 16-02-1026 😎
+Hi, my name is Bruna! This was added on 12/02/2026 🇧🇷 🥰
+
+Hi, my name is Sher! This was added on 13-02-2026 🌟٩(^ᗜ^ )و ´-
+
+Greetings, name is Skyy! added : 14/02/2026 😎
+
+Hi, my name is Cosunar! This was added on 15/02/2026 🥵
+
+Ciao, my name is Matteo! This was added on 16-02-2026 😎
+
