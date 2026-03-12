@@ -1837,3 +1837,5 @@ Hi, I'm [Diogo Serra!](https://github.com/Diogo-Serra) This was added on 03-04-2
 Hi, my name is Oscar Cbzs! This was added on 04/03/2026 🎉
 
 Hi, my name is Kolapo Wariz! This was added on 07-03-2026 💀
+
+Hi, my name is Edgardo aka edjozero on Github! This was added on 11-03-2026 ✌️
