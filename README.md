@@ -1838,4 +1838,24 @@ Hi, my name is Oscar Cbzs! This was added on 04/03/2026 🎉
 
 Hi, my name is Kolapo Wariz! This was added on 07-03-2026 💀
 
+Hi my name is [Paula Rodrigues](https://github.com/ipaulaa)! This was added on <code title="March 10, 2026">10-03-2026</code> 👑
+
+Hi, my name is Millie! This was added on 10-03-2026 🖤
+
+Hi, My name is Derrek! This was add on 11-03-2026 👽
+
+Hi, my name is Edgardo aka edjozero on Github! This was added on 11-03-2026 ✌️
+
+Hi, my name is Bene! This was added on 13/3/2026 🚀
+
+Hi, My name is **[Eric Okemwa](https://github.com/erokemwa)**! This was added on 13-03-2026 😎
+
+Hi, my name is [Aliya](https://github.com/aliyasyeddd) This was added on 13-03-2026 💕
+
+Hi, my name is Venkata Chamakura! This was added on 20-03-2026 🎉 
+
+Hi, my name is Krishna Goyal! This was added on 21-03-2026 🐱
+
+Konichiwa Minassaaa! Bokuwa Krishna desu! This was added on 22/03/2026. Arigato Gozaimasu Codedex Teamcat 🐈
+
 Hi, my name is Nagaraju Chittimalla! This was added on 25-03-2026 😎
