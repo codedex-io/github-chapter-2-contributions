@@ -1871,3 +1871,5 @@ Hi, my name is DF! This was added on 29/03/2026 ( ˶°ㅁ°) !!
 Hi, my name is Fernanda! This was added 30-03-2026 🫠🙃
 
 Hi, my name is Kamich! This was added on 30-03-2026 😎
+
+Hi, my name is [Kshitiz Rawat](https://github.com/Rwtchinu007) 🚀 This was added on 25-04-2026.
