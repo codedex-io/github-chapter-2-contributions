@@ -1852,7 +1852,7 @@ Hi, My name is **[Eric Okemwa](https://github.com/erokemwa)**! This was added on
 
 Hi, my name is [Aliya](https://github.com/aliyasyeddd) This was added on 13-03-2026 💕
 
-Hi, my name is Venkata Chamakura! This was added on 20-03-2026 🎉 
+Hi, my name is Venkata Chamakura! This was added on 20-03-2026 🎉
 
 Hi, my name is Krishna Goyal! This was added on 21-03-2026 🐱
 
@@ -1861,5 +1861,33 @@ Konichiwa Minassaaa! Bokuwa Krishna desu! This was added on 22/03/2026. Arigato 
 Hi, my name is Nagaraju Chittimalla! This was added on 25-03-2026 😎
 
 Hi, my name is Karam! This was added on 26-03-2026 🖖
+
+Hi, my name is ash! This was added on 26-03-2026 😎
+
+Hi, my name is Abhi! This was added on 29-03-2026 🚀
+
+Hi, my name is DF! This was added on 29/03/2026 ( ˶°ㅁ°) !!
+
+Hi, my name is Fernanda! This was added 30-03-2026 🫠🙃
+
+Hi, my name is Kamich! This was added on 30-03-2026 😎
+
+Hi, my name is Matt! This was added on 31-03-2026 👾
+
+Hi, my name is Clara! This was added on 03-04-2026 :)
+
+Hi, my name is [Jalal](https://github.com/jalal-developers)! This was added on 03-04-2026 🚀
+
+Hi, my name is **[Yugam](https://github.com/yugam23)**! This was added on 06-04-2026 😎
+
+Hi my name is Marko! This was added on 06.04.2026 :)
+
+Hello~, my name is Eglė! This was added on 07-04-2026 👁️👄👁️💅
+
+Hi, my name is Robert! This was added on 08.04.2026 🚀
+
+Hi, my name is Abdelhady! This was added on 08/04/2026 🔥
+
+Hi, my name is bora! This was added on 10-04-2026 😀
 
 Hi, my name is [Allah Dino Uzair](https://github.com/uzairsolangi)! This was added on 10-04-2026 🐱
