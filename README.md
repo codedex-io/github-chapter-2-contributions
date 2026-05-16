@@ -1852,7 +1852,7 @@ Hi, My name is **[Eric Okemwa](https://github.com/erokemwa)**! This was added on
 
 Hi, my name is [Aliya](https://github.com/aliyasyeddd) This was added on 13-03-2026 💕
 
-Hi, my name is Venkata Chamakura! This was added on 20-03-2026 🎉 
+Hi, my name is Venkata Chamakura! This was added on 20-03-2026 🎉
 
 Hi, my name is Krishna Goyal! This was added on 21-03-2026 🐱
 
@@ -1881,3 +1881,5 @@ Hi, my name is [Jalal](https://github.com/jalal-developers)! This was added on 0
 Hi, my name is **[Yugam](https://github.com/yugam23)**! This was added on 06-04-2026 😎
 
 Hi my name is Marko! This was added on 06.04.2026 :)
+
+Hello~, my name is Eglė! This was added on 07-04-2026 👁️👄👁️💅
