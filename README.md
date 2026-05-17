@@ -1852,7 +1852,7 @@ Hi, My name is **[Eric Okemwa](https://github.com/erokemwa)**! This was added on
 
 Hi, my name is [Aliya](https://github.com/aliyasyeddd) This was added on 13-03-2026 💕
 
-Hi, my name is Venkata Chamakura! This was added on 20-03-2026 🎉 
+Hi, my name is Venkata Chamakura! This was added on 20-03-2026 🎉
 
 Hi, my name is Krishna Goyal! This was added on 21-03-2026 🐱
 
@@ -1872,4 +1872,60 @@ Hi, my name is Fernanda! This was added 30-03-2026 🫠🙃
 
 Hi, my name is Kamich! This was added on 30-03-2026 😎
 
-Hi, my name is huQ! This was added on 13.05.2025 in Sweden! Greetings
+Hi, my name is Matt! This was added on 31-03-2026 👾
+
+Hi, my name is Clara! This was added on 03-04-2026 :)
+
+Hi, my name is [Jalal](https://github.com/jalal-developers)! This was added on 03-04-2026 🚀
+
+Hi, my name is **[Yugam](https://github.com/yugam23)**! This was added on 06-04-2026 😎
+
+Hi my name is Marko! This was added on 06.04.2026 :)
+
+Hello~, my name is Eglė! This was added on 07-04-2026 👁️👄👁️💅
+
+Hi, my name is Robert! This was added on 08.04.2026 🚀
+
+Hi, my name is Abdelhady! This was added on 08/04/2026 🔥
+
+Hi, my name is bora! This was added on 10-04-2026 😀
+
+Hi, my name is [Allah Dino Uzair](https://github.com/uzairsolangi)! This was added on 10-04-2026 🐱
+
+Hi, my name is Rishabh! This was added on 12/04/2026 😎🖖✌️
+
+Hi, my name is Mark! This was added on 12-04-2026 :)
+
+Hi, my name is JC! This was added on 13-04-2026 ✨
+
+Hi, my name is vikash! This was added on <14-04-2026> <🚀😁>
+
+Hi, my name is Tiberias! This was added on 18-04-2026 🗿
+
+Hi, my name is Jess! This was added on 22-04-2026 🐈
+
+Hi, my name is Oshin! This was added on 23-04-2026 🐱
+
+Hi, my name is Monique! This was added 24-04-2026 🎨
+
+Hi, my name is [Kshitiz Rawat](https://github.com/Rwtchinu007) 🚀 This was added on 25-04-2026.
+
+Hi, my name is João! This was added on 27-04-2026 🦑
+
+Hi, my name is [COOLman](https://github.com/COOLmanYT)! This was added on 28-04-2026 😎😎😎
+
+Hi, Jishnu is here! This was added on 28-04-2026❤️‍🔥😎
+
+Hi, my name is Muhammad Abdullah! This was added on 30-04-2026 🇵🇰
+
+Hi, my name is **[Adam](https://bux1k.dev)**! This was added on 07/05/2026 👑
+
+Hi, my name is Miguel! This was added on 08-05-2026 😎
+
+Hi, my name is Roberto! This was added on 08-05-2026 😎
+
+Hi, my name is Carlos Ortiz! This was added on 08-05-2026 👽
+
+Hi, my name is Wenbo! This was added on 12-05-2026 hehehehe 😎
+
+Hi, my name is huQ! This was added on 13.05.2025 in Sweden! Greetings 🇸🇪
