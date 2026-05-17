@@ -1909,3 +1909,5 @@ Hi, my name is Oshin! This was added on 23-04-2026 🐱
 Hi, my name is Monique! This was added 24-04-2026 🎨
 
 Hi, my name is [Kshitiz Rawat](https://github.com/Rwtchinu007) 🚀 This was added on 25-04-2026.
+
+Hi, my name is João! This was added on 27-04-2026 🦑
