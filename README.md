@@ -1933,3 +1933,5 @@ Hi, my name is huQ! This was added on 13.05.2025 in Sweden! Greetings 🇸🇪
 Hi my name is Tennyson! This was added on 30-05-14 ✌️💀
 
 Hi, my name is Sreekripa V.P😎🥰😭🤡 This was added on 15-05-2026 🎇🧨
+
+Hi, my name is |Kartik Sejwal|(https://github.com/KartikSejwal)!!. This was added on 28-05-2026 😎✌️
