@@ -1934,4 +1934,18 @@ Hi my name is Tennyson! This was added on 30-05-14 ✌️💀
 
 Hi, my name is Sreekripa V.P😎🥰😭🤡 This was added on 15-05-2026 🎇🧨
 
+Hi, my name is [damazi](https://github.com/damazi1)! This was added on 19-05-2026 😎🎉
+
+Hi, my name is B Karbalai 🏎️🏁 This was added on 20-05-2026🏎️🥇
+
+Hi! Ramon here. This was added on 20 May 2026. 💛
+
+Hi, my name is Sara! This was added on 20-05-2026 🌙🐈
+
+Hi, my name is Kolbee! This was added on 25-05-2026💰
+
+Hi, my name is Marvin M.! This was added on 27-05-2026 🫪
+
+Hi, my name is felipeg-dev! This was added on 27-05-2026 👌
+
 Hi, my name is |Kartik Sejwal|(https://github.com/KartikSejwal)!!. This was added on 28-05-2026 😎✌️
