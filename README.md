@@ -1955,5 +1955,3 @@ Hi. my name is NyxCleo This was added on 28-05-2026🙂‍↕️🙂‍↔️�
 Hi, my name is Mohammed😎 This was added on 01-06-2026 🎇🧨
 
 Hi, my name is **[sabbir](https://sabbir.cc)**! This was added on 05/06/2026 
-
-Hi, my name is Iris! This was added on 17-06-2026
