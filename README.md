@@ -20,7 +20,7 @@ Hi! Thien was here ^\_^! Mar 16th 2024 💖
 
 Hi, my name is David! This was added on 14-03-2024 🎉
 
-hey, my name is kyria ! this was added on 14/03/2024 :smile:
+hey, my name is kyria ! this was added on 14/03/2024 😄
 
 Hi! My name is aqu4riu-S! This was added on 13/03/2024 😊
 
@@ -130,7 +130,7 @@ Hi, my name is Fredrik! This was added on 24-03-2024 :) Swag :)
 
 Hi, my name is Iamrushabhshahh! This was added on 05-03-2024 ❤️
 
-Hi, my name is Lukas! This was added on <02-04-2024> :smile:
+Hi, my name is Lukas! This was added on <02-04-2024> 😄
 
 Hi, my name is He-who-must-not-be-named! This was added on 28-03-2024 🪄 👑
 
@@ -284,7 +284,7 @@ Hi, my name is Zulfa! This was added on 14th of June, 2024. 🐈🦈
 
 Hi! Mini was here! 6/14/2024 👋
 
-Hi, my name is <tristan>! This was added on <14-06-24> <✨🎮✨>
+Hi, my name is `<tristan>`! This was added on <14-06-24> <✨🎮✨>
 
 Hi, my name is Erald! This was added on 17-06-24 🇦🇱🇦🇱🇦🇱
 
@@ -838,7 +838,7 @@ Hi, my name is Poom. This was added on 2/5/2025. 🌸😁
 
 Hi! This is Satvik. Exercise attempted on 03/05/2025 🫡
 
-Hi! Nia is here!!! This was added on 04 May 2025 :sleepy:
+Hi! Nia is here!!! This was added on 04 May 2025 😪
 
 Hi, my name is Zahra! This was added on 04-05-2025 .😊
 
@@ -1340,7 +1340,7 @@ Hayy, my name is ngenglala, This was addend on 12-09-2025 ( ^-^ )
 
 Hi, my name is Nitin! This was added on 12-09-2025 🥴
 
-Hi, my name is Mackenzie! This was added on 12/09/2025 👨🏻‍💻``<!-- Apple-only symbol -->
+Hi, my name is Mackenzie! This was added on 12/09/2025 👨🏻‍💻`<!-- Apple-only symbol -->`
 
 Hi, my name is Carl! This was added on 13-09-2025 🫠
 
@@ -1568,7 +1568,7 @@ Hi, my name is Angel This was added on 11-14-2025 ♥️
 
 Hi, my name is Esteban Santiago! This was added on 16/11/2025 😉
 
-Hi, my name is Jo! This was added on 16-11-2025 🐻​
+Hi, my name is Jo! This was added on 16-11-2025 🐻
 
 Hi! My name is Rishi. This was added on 18-11-2025. 😎
 
@@ -1712,7 +1712,7 @@ Hi, my name is Lunelys! This was added on 07-01-2026 🐇
 
 Hi, my name is Maria! This was added on 08/01/2026 🪻
 
-Hi, my name is Chii! This was added on 08-01-2026 <cat-emoji-lol>
+Hi, my name is Chii! This was added on 08-01-2026 `<cat-emoji-lol>`
 
 Hi, Bigmaq21 here! This was added on 08/01/2026 🔥
 
@@ -1798,7 +1798,7 @@ Hi, my name is Zain! This was added on <10-02-2026> 😎
 
 Hi, my name is **[Amarbayar](https://github.com/Akeno-exe)**! This was added on 09-02-2026 :3
 
-Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02/2026 💕​
+Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02/2026 💕
 
 Hi, my name is Minjae Kim! This was added on 10-02-2026 👾
 
@@ -1838,7 +1838,7 @@ Hi, my name is Oscar Cbzs! This was added on 04/03/2026 🎉
 
 Hi, my name is Kolapo Wariz! This was added on 07-03-2026 💀
 
-Hi my name is [Paula Rodrigues](https://github.com/ipaulaa)! This was added on <code title="March 10, 2026">10-03-2026</code> 👑
+Hi my name is [Paula Rodrigues](https://github.com/ipaulaa)! This was added on `<code title="March 10, 2026">`10-03-2026`</code>` 👑
 
 Hi, my name is Millie! This was added on 10-03-2026 🖤
 
@@ -1954,4 +1954,6 @@ Hi. my name is NyxCleo This was added on 28-05-2026🙂‍↕️🙂‍↔️�
 
 Hi, my name is Mohammed😎 This was added on 01-06-2026 🎇🧨
 
-Hi, my name is **[sabbir](https://sabbir.cc)**! This was added on 05/06/2026 
+Hi, my name is **[sabbir](https://sabbir.cc)**! This was added on 05/06/2026
+
+Hi, my name is Honza! This was added on 17-06-2026😎
