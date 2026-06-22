@@ -1954,7 +1954,7 @@ Hi. my name is NyxCleo This was added on 28-05-2026🙂‍↕️🙂‍↔️�
 
 Hi, my name is Mohammed😎 This was added on 01-06-2026 🎇🧨
 
-Hi, my name is **[sabbir](https://sabbir.cc)**! This was added on 05/06/2026 😎
+Hi, my name is **[ir](https://sabbir.cc)**! This was added on 05/06/2026 😎
 
 Hi, my name is Adrian! This was added on 06/05/2026 😀
 
@@ -1977,3 +1977,5 @@ Hi, my name is [Bhavesh](https://github.com/BhaveshPathak125)! This was added on
 Hi, my name is Kezia M.P! This was added on 14-06-2026 😛
 
 Hi, my name is **[Norvix](https://norvix.me)**! This was added on 06/14/2026 😎
+
+Hi, my name is **[srihari](https://github.com/srihari-codes)**! This was added on 16/06/2026 😎
