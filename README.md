@@ -284,7 +284,7 @@ Hi, my name is Zulfa! This was added on 14th of June, 2024. 🐈🦈
 
 Hi! Mini was here! 6/14/2024 👋
 
-Hi, my name is <tristan>! This was added on <14-06-24> <✨🎮✨>
+Hi, my name is \<tristan\>! This was added on <14-06-24> <✨🎮✨>
 
 Hi, my name is Erald! This was added on 17-06-24 🇦🇱🇦🇱🇦🇱
 
@@ -1568,7 +1568,7 @@ Hi, my name is Angel This was added on 11-14-2025 ♥️
 
 Hi, my name is Esteban Santiago! This was added on 16/11/2025 😉
 
-Hi, my name is Jo! This was added on 16-11-2025 🐻​
+Hi, my name is Jo! This was added on 16-11-2025 🐻
 
 Hi! My name is Rishi. This was added on 18-11-2025. 😎
 
@@ -1712,7 +1712,7 @@ Hi, my name is Lunelys! This was added on 07-01-2026 🐇
 
 Hi, my name is Maria! This was added on 08/01/2026 🪻
 
-Hi, my name is Chii! This was added on 08-01-2026 <cat-emoji-lol>
+Hi, my name is Chii! This was added on 08-01-2026 \<cat-emoji-lol\>
 
 Hi, Bigmaq21 here! This was added on 08/01/2026 🔥
 
@@ -1798,7 +1798,7 @@ Hi, my name is Zain! This was added on <10-02-2026> 😎
 
 Hi, my name is **[Amarbayar](https://github.com/Akeno-exe)**! This was added on 09-02-2026 :3
 
-Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02/2026 💕​
+Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02/2026 💕
 
 Hi, my name is Minjae Kim! This was added on 10-02-2026 👾
 
@@ -1979,3 +1979,5 @@ Hi, my name is Kezia M.P! This was added on 14-06-2026 😛
 Hi, my name is **[Norvix](https://norvix.me)**! This was added on 06/14/2026 😎
 
 Hi, my name is **[srihari](https://github.com/srihari-codes)**! This was added on 16/06/2026 😎
+
+Hi, my name is Honza! This was added on 17-06-2026😎
