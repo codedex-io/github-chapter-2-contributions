@@ -1973,6 +1973,7 @@ Hi, my name is  **[baraamallah]((https://github.com/baraamallah))**!  This was a
 Hi, my name is Trae! This was added 6-13-2026. 🌙
 
 Hi, my name is [Bhavesh](https://github.com/BhaveshPathak125)! This was added on 13/06/2026 🦾🗿🔥
-Hi, my name is **[sabbir](https://sabbir.cc)**! This was added on 05/06/2026 
 
 Hi, my name is Kezia M.P! This was added on 14-06-2026 😛
+
+Hi, my name is **[Norvix](https://norvix.me)**! This was added on 06/14/2026 😎
