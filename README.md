@@ -284,7 +284,7 @@ Hi, my name is Zulfa! This was added on 14th of June, 2024. 🐈🦈
 
 Hi! Mini was here! 6/14/2024 👋
 
-Hi, my name is <tristan>! This was added on <14-06-24> <✨🎮✨>
+Hi, my name is \<tristan\>! This was added on <14-06-24> <✨🎮✨>
 
 Hi, my name is Erald! This was added on 17-06-24 🇦🇱🇦🇱🇦🇱
 
@@ -1568,7 +1568,7 @@ Hi, my name is Angel This was added on 11-14-2025 ♥️
 
 Hi, my name is Esteban Santiago! This was added on 16/11/2025 😉
 
-Hi, my name is Jo! This was added on 16-11-2025 🐻​
+Hi, my name is Jo! This was added on 16-11-2025 🐻
 
 Hi! My name is Rishi. This was added on 18-11-2025. 😎
 
@@ -1712,7 +1712,7 @@ Hi, my name is Lunelys! This was added on 07-01-2026 🐇
 
 Hi, my name is Maria! This was added on 08/01/2026 🪻
 
-Hi, my name is Chii! This was added on 08-01-2026 <cat-emoji-lol>
+Hi, my name is Chii! This was added on 08-01-2026 \<cat-emoji-lol\>
 
 Hi, Bigmaq21 here! This was added on 08/01/2026 🔥
 
@@ -1798,7 +1798,7 @@ Hi, my name is Zain! This was added on <10-02-2026> 😎
 
 Hi, my name is **[Amarbayar](https://github.com/Akeno-exe)**! This was added on 09-02-2026 :3
 
-Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02/2026 💕​
+Heeeeey, I'm **[Alae!](https://github.com/Alae-Mo)** And this was added on 11/02/2026 💕
 
 Hi, my name is Minjae Kim! This was added on 10-02-2026 👾
 
@@ -1954,5 +1954,32 @@ Hi. my name is NyxCleo This was added on 28-05-2026🙂‍↕️🙂‍↔️�
 
 Hi, my name is Mohammed😎 This was added on 01-06-2026 🎇🧨
 
-Hi, my name is **[sabbir](https://sabbir.cc)**! This was added on 05/06/2026 
+Hi, my name is **[ir](https://sabbir.cc)**! This was added on 05/06/2026 😎
+
+Hi, my name is Adrian! This was added on 06/05/2026 😀
+
+Hi, my name is Arpita ! This was added on 06-06-26 🌸
+
+Hi, my name is Mirian! This was added on 08/06/2026 :D!!!🌠😎
+
+Hi, my name is **[luboskollar](https://github.com/luboskollar)** This was added on 09-06-2026 🫡
+
+Hi, my name is Pratham Garg! This was added on 11-06-2026 missyoudiya 😎
+
+Hi, my name is Pablo Alencar! this was added on 11-06-2026 🎇🧨
+
+Hi, my name is  **[baraamallah]((https://github.com/baraamallah))**!  This was added on 12-06-2026 😎
+
+Hi, my name is Trae! This was added 6-13-2026. 🌙
+
+Hi, my name is [Bhavesh](https://github.com/BhaveshPathak125)! This was added on 13/06/2026 🦾🗿🔥
+
+Hi, my name is Kezia M.P! This was added on 14-06-2026 😛
+
+Hi, my name is **[Norvix](https://norvix.me)**! This was added on 06/14/2026 😎
+
+Hi, my name is **[srihari](https://github.com/srihari-codes)**! This was added on 16/06/2026 😎
+
+Hi, my name is Honza! This was added on 17-06-2026😎
+
 Hi, my name is MaydinKanadasi! This was added on 19-06-2026 🚀
