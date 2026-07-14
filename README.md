@@ -1986,4 +1986,4 @@ Hi, my name is MaydinKanadasi! This was added on 19-06-2026 🚀
 
 Hi, my name is Han! This was added on 21-06-2026 💥👋
 
-Hi, my name is Luxie! This was added on 14-07-2026 ☕️
+Hi, my name is Lux! This was added on 14-07-2026 ☕️
