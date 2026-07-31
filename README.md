@@ -9,7 +9,7 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 ---
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
-Hi, my name is <lamiaa>! This was added on <DD-MM-YYYY> <Emoji>
+Hi, my name is jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj! This was added on 12/21/2023
 
 Hi! Ellie was here! 12/21/2023 🧸
 
