@@ -5,7 +5,6 @@
 # Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
 
 Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
-
 ---
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
@@ -1999,3 +1998,6 @@ Hi, my name is Ian! This was added on 26-06-2026 😎
 Hi, my name is Lydia! This was added on 28-06-2026 🙆‍♀️
 
 Hi, my name is Casey! This was added on 01-07-2026 😎
+
+Hi, my name is Yayo! This was added on 01-07-2026 ⚽
+
