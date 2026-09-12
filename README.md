@@ -5,7 +5,6 @@
 # Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
 
 Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
-
 ---
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
@@ -1968,7 +1967,7 @@ Hi, my name is Pratham Garg! This was added on 11-06-2026 missyoudiya 😎
 
 Hi, my name is Pablo Alencar! this was added on 11-06-2026 🎇🧨
 
-Hi, my name is  **[baraamallah]((https://github.com/baraamallah))**!  This was added on 12-06-2026 😎
+Hi, my name is **[baraamallah](<(https://github.com/baraamallah)>)**! This was added on 12-06-2026 😎
 
 Hi, my name is Trae! This was added 6-13-2026. 🌙
 
@@ -1987,5 +1986,81 @@ Hi, my name is MaydinKanadasi! This was added on 19-06-2026 🚀
 Hi, my name is Han! This was added on 21-06-2026 💥👋
 
 Hi, my name is Dori! This was added on 23-06-2026 🌷
+
+Hi, my name is dyl! This was added on 24-06-2026 ✨
+
+Hi, my name is Bibabo! This was added on 25-06-2026 🧨
+
+Hi, my name is Devika! This was added on 26-06-2026 😊
+
+Hi, my name is Ian! This was added on 26-06-2026 😎
+
+Hi, my name is Lydia! This was added on 28-06-2026 🙆‍♀️
+
+Hi, my name is Casey! This was added on 01-07-2026 😎
+
+Hi, my name is Yayo! This was added on 01-07-2026 ⚽
+
+Heey! my given name is Yasmine Boudjemline, This was added on 02-07-2026 🦋✨
+
+Hi, my name is Elizabeth! This was added on 07/4/2026 💥🎇🌸🌙💰💛
+
+Hi, my name is Gus! This was added on 04.06.2026 💌
+
+Hi, my name is Mariana Roque. GS! This was added on 05-07-2026 🌺🐚🪐
+
+Hi, my name is Diego! This was added on <05-07-2026> 🛰️
+
+Hi, my name is Unnati! This was added on 06-07-2026 😝🤭
+
+Hi, my name is Aditya! This was added on 06/07/2026 😎
+
+Hi, my name is Denis! This was added on 06-07-2026 👨‍🚀
+
+Hey, Preetam here ! Adding this on 07-07-2026 😎🚀💥💥💥
+
+Hi, my name is Shehryar! this was added on 8-7-2026 😐
+
+Hi, my name is Milu! This was added on 08-07-2026 ✝️😺
+
+Hi, my name is Neumann! This was added on 09-06-2026🧌
+
+Hi, my name is Miks! This was added on 09-07-2026 🎉
+
+Hi, my name is Alen! This was added on 11-07-26 at 4 in the morning 😪
+
+Hi, my name is Lilian! This was added on 11-07-2026 👾
+
+Hi, my name is Bene! This was added on 12-7-2026😎
+
+Hi, my name is [Ayon](https://github.com/A-S-Ayon)! This was added on 7-14-2026 👍
+
+Hi, my name is Lux! This was added on 14-07-2026 ☕️
+
+Hi, my name is **[Jordan](https://github.com/D41FTY)**! This was added on 07/15/2026 😛👽💀
+
+Hi, my name is Kungfu-cell! This was added on 18-07-2026 🥹😇
+
+Hi, my name is <udin>! This was added on <18-7-2026> <🚀>
+
+Hi, my name is Bach! This was added on 21-07-2026 🇸🇳
+
+Hi, my name is Nahuel Corsi! This was added on 22/07/2026👾
+
+Hi, Jędrek here! Added on 23-07-2026 💥
+
+Hi, my name is Aarya! This was added on 23-07-2026 🚀
+
+Hi, my name is Victor! This was added on 7-27-2026 🤩
+
+Hi, my name is Achille! This was added on 28-07-2026 🚀
+
+Hi, my name is Gatha! This was added on 31-07-2026 😊
+
+Hi, my name is jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj! This was added on 12/21/2023 🤠
+
+Hi, my name is Fabio! This was added on 02-08-2026 🫶
+
+Henlooows, my name is [Leeon](https://github.com/blubumayo)! This was added on August 4, 2026!!! 🚀
 
 Hi, my name is FrmofD This was added on 6-08-2026  🚀🚀🚀🚀🚀🚀🚀!
