@@ -1967,7 +1967,7 @@ Hi, my name is Pratham Garg! This was added on 11-06-2026 missyoudiya 😎
 
 Hi, my name is Pablo Alencar! this was added on 11-06-2026 🎇🧨
 
-Hi, my name is  **[baraamallah]((https://github.com/baraamallah))**!  This was added on 12-06-2026 😎
+Hi, my name is **[baraamallah](<(https://github.com/baraamallah)>)**! This was added on 12-06-2026 😎
 
 Hi, my name is Trae! This was added 6-13-2026. 🌙
 
@@ -1982,6 +1982,8 @@ Hi, my name is **[srihari](https://github.com/srihari-codes)**! This was added o
 Hi, my name is Honza! This was added on 17-06-2026😎
 
 Hi, my name is MaydinKanadasi! This was added on 19-06-2026 🚀
+
+Hi, my name is problemsatpeak! this was added on 06-08-2026 🌙
 
 Hi, my name is Han! This was added on 21-06-2026 💥👋
 
@@ -2018,5 +2020,99 @@ Hi, my name is Aditya! This was added on 06/07/2026 😎
 Hi, my name is Denis! This was added on 06-07-2026 👨‍🚀
 
 Hey, Preetam here ! Adding this on 07-07-2026 😎🚀💥💥💥
+
+Hi, my name is Shehryar! this was added on 8-7-2026 😐
+
+Hi, my name is Milu! This was added on 08-07-2026 ✝️😺
+
+Hi, my name is Neumann! This was added on 09-06-2026🧌
+
+Hi, my name is Miks! This was added on 09-07-2026 🎉
+
+Hi, my name is Alen! This was added on 11-07-26 at 4 in the morning 😪
+
+Hi, my name is Lilian! This was added on 11-07-2026 👾
+
+Hi, my name is Bene! This was added on 12-7-2026😎
+
+Hi, my name is [Ayon](https://github.com/A-S-Ayon)! This was added on 7-14-2026 👍
+
+Hi, my name is Lux! This was added on 14-07-2026 ☕️
+
+Hi, my name is **[Jordan](https://github.com/D41FTY)**! This was added on 07/15/2026 😛👽💀
+
+Hi, my name is Kungfu-cell! This was added on 18-07-2026 🥹😇
+
+Hi, my name is <udin>! This was added on <18-7-2026> <🚀>
+
+Hi, my name is Bach! This was added on 21-07-2026 🇸🇳
+
+Hi, my name is Nahuel Corsi! This was added on 22/07/2026👾
+
+Hi, Jędrek here! Added on 23-07-2026 💥
+
+Hi, my name is Aarya! This was added on 23-07-2026 🚀
+
+Hi, my name is Victor! This was added on 7-27-2026 🤩
+
+Hi, my name is Achille! This was added on 28-07-2026 🚀
+
+Hi, my name is Gatha! This was added on 31-07-2026 😊
+
+Hi, my name is jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj! This was added on 12/21/2023 🤠
+
+Hi, my name is Fabio! This was added on 02-08-2026 🫶
+
+Henlooows, my name is [Leeon](https://github.com/blubumayo)! This was added on August 4, 2026!!! 🚀
+
+Hi, my name is FrmofD This was added on 6-08-2026  🚀🚀🚀🚀🚀🚀🚀!
+
+Hi, my name is Jedrik! This was added on 08-08-2026 🍵
+
+Hi, my name is Raghavendra! This was added on 10-08-2026 🤟🏼
+
+Hi, my name is Marco! This was added on 23-06-2026 🤠
+
+Hi, my name is AlexD2006! This was added on 11-08-2026 🏒⚽
+
+Hi, my name is Adrián! This was added on 16/08/2026 🍂
+
+Hi! My name is Bikram khundrakpam! This was added on 19/6/2026 🎉 
+
+Hi, my name is Abdalla! this was added  18/8/2026 🫡
+
+Hi, my name is Selena! This was added on 19/08/2026 🐹
+
+Hi, my name is Chethana! This was added on 19/08/2026 😉🐯🗡️
+
+Hi, my name is Ingrid! This was added on 20/08/2026 🩵
+
+Hi, my name is Sid-byte! This was added on 22-08-2026 😉
+
+Hi, my name is Ashish! This was added on 25-08-2026 🚀
+
+Hi, name is Roshan! This was added on 25/08/2026. 😎
+
+Hi, my name is Artem! This was added on 25/08/2026 😎🤫
+
+hi, my name is Kim! This was added on 22-08-2026 ✨🌻
+
+Hi, my name is Demid! This was added on 27/08/2026 🤩😶‍🌫️
+
+Hi, my name is Bucky! This was added on 27/07/2026 🦫
+
+Hi, my name is Hekaro! This was added on 28/8/2026 🪐🛰️🌙
+
+Hi, my name is Majed! This was added on 28.08.2026 🎉
+
+HI, my name is Archie! This was added on 01/09/2026 😎✌️
+
+Hello there, I'm Luan Gabriel! This was added on 02/09/2026 👾
+
+Hello, my name is Shann! This was added on 9-6-2026 <3 🎉
+
+Hi, my name is Denny! This was added on 04-09-2026 🫡
+
+Hi, my name is XU! This was added on 06-09-2026 😊
 
 Hey! Sebastian here! Added this on 07.09.2026 🌍🐢
