@@ -12,7 +12,6 @@ Add your name, today's date, and emoji of choice, and create a pull request to s
 Hi! Ellie was here! 12/21/2023 🧸
 
 <!--  Ellie is the first entry 🥳  -->
-Hi! My name is Bikram khundrakpam! This was added on 19/6/2026 🎉 
 
 Hi! Sebastian here. This was added on 16 March 2024. 💛
 
@@ -2015,3 +2014,5 @@ Hi, my name is Diego! This was added on <05-07-2026> 🛰️
 Hi, my name is Unnati! This was added on 06-07-2026 😝🤭
 
 Hi, my name is Aditya! This was added on 06/07/2026 😎
+
+Hi! My name is Bikram khundrakpam! This was added on 19/6/2026 🎉 
