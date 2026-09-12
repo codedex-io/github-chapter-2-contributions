@@ -5,7 +5,6 @@
 # Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
 
 Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
-
 ---
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
@@ -1985,5 +1984,57 @@ Hi, my name is Honza! This was added on 17-06-2026😎
 Hi, my name is MaydinKanadasi! This was added on 19-06-2026 🚀
 
 Hi, my name is Han! This was added on 21-06-2026 💥👋
+
+Hi, my name is Dori! This was added on 23-06-2026 🌷
+
+Hi, my name is dyl! This was added on 24-06-2026 ✨
+
+Hi, my name is Bibabo! This was added on 25-06-2026 🧨
+
+Hi, my name is Devika! This was added on 26-06-2026 😊
+
+Hi, my name is Ian! This was added on 26-06-2026 😎
+
+Hi, my name is Lydia! This was added on 28-06-2026 🙆‍♀️
+
+Hi, my name is Casey! This was added on 01-07-2026 😎
+
+Hi, my name is Yayo! This was added on 01-07-2026 ⚽
+
+Heey! my given name is Yasmine Boudjemline, This was added on 02-07-2026 🦋✨
+
+Hi, my name is Elizabeth! This was added on 07/4/2026 💥🎇🌸🌙💰💛
+
+Hi, my name is Gus! This was added on 04.06.2026 💌
+
+Hi, my name is Mariana Roque. GS! This was added on 05-07-2026 🌺🐚🪐
+
+Hi, my name is Diego! This was added on <05-07-2026> 🛰️
+
+Hi, my name is Unnati! This was added on 06-07-2026 😝🤭
+
+Hi, my name is Aditya! This was added on 06/07/2026 😎
+
+Hi, my name is Denis! This was added on 06-07-2026 👨‍🚀
+
+Hey, Preetam here ! Adding this on 07-07-2026 😎🚀💥💥💥
+
+Hi, my name is Shehryar! this was added on 8-7-2026 😐
+
+Hi, my name is Milu! This was added on 08-07-2026 ✝️😺
+
+Hi, my name is Neumann! This was added on 09-06-2026🧌
+
+Hi, my name is Miks! This was added on 09-07-2026 🎉
+
+Hi, my name is Alen! This was added on 11-07-26 at 4 in the morning 😪
+
+Hi, my name is Lilian! This was added on 11-07-2026 👾
+
+Hi, my name is Bene! This was added on 12-7-2026😎
+
+Hi, my name is [Ayon](https://github.com/A-S-Ayon)! This was added on 7-14-2026 👍
+
+Hi, my name is Lux! This was added on 14-07-2026 ☕️
 
 Hi, my name is **[Jordan](https://github.com/D41FTY)**! This was added on 07/15/2026 😛👽💀
