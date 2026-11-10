@@ -4,8 +4,7 @@
 
 # Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
 
-Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
----
+## Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
 
@@ -2065,7 +2064,7 @@ Hi, my name is Fabio! This was added on 02-08-2026 🫶
 
 Henlooows, my name is [Leeon](https://github.com/blubumayo)! This was added on August 4, 2026!!! 🚀
 
-Hi, my name is FrmofD This was added on 6-08-2026  🚀🚀🚀🚀🚀🚀🚀!
+Hi, my name is FrmofD This was added on 6-08-2026 🚀🚀🚀🚀🚀🚀🚀!
 
 Hi, my name is Jedrik! This was added on 08-08-2026 🍵
 
@@ -2077,9 +2076,9 @@ Hi, my name is AlexD2006! This was added on 11-08-2026 🏒⚽
 
 Hi, my name is Adrián! This was added on 16/08/2026 🍂
 
-Hi! My name is Bikram khundrakpam! This was added on 19/6/2026 🎉 
+Hi! My name is Bikram khundrakpam! This was added on 19/6/2026 🎉
 
-Hi, my name is Abdalla! this was added  18/8/2026 🫡
+Hi, my name is Abdalla! this was added 18/8/2026 🫡
 
 Hi, my name is Selena! This was added on 19/08/2026 🐹
 
@@ -2144,3 +2143,5 @@ Hi, my name is thach ! This was added on <25/09/2026> 😄
 Hi, my name is DucAnh! This was added on 25-09-2026 :DD 🐧🐧🥀🥀
 
 Hi, my name is Alexander! This was added on 26-09-2026 ✌️
+
+Hello! My name is Adil! This was added on 28.09.2026 🦉
