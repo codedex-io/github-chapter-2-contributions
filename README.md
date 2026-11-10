@@ -4,8 +4,7 @@
 
 # Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
 
-Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
----
+## Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
 
 <!--  Be sure to add your contribution to the bottom of the page!  -->
 
@@ -2065,7 +2064,7 @@ Hi, my name is Fabio! This was added on 02-08-2026 🫶
 
 Henlooows, my name is [Leeon](https://github.com/blubumayo)! This was added on August 4, 2026!!! 🚀
 
-Hi, my name is FrmofD This was added on 6-08-2026  🚀🚀🚀🚀🚀🚀🚀!
+Hi, my name is FrmofD This was added on 6-08-2026 🚀🚀🚀🚀🚀🚀🚀!
 
 Hi, my name is Jedrik! This was added on 08-08-2026 🍵
 
@@ -2077,9 +2076,9 @@ Hi, my name is AlexD2006! This was added on 11-08-2026 🏒⚽
 
 Hi, my name is Adrián! This was added on 16/08/2026 🍂
 
-Hi! My name is Bikram khundrakpam! This was added on 19/6/2026 🎉 
+Hi! My name is Bikram khundrakpam! This was added on 19/6/2026 🎉
 
-Hi, my name is Abdalla! this was added  18/8/2026 🫡
+Hi, my name is Abdalla! this was added 18/8/2026 🫡
 
 Hi, my name is Selena! This was added on 19/08/2026 🐹
 
@@ -2122,3 +2121,41 @@ Hi, my name is MADING JORDAN ZUNG YING! SUPER INSPIRING!!! This was added on 11-
 Hey, my name is Marcos! This was added on 11-09-2026 🧑‍💻🧠🏆📈💎
 
 Hi, my name is Ole! This was added on 11.09.2026 👻
+                                                       
+Hey, my name is Revskyes! This was added on 12-09-2026 🏎️🏎️🏎️
+
+You barley scraped the base of the mountain still a long way to go,Eduard, Eduard Stoica is the name.Added on 13.09.2026🧗🏻
+
+Hi, my name is Oliwier! This was added on 16-09-2026 😶‍🌫️
+
+Hi, my name is sttektpa! This was added on 17-09-2026 🥰
+
+Hey, my name is Leo! This was added on 20-09-2026!! 😎
+
+Hi, my name is redd! This was added on 21-09-2026 <3<3!!
+
+Hi, my name is *Nanda Kishor*! This was added on 22-09-2026 ☠️💀
+
+Hi , my name is ahmed ! this was added on 23-09-2026 ❤️
+
+Hi, my name is Ricky Tan! This was added on 24-09-2026 😎🍀✨💜
+
+Hi, my name is thach ! This was added on <25/09/2026> 😄
+
+Hi, my name is DucAnh! This was added on 25-09-2026 :DD 🐧🐧🥀🥀
+
+Hi, my name is Alexander! This was added on 26-09-2026 ✌️
+
+Hello! My name is Adil! This was added on 28.09.2026 🦉
+
+Hi, my name is JackMarsoedi! This was added on 01-10-2026 🧑‍💻
+
+Hi, my name is Adem! This was added 02-10-2026. 😊
+
+Hey, my name is Dippan Dippan, a passionate developer. This was added on 03-October-2026 😎
+
+Hi! Adam was here! 4-10-2026 🤖
+
+Hiii, my name is Viola! This is added on 05/10/2026 🧑‍💻💖
+
+Hey, my name is Luca! This was added on 10-07-2026! 😎😉
