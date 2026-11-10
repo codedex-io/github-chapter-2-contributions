@@ -88,7 +88,7 @@ Hi, my name is Vansh! This was added on 02/03/2024 🎉
 
 Hi! My name is Xueyao! This was added on 03-03-2024 💕
 
-Hey, this is Adricoque here on 03/03/2024
+Hey, this is Adricoque here on 03/03/2024 😎
 
 Hi, my name is Edgar! This was added on 03-03-2024 🚀
 
@@ -384,7 +384,7 @@ Hi, owljacob is in! This was added on 28-07-2024 🦉
 
 Hi, my name is Adel! This was added on 29-7-2024 🤓🤙
 
-Hi, my name is Hanna! This was added on 7/30/2024!
+Hi, my name is Hanna! This was added on 7/30/2024! 😎
 
 Hi, my name is Devesh, This is added on 30-07-2024 🕉️🕉️🕉️
 
@@ -514,7 +514,7 @@ Hey there everyone, myself Pratik Chandra thakur added on 24/10/2024 🖥️👨
 
 HI! My name is Max! This was added on 26/10/2024 🧊
 
-Hi Every one, my name is G.Ganesh....!This was added on 27-10-2024!
+Hi Every one, my name is G.Ganesh....!This was added on 27-10-2024! 😎
 
 Hi, my name is Keith! This was added on 27/10/2024 ✌️
 
@@ -1334,7 +1334,7 @@ Hi, my name is Vanessa! This was added on 10-09-2025 🥳🌱😍👩‍💻
 
 Hi, my name is Munazza! This was added on 11-09-2025 🙌🎉
 
-Hayy, my name is ngenglala, This was addend on 12-09-2025 ( ^-^ )
+Hayy, my name is ngenglala, This was added on 12-09-2025 ( ^-^ )
 
 Hi, my name is Nitin! This was added on 12-09-2025 🥴
 
@@ -1576,7 +1576,7 @@ Hi, my name is Leslie! This was added on 11-18-2025 ☕️
 
 Hi, my name is Juan Galvez! This was added on 18-11-2025 ✨📈
 
-Hi, this is Lex and this was added on Nov 19 2025!
+Hi, this is Lex and this was added on Nov 19 2025! 😎
 
 Hi, my name is Konstantina! This was added on 20-11-2025 💕
 
@@ -2122,7 +2122,7 @@ Hey, my name is Marcos! This was added on 11-09-2026 🧑‍💻🧠🏆📈💎
 
 Hey, my name is Revskyes! This was added on 12-09-2026 🏎️🏎️🏎️
 
-You barley scraped the base of the mountain still a long way to go,Eduard, Eduard Stoica is the name.Added on 13.09.2026🧗🏻
+You barely scraped the base of the mountain, still a long way to go. Eduard, Eduard Stoica is the name. Added on 13.09.2026 🧗🏻
 
 Hi, my name is Oliwier! This was added on 16-09-2026 😶‍🌫️
 
